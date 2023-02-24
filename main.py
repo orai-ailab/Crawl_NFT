@@ -87,4 +87,6 @@ def main():
                     continue
                 transaction_ERC_721.append(obj)
 
+main()
+
     
