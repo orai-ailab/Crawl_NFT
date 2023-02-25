@@ -23,6 +23,7 @@ def call_requests_api_etherscan(start_block,end_block):
                     "apikey" : API_KEY_ETHERSCAN
             }
     result = requests.get(url=urlAPI,params=params).json()
+    
     return result
 
 def main():
