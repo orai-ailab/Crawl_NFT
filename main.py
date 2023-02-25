@@ -35,7 +35,7 @@ def main():
         if result['status'] == '0':
             transaction_number = 0
             transaction_ERC_721 = []
-            print('-------------------------------------')
+            
             print('Block: '+str(start_block)+' to '+str(start_block+step_block)+'\nSố lượng transaction: '+str(transaction_number))
             print('Step block: '+str(step_block))
             print('Số lượng transaction ERC-721: '+str(len(transaction_ERC_721)))
