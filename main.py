@@ -25,6 +25,7 @@ def call_requests_api_etherscan(start_block,end_block):
     result = requests.get(url=urlAPI,params=params).json()
     print('-------------------------------------')
     print('Block: '+str(start_block)+' To '+str(end_block))
+    print('Step block: '+str(start_block-end_block))
     return result
 
 def main():
@@ -34,24 +35,30 @@ def main():
     result = call_requests_api_etherscan(start_block=start_block,end_block=start_block+step_block)
     for i in range(50):
         if result['status'] == '0':
-            transaction_number = 0
+            transaction_number = []
             transaction_ERC_721 = []
-            
-            
-            print('Step block: '+str(step_block))
+            print('Số lượng transaction: '+str(len(transaction_number)))
             print('Số lượng transaction ERC-721: '+str(len(transaction_ERC_721)))
-            
+            print('-------------------------------------\n')
 
             start_block += step_block
             step_block *=2
             result = call_requests_api_etherscan(start_block=start_block,end_block=start_block+step_block)
         else:
+            # Total transaction
             transaction_number = len(result['result'])
-
+            
+            
+            # Filter transaction ERC 721
+            transaction_ERC_721 = []
+            for obj in result['result']:
+                if len(obj['topics']) != 4:
+                    continue
+                transaction_ERC_721.append(obj)
+                
+            
             if transaction_number <= 4000:
-                print('-------------------------------------')
-                print('Block: '+str(start_block)+' to '+str(start_block+step_block)+'\nSố lượng transaction: '+str(transaction_number))
-                print('Step block: '+str(step_block))
+                print('Số lượng transaction: '+str(len(transaction_number)))
                 print('Số lượng transaction ERC-721: '+str(len(transaction_ERC_721)))
                 print('-------------------------------------\n')
 
@@ -62,18 +69,14 @@ def main():
 
 
             if transaction_number == 10000:
-                print('-------------------------------------')
-                print('Block: '+str(start_block)+' to '+str(start_block+step_block)+'\nSố lượng transaction: '+str(transaction_number))
-                print('Step block: '+str(step_block))
+                print('Số lượng transaction: '+str(len(transaction_number)))
                 print('Số lượng transaction ERC-721: '+str(len(transaction_ERC_721)))
                 print('-------------------------------------\n')
 
                 step_block = int(step_block/2)
                 result = call_requests_api_etherscan(start_block=start_block,end_block=start_block+step_block)
             else:
-                print('-------------------------------------')
-                print('Block: '+str(start_block)+' to '+str(start_block+step_block)+'\nSố lượng transaction: '+str(transaction_number))
-                print('Step block: '+str(step_block))
+                print('Số lượng transaction: '+str(len(transaction_number)))
                 print('Số lượng transaction ERC-721: '+str(len(transaction_ERC_721)))
                 print('-------------------------------------\n')
 
@@ -82,11 +85,7 @@ def main():
                 result = call_requests_api_etherscan(start_block=start_block,end_block=start_block+step_block)
             
 
-            transaction_ERC_721 = []
-            for obj in result['result']:
-                if len(obj['topics']) != 4:
-                    continue
-                transaction_ERC_721.append(obj)
+            
 
 main()
 
