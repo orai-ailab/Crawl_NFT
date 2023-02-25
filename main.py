@@ -23,13 +23,13 @@ def call_requests_api_etherscan(start_block,end_block):
                     "apikey" : API_KEY_ETHERSCAN
             }
     result = requests.get(url=urlAPI,params=params).json()
-    
+    print('-------------------------------------')
+    print('Block: '+str(start_block)+' To '+str(end_block))
     return result
 
 def main():
     start_block = 1
     step_block = 1
-
 
     result = call_requests_api_etherscan(start_block=start_block,end_block=start_block+step_block)
     for i in range(50):
@@ -37,10 +37,10 @@ def main():
             transaction_number = 0
             transaction_ERC_721 = []
             
-            print('Block: '+str(start_block)+' to '+str(start_block+step_block)+'\nSố lượng transaction: '+str(transaction_number))
+            
             print('Step block: '+str(step_block))
             print('Số lượng transaction ERC-721: '+str(len(transaction_ERC_721)))
-            print('-------------------------------------\n')
+            
 
             start_block += step_block
             step_block *=2
