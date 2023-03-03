@@ -9,11 +9,11 @@ import pymongo
 import certifi
 
 # Cấu hình logging cho ứng dụng của bạn
-logging.basicConfig(filename='example.log', level=logging.DEBUG)
+logging.basicConfig(filename='info.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
 # Tạo một đối tượng handler để ghi tiếp vào file log
-handler = logging.FileHandler('example.log')
-handler.setLevel(logging.DEBUG)
+handler = logging.FileHandler('info.log')
+handler.setLevel(logging.INFO)
 
 # Thêm handler vào logger
 logger = logging.getLogger()

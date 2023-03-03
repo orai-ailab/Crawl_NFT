@@ -1,0 +1,1526 @@
+2023-03-03 06:37:24,261,261 root INFO Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:25,162,162 root INFO Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:26,068,68 root INFO Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:26,972,972 root INFO Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:27,879,879 root INFO Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:28,788,788 root INFO Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:29,697,697 root INFO Block: 64 To 128, Step block: 64, Total transaction: 0, Transaction ERC-721: 0
+Block: 64 To 128, Step block: 64, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:30,600,600 root INFO Block: 128 To 256, Step block: 128, Total transaction: 0, Transaction ERC-721: 0
+Block: 128 To 256, Step block: 128, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:31,502,502 root INFO Block: 256 To 512, Step block: 256, Total transaction: 0, Transaction ERC-721: 0
+Block: 256 To 512, Step block: 256, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:32,407,407 root INFO Block: 512 To 1024, Step block: 512, Total transaction: 0, Transaction ERC-721: 0
+Block: 512 To 1024, Step block: 512, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:33,319,319 root INFO Block: 1024 To 2048, Step block: 1024, Total transaction: 0, Transaction ERC-721: 0
+Block: 1024 To 2048, Step block: 1024, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:34,221,221 root INFO Block: 2048 To 4096, Step block: 2048, Total transaction: 0, Transaction ERC-721: 0
+Block: 2048 To 4096, Step block: 2048, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:36,142,142 root INFO Block: 4096 To 8192, Step block: 4096, Total transaction: 0, Transaction ERC-721: 0
+Block: 4096 To 8192, Step block: 4096, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:37,046,46 root INFO Block: 8192 To 16384, Step block: 8192, Total transaction: 0, Transaction ERC-721: 0
+Block: 8192 To 16384, Step block: 8192, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:37,948,948 root INFO Block: 16384 To 32768, Step block: 16384, Total transaction: 0, Transaction ERC-721: 0
+Block: 16384 To 32768, Step block: 16384, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:38,854,854 root INFO Block: 32768 To 65536, Step block: 32768, Total transaction: 0, Transaction ERC-721: 0
+Block: 32768 To 65536, Step block: 32768, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:39,761,761 root INFO Block: 65536 To 131072, Step block: 65536, Total transaction: 0, Transaction ERC-721: 0
+Block: 65536 To 131072, Step block: 65536, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:40,679,679 root INFO Block: 131072 To 262144, Step block: 131072, Total transaction: 0, Transaction ERC-721: 0
+Block: 131072 To 262144, Step block: 131072, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:41,580,580 root INFO Block: 262144 To 524288, Step block: 262144, Total transaction: 0, Transaction ERC-721: 0
+Block: 262144 To 524288, Step block: 262144, Total transaction: 0, Transaction ERC-721: 0
+2023-03-03 06:37:42,505,505 root INFO Block: 524288 To 1048576, Step block: 524288, Total transaction: 12, Transaction ERC-721: 0
+Block: 524288 To 1048576, Step block: 524288, Total transaction: 12, Transaction ERC-721: 0
+2023-03-03 06:37:44,070,70 root INFO Block: 1048576 To 2097152, Step block: 1048576, Total transaction: 413, Transaction ERC-721: 0
+Block: 1048576 To 2097152, Step block: 1048576, Total transaction: 413, Transaction ERC-721: 0
+2023-03-03 06:37:47,693,693 root INFO Block: 2097152 To 4194304, Step block: 2097152, Total transaction: 10000, Transaction ERC-721: 2
+Block: 2097152 To 4194304, Step block: 2097152, Total transaction: 10000, Transaction ERC-721: 2
+2023-03-03 06:37:50,243,243 root INFO Block: 2097152 To 3145728, Step block: 1048576, Total transaction: 5236, Transaction ERC-721: 2
+Block: 2097152 To 3145728, Step block: 1048576, Total transaction: 5236, Transaction ERC-721: 2
+2023-03-03 06:37:53,992,992 root INFO Block: 3145728 To 4194304, Step block: 1048576, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3145728 To 4194304, Step block: 1048576, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:37:56,553,553 root INFO Block: 3145728 To 3670016, Step block: 524288, Total transaction: 8297, Transaction ERC-721: 0
+Block: 3145728 To 3670016, Step block: 524288, Total transaction: 8297, Transaction ERC-721: 0
+2023-03-03 06:38:01,128,128 root INFO Block: 3670016 To 4194304, Step block: 524288, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3670016 To 4194304, Step block: 524288, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:04,756,756 root INFO Block: 3670016 To 3932160, Step block: 262144, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3670016 To 3932160, Step block: 262144, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:07,979,979 root INFO Block: 3670016 To 3801088, Step block: 131072, Total transaction: 8196, Transaction ERC-721: 0
+Block: 3670016 To 3801088, Step block: 131072, Total transaction: 8196, Transaction ERC-721: 0
+2023-03-03 06:38:10,686,686 root INFO Block: 3801088 To 3932160, Step block: 131072, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3801088 To 3932160, Step block: 131072, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:13,606,606 root INFO Block: 3801088 To 3866624, Step block: 65536, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3801088 To 3866624, Step block: 65536, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:16,023,23 root INFO Block: 3801088 To 3833856, Step block: 32768, Total transaction: 4141, Transaction ERC-721: 0
+Block: 3801088 To 3833856, Step block: 32768, Total transaction: 4141, Transaction ERC-721: 0
+2023-03-03 06:38:18,318,318 root INFO Block: 3833856 To 3866624, Step block: 32768, Total transaction: 5886, Transaction ERC-721: 0
+Block: 3833856 To 3866624, Step block: 32768, Total transaction: 5886, Transaction ERC-721: 0
+2023-03-03 06:38:21,663,663 root INFO Block: 3866624 To 3899392, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3866624 To 3899392, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:24,465,465 root INFO Block: 3866624 To 3883008, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3866624 To 3883008, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:26,336,336 root INFO Block: 3866624 To 3874816, Step block: 8192, Total transaction: 1433, Transaction ERC-721: 0
+Block: 3866624 To 3874816, Step block: 8192, Total transaction: 1433, Transaction ERC-721: 0
+2023-03-03 06:38:29,032,32 root INFO Block: 3874816 To 3891200, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3874816 To 3891200, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:31,614,614 root INFO Block: 3874816 To 3883008, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3874816 To 3883008, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:33,894,894 root INFO Block: 3874816 To 3878912, Step block: 4096, Total transaction: 5819, Transaction ERC-721: 0
+Block: 3874816 To 3878912, Step block: 4096, Total transaction: 5819, Transaction ERC-721: 0
+2023-03-03 06:38:36,508,508 root INFO Block: 3878912 To 3883008, Step block: 4096, Total transaction: 5813, Transaction ERC-721: 0
+Block: 3878912 To 3883008, Step block: 4096, Total transaction: 5813, Transaction ERC-721: 0
+2023-03-03 06:38:39,096,96 root INFO Block: 3883008 To 3887104, Step block: 4096, Total transaction: 2060, Transaction ERC-721: 0
+Block: 3883008 To 3887104, Step block: 4096, Total transaction: 2060, Transaction ERC-721: 0
+2023-03-03 06:38:42,290,290 root INFO Block: 3887104 To 3895296, Step block: 8192, Total transaction: 3506, Transaction ERC-721: 0
+Block: 3887104 To 3895296, Step block: 8192, Total transaction: 3506, Transaction ERC-721: 0
+2023-03-03 06:38:45,607,607 root INFO Block: 3895296 To 3911680, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3895296 To 3911680, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:46,999,999 root INFO Block: 3895296 To 3903488, Step block: 8192, Total transaction: 876, Transaction ERC-721: 0
+Block: 3895296 To 3903488, Step block: 8192, Total transaction: 876, Transaction ERC-721: 0
+2023-03-03 06:38:49,659,659 root INFO Block: 3903488 To 3919872, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3903488 To 3919872, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:52,431,431 root INFO Block: 3903488 To 3911680, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3903488 To 3911680, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:55,216,216 root INFO Block: 3903488 To 3907584, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3903488 To 3907584, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:38:58,294,294 root INFO Block: 3903488 To 3905536, Step block: 2048, Total transaction: 9227, Transaction ERC-721: 0
+Block: 3903488 To 3905536, Step block: 2048, Total transaction: 9227, Transaction ERC-721: 0
+2023-03-03 06:39:01,679,679 root INFO Block: 3905536 To 3907584, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3905536 To 3907584, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:39:04,251,251 root INFO Block: 3905536 To 3906560, Step block: 1024, Total transaction: 9067, Transaction ERC-721: 0
+Block: 3905536 To 3906560, Step block: 1024, Total transaction: 9067, Transaction ERC-721: 0
+2023-03-03 06:39:07,162,162 root INFO Block: 3906560 To 3907584, Step block: 1024, Total transaction: 8693, Transaction ERC-721: 0
+Block: 3906560 To 3907584, Step block: 1024, Total transaction: 8693, Transaction ERC-721: 0
+2023-03-03 06:39:09,194,194 root INFO Block: 3907584 To 3908608, Step block: 1024, Total transaction: 1815, Transaction ERC-721: 0
+Block: 3907584 To 3908608, Step block: 1024, Total transaction: 1815, Transaction ERC-721: 0
+2023-03-03 06:39:10,388,388 root INFO Block: 3908608 To 3910656, Step block: 2048, Total transaction: 214, Transaction ERC-721: 0
+Block: 3908608 To 3910656, Step block: 2048, Total transaction: 214, Transaction ERC-721: 0
+2023-03-03 06:39:12,266,266 root INFO Block: 3910656 To 3914752, Step block: 4096, Total transaction: 2292, Transaction ERC-721: 0
+Block: 3910656 To 3914752, Step block: 4096, Total transaction: 2292, Transaction ERC-721: 0
+2023-03-03 06:39:14,656,656 root INFO Block: 3914752 To 3922944, Step block: 8192, Total transaction: 1574, Transaction ERC-721: 0
+Block: 3914752 To 3922944, Step block: 8192, Total transaction: 1574, Transaction ERC-721: 0
+2023-03-03 06:39:17,243,243 root INFO Block: 3922944 To 3939328, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3922944 To 3939328, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:39:19,112,112 root INFO Block: 3922944 To 3931136, Step block: 8192, Total transaction: 837, Transaction ERC-721: 0
+Block: 3922944 To 3931136, Step block: 8192, Total transaction: 837, Transaction ERC-721: 0
+2023-03-03 06:39:23,219,219 root INFO Block: 3931136 To 3947520, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3931136 To 3947520, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:39:27,304,304 root INFO Block: 3931136 To 3939328, Step block: 8192, Total transaction: 9348, Transaction ERC-721: 0
+Block: 3931136 To 3939328, Step block: 8192, Total transaction: 9348, Transaction ERC-721: 0
+2023-03-03 06:39:30,218,218 root INFO Block: 3939328 To 3947520, Step block: 8192, Total transaction: 5253, Transaction ERC-721: 0
+Block: 3939328 To 3947520, Step block: 8192, Total transaction: 5253, Transaction ERC-721: 0
+2023-03-03 06:39:32,914,914 root INFO Block: 3947520 To 3955712, Step block: 8192, Total transaction: 9446, Transaction ERC-721: 0
+Block: 3947520 To 3955712, Step block: 8192, Total transaction: 9446, Transaction ERC-721: 0
+2023-03-03 06:39:34,757,757 root INFO Block: 3955712 To 3963904, Step block: 8192, Total transaction: 949, Transaction ERC-721: 0
+Block: 3955712 To 3963904, Step block: 8192, Total transaction: 949, Transaction ERC-721: 0
+2023-03-03 06:39:37,491,491 root INFO Block: 3963904 To 3980288, Step block: 16384, Total transaction: 3041, Transaction ERC-721: 0
+Block: 3963904 To 3980288, Step block: 16384, Total transaction: 3041, Transaction ERC-721: 0
+2023-03-03 06:39:42,090,90 root INFO Block: 3980288 To 4013056, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3980288 To 4013056, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:39:45,160,160 root INFO Block: 3980288 To 3996672, Step block: 16384, Total transaction: 6372, Transaction ERC-721: 0
+Block: 3980288 To 3996672, Step block: 16384, Total transaction: 6372, Transaction ERC-721: 0
+2023-03-03 06:39:48,947,947 root INFO Block: 3996672 To 4013056, Step block: 16384, Total transaction: 4523, Transaction ERC-721: 0
+Block: 3996672 To 4013056, Step block: 16384, Total transaction: 4523, Transaction ERC-721: 0
+2023-03-03 06:39:52,696,696 root INFO Block: 4013056 To 4029440, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4013056 To 4029440, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:39:55,579,579 root INFO Block: 4013056 To 4021248, Step block: 8192, Total transaction: 2378, Transaction ERC-721: 0
+Block: 4013056 To 4021248, Step block: 8192, Total transaction: 2378, Transaction ERC-721: 0
+2023-03-03 06:39:59,730,730 root INFO Block: 4021248 To 4037632, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4021248 To 4037632, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:03,359,359 root INFO Block: 4021248 To 4029440, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4021248 To 4029440, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:06,383,383 root INFO Block: 4021248 To 4025344, Step block: 4096, Total transaction: 7564, Transaction ERC-721: 0
+Block: 4021248 To 4025344, Step block: 4096, Total transaction: 7564, Transaction ERC-721: 0
+2023-03-03 06:40:08,353,353 root INFO Block: 4025344 To 4029440, Step block: 4096, Total transaction: 2636, Transaction ERC-721: 0
+Block: 4025344 To 4029440, Step block: 4096, Total transaction: 2636, Transaction ERC-721: 0
+2023-03-03 06:40:11,189,189 root INFO Block: 4029440 To 4037632, Step block: 8192, Total transaction: 3498, Transaction ERC-721: 0
+Block: 4029440 To 4037632, Step block: 8192, Total transaction: 3498, Transaction ERC-721: 0
+2023-03-03 06:40:13,166,166 root INFO Block: 4037632 To 4054016, Step block: 16384, Total transaction: 927, Transaction ERC-721: 0
+Block: 4037632 To 4054016, Step block: 16384, Total transaction: 927, Transaction ERC-721: 0
+2023-03-03 06:40:16,315,315 root INFO Block: 4054016 To 4086784, Step block: 32768, Total transaction: 9073, Transaction ERC-721: 0
+Block: 4054016 To 4086784, Step block: 32768, Total transaction: 9073, Transaction ERC-721: 0
+2023-03-03 06:40:19,188,188 root INFO Block: 4086784 To 4119552, Step block: 32768, Total transaction: 4917, Transaction ERC-721: 0
+Block: 4086784 To 4119552, Step block: 32768, Total transaction: 4917, Transaction ERC-721: 0
+2023-03-03 06:40:21,768,768 root INFO Block: 4119552 To 4152320, Step block: 32768, Total transaction: 2937, Transaction ERC-721: 0
+Block: 4119552 To 4152320, Step block: 32768, Total transaction: 2937, Transaction ERC-721: 0
+2023-03-03 06:40:25,479,479 root INFO Block: 4152320 To 4217856, Step block: 65536, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4152320 To 4217856, Step block: 65536, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:28,602,602 root INFO Block: 4152320 To 4185088, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4152320 To 4185088, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:31,249,249 root INFO Block: 4152320 To 4168704, Step block: 16384, Total transaction: 3872, Transaction ERC-721: 0
+Block: 4152320 To 4168704, Step block: 16384, Total transaction: 3872, Transaction ERC-721: 0
+2023-03-03 06:40:34,612,612 root INFO Block: 4168704 To 4201472, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4168704 To 4201472, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:38,322,322 root INFO Block: 4168704 To 4185088, Step block: 16384, Total transaction: 7589, Transaction ERC-721: 0
+Block: 4168704 To 4185088, Step block: 16384, Total transaction: 7589, Transaction ERC-721: 0
+2023-03-03 06:40:40,857,857 root INFO Block: 4185088 To 4201472, Step block: 16384, Total transaction: 3665, Transaction ERC-721: 0
+Block: 4185088 To 4201472, Step block: 16384, Total transaction: 3665, Transaction ERC-721: 0
+2023-03-03 06:40:44,944,944 root INFO Block: 4201472 To 4234240, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4201472 To 4234240, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:47,869,869 root INFO Block: 4201472 To 4217856, Step block: 16384, Total transaction: 4630, Transaction ERC-721: 0
+Block: 4201472 To 4217856, Step block: 16384, Total transaction: 4630, Transaction ERC-721: 0
+2023-03-03 06:40:51,089,89 root INFO Block: 4217856 To 4234240, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4217856 To 4234240, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:40:53,981,981 root INFO Block: 4217856 To 4226048, Step block: 8192, Total transaction: 4651, Transaction ERC-721: 0
+Block: 4217856 To 4226048, Step block: 8192, Total transaction: 4651, Transaction ERC-721: 0
+2023-03-03 06:40:57,158,158 root INFO Block: 4226048 To 4234240, Step block: 8192, Total transaction: 9604, Transaction ERC-721: 0
+Block: 4226048 To 4234240, Step block: 8192, Total transaction: 9604, Transaction ERC-721: 0
+2023-03-03 06:40:59,390,390 root INFO Block: 4234240 To 4242432, Step block: 8192, Total transaction: 2046, Transaction ERC-721: 0
+Block: 4234240 To 4242432, Step block: 8192, Total transaction: 2046, Transaction ERC-721: 0
+2023-03-03 06:41:04,679,679 root INFO Block: 4242432 To 4258816, Step block: 16384, Total transaction: 7980, Transaction ERC-721: 0
+Block: 4242432 To 4258816, Step block: 16384, Total transaction: 7980, Transaction ERC-721: 0
+2023-03-03 06:41:08,616,616 root INFO Block: 4258816 To 4275200, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4258816 To 4275200, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:41:12,102,102 root INFO Block: 4258816 To 4267008, Step block: 8192, Total transaction: 9961, Transaction ERC-721: 0
+Block: 4258816 To 4267008, Step block: 8192, Total transaction: 9961, Transaction ERC-721: 0
+2023-03-03 06:41:16,782,782 root INFO Block: 4267008 To 4275200, Step block: 8192, Total transaction: 7890, Transaction ERC-721: 0
+Block: 4267008 To 4275200, Step block: 8192, Total transaction: 7890, Transaction ERC-721: 0
+2023-03-03 06:41:20,287,287 root INFO Block: 4275200 To 4283392, Step block: 8192, Total transaction: 6031, Transaction ERC-721: 0
+Block: 4275200 To 4283392, Step block: 8192, Total transaction: 6031, Transaction ERC-721: 0
+2023-03-03 06:41:23,708,708 root INFO Block: 4283392 To 4291584, Step block: 8192, Total transaction: 5627, Transaction ERC-721: 0
+Block: 4283392 To 4291584, Step block: 8192, Total transaction: 5627, Transaction ERC-721: 0
+2023-03-03 06:41:32,588,588 root INFO Block: 4291584 To 4299776, Step block: 8192, Total transaction: 4103, Transaction ERC-721: 0
+Block: 4291584 To 4299776, Step block: 8192, Total transaction: 4103, Transaction ERC-721: 0
+2023-03-03 06:41:41,241,241 root INFO Block: 4299776 To 4307968, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4299776 To 4307968, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:41:43,918,918 root INFO Block: 4299776 To 4303872, Step block: 4096, Total transaction: 4976, Transaction ERC-721: 0
+Block: 4299776 To 4303872, Step block: 4096, Total transaction: 4976, Transaction ERC-721: 0
+2023-03-03 06:41:47,687,687 root INFO Block: 4303872 To 4307968, Step block: 4096, Total transaction: 6077, Transaction ERC-721: 0
+Block: 4303872 To 4307968, Step block: 4096, Total transaction: 6077, Transaction ERC-721: 0
+2023-03-03 06:41:50,371,371 root INFO Block: 4307968 To 4312064, Step block: 4096, Total transaction: 3107, Transaction ERC-721: 0
+Block: 4307968 To 4312064, Step block: 4096, Total transaction: 3107, Transaction ERC-721: 0
+2023-03-03 06:41:54,070,70 root INFO Block: 4312064 To 4320256, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4312064 To 4320256, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:41:57,082,82 root INFO Block: 4312064 To 4316160, Step block: 4096, Total transaction: 9433, Transaction ERC-721: 0
+Block: 4312064 To 4316160, Step block: 4096, Total transaction: 9433, Transaction ERC-721: 0
+2023-03-03 06:42:00,181,181 root INFO Block: 4316160 To 4320256, Step block: 4096, Total transaction: 8522, Transaction ERC-721: 0
+Block: 4316160 To 4320256, Step block: 4096, Total transaction: 8522, Transaction ERC-721: 0
+2023-03-03 06:42:03,195,195 root INFO Block: 4320256 To 4324352, Step block: 4096, Total transaction: 6960, Transaction ERC-721: 0
+Block: 4320256 To 4324352, Step block: 4096, Total transaction: 6960, Transaction ERC-721: 0
+2023-03-03 06:42:06,562,562 root INFO Block: 4324352 To 4328448, Step block: 4096, Total transaction: 7946, Transaction ERC-721: 0
+Block: 4324352 To 4328448, Step block: 4096, Total transaction: 7946, Transaction ERC-721: 0
+2023-03-03 06:42:09,848,848 root INFO Block: 4328448 To 4332544, Step block: 4096, Total transaction: 5128, Transaction ERC-721: 0
+Block: 4328448 To 4332544, Step block: 4096, Total transaction: 5128, Transaction ERC-721: 0
+2023-03-03 06:42:13,273,273 root INFO Block: 4332544 To 4336640, Step block: 4096, Total transaction: 6165, Transaction ERC-721: 0
+Block: 4332544 To 4336640, Step block: 4096, Total transaction: 6165, Transaction ERC-721: 0
+2023-03-03 06:42:16,030,30 root INFO Block: 4336640 To 4340736, Step block: 4096, Total transaction: 4224, Transaction ERC-721: 0
+Block: 4336640 To 4340736, Step block: 4096, Total transaction: 4224, Transaction ERC-721: 0
+2023-03-03 06:42:19,919,919 root INFO Block: 4340736 To 4344832, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 1
+Block: 4340736 To 4344832, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 1
+2023-03-03 06:42:22,650,650 root INFO Block: 4340736 To 4342784, Step block: 2048, Total transaction: 5532, Transaction ERC-721: 1
+Block: 4340736 To 4342784, Step block: 2048, Total transaction: 5532, Transaction ERC-721: 1
+2023-03-03 06:42:24,846,846 root INFO Block: 4342784 To 4344832, Step block: 2048, Total transaction: 4815, Transaction ERC-721: 0
+Block: 4342784 To 4344832, Step block: 2048, Total transaction: 4815, Transaction ERC-721: 0
+2023-03-03 06:42:27,389,389 root INFO Block: 4344832 To 4346880, Step block: 2048, Total transaction: 4539, Transaction ERC-721: 0
+Block: 4344832 To 4346880, Step block: 2048, Total transaction: 4539, Transaction ERC-721: 0
+2023-03-03 06:42:29,201,201 root INFO Block: 4346880 To 4348928, Step block: 2048, Total transaction: 947, Transaction ERC-721: 0
+Block: 4346880 To 4348928, Step block: 2048, Total transaction: 947, Transaction ERC-721: 0
+2023-03-03 06:42:31,390,390 root INFO Block: 4348928 To 4353024, Step block: 4096, Total transaction: 1260, Transaction ERC-721: 0
+Block: 4348928 To 4353024, Step block: 4096, Total transaction: 1260, Transaction ERC-721: 0
+2023-03-03 06:42:35,128,128 root INFO Block: 4353024 To 4361216, Step block: 8192, Total transaction: 7163, Transaction ERC-721: 0
+Block: 4353024 To 4361216, Step block: 8192, Total transaction: 7163, Transaction ERC-721: 0
+2023-03-03 06:42:38,747,747 root INFO Block: 4361216 To 4369408, Step block: 8192, Total transaction: 4151, Transaction ERC-721: 0
+Block: 4361216 To 4369408, Step block: 8192, Total transaction: 4151, Transaction ERC-721: 0
+2023-03-03 06:42:41,547,547 root INFO Block: 4369408 To 4377600, Step block: 8192, Total transaction: 3492, Transaction ERC-721: 0
+Block: 4369408 To 4377600, Step block: 8192, Total transaction: 3492, Transaction ERC-721: 0
+2023-03-03 06:42:50,507,507 root INFO Block: 4377600 To 4393984, Step block: 16384, Total transaction: 8064, Transaction ERC-721: 1
+Block: 4377600 To 4393984, Step block: 16384, Total transaction: 8064, Transaction ERC-721: 1
+2023-03-03 06:42:54,019,19 root INFO Block: 4393984 To 4410368, Step block: 16384, Total transaction: 4012, Transaction ERC-721: 1
+Block: 4393984 To 4410368, Step block: 16384, Total transaction: 4012, Transaction ERC-721: 1
+2023-03-03 06:42:58,497,497 root INFO Block: 4410368 To 4426752, Step block: 16384, Total transaction: 9124, Transaction ERC-721: 0
+Block: 4410368 To 4426752, Step block: 16384, Total transaction: 9124, Transaction ERC-721: 0
+2023-03-03 06:43:02,537,537 root INFO Block: 4426752 To 4443136, Step block: 16384, Total transaction: 5878, Transaction ERC-721: 0
+Block: 4426752 To 4443136, Step block: 16384, Total transaction: 5878, Transaction ERC-721: 0
+2023-03-03 06:43:06,267,267 root INFO Block: 4443136 To 4459520, Step block: 16384, Total transaction: 7326, Transaction ERC-721: 0
+Block: 4443136 To 4459520, Step block: 16384, Total transaction: 7326, Transaction ERC-721: 0
+2023-03-03 06:43:10,285,285 root INFO Block: 4459520 To 4475904, Step block: 16384, Total transaction: 6136, Transaction ERC-721: 0
+Block: 4459520 To 4475904, Step block: 16384, Total transaction: 6136, Transaction ERC-721: 0
+2023-03-03 06:43:12,803,803 root INFO Block: 4475904 To 4492288, Step block: 16384, Total transaction: 2157, Transaction ERC-721: 0
+Block: 4475904 To 4492288, Step block: 16384, Total transaction: 2157, Transaction ERC-721: 0
+2023-03-03 06:43:17,083,83 root INFO Block: 4492288 To 4525056, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4492288 To 4525056, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:43:18,971,971 root INFO Block: 4492288 To 4508672, Step block: 16384, Total transaction: 2108, Transaction ERC-721: 0
+Block: 4492288 To 4508672, Step block: 16384, Total transaction: 2108, Transaction ERC-721: 0
+2023-03-03 06:43:21,866,866 root INFO Block: 4508672 To 4541440, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4508672 To 4541440, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:43:24,476,476 root INFO Block: 4508672 To 4525056, Step block: 16384, Total transaction: 8122, Transaction ERC-721: 0
+Block: 4508672 To 4525056, Step block: 16384, Total transaction: 8122, Transaction ERC-721: 0
+2023-03-03 06:43:28,235,235 root INFO Block: 4525056 To 4541440, Step block: 16384, Total transaction: 9337, Transaction ERC-721: 0
+Block: 4525056 To 4541440, Step block: 16384, Total transaction: 9337, Transaction ERC-721: 0
+2023-03-03 06:43:31,624,624 root INFO Block: 4541440 To 4557824, Step block: 16384, Total transaction: 3462, Transaction ERC-721: 0
+Block: 4541440 To 4557824, Step block: 16384, Total transaction: 3462, Transaction ERC-721: 0
+2023-03-03 06:43:39,257,257 root INFO Block: 4557824 To 4590592, Step block: 32768, Total transaction: 7376, Transaction ERC-721: 24
+Block: 4557824 To 4590592, Step block: 32768, Total transaction: 7376, Transaction ERC-721: 24
+2023-03-03 06:43:46,740,740 root INFO Block: 4590592 To 4623360, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 30
+Block: 4590592 To 4623360, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 30
+2023-03-03 06:43:54,493,493 root INFO Block: 4590592 To 4606976, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 30
+Block: 4590592 To 4606976, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 30
+2023-03-03 06:44:00,546,546 root INFO Block: 4590592 To 4598784, Step block: 8192, Total transaction: 9261, Transaction ERC-721: 30
+Block: 4590592 To 4598784, Step block: 8192, Total transaction: 9261, Transaction ERC-721: 30
+2023-03-03 06:44:03,687,687 root INFO Block: 4598784 To 4606976, Step block: 8192, Total transaction: 5540, Transaction ERC-721: 0
+Block: 4598784 To 4606976, Step block: 8192, Total transaction: 5540, Transaction ERC-721: 0
+2023-03-03 06:44:06,074,74 root INFO Block: 4606976 To 4615168, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4606976 To 4615168, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:09,347,347 root INFO Block: 4606976 To 4611072, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4606976 To 4611072, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:11,712,712 root INFO Block: 4606976 To 4609024, Step block: 2048, Total transaction: 6684, Transaction ERC-721: 0
+Block: 4606976 To 4609024, Step block: 2048, Total transaction: 6684, Transaction ERC-721: 0
+2023-03-03 06:44:14,084,84 root INFO Block: 4609024 To 4611072, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4609024 To 4611072, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:16,116,116 root INFO Block: 4609024 To 4610048, Step block: 1024, Total transaction: 5678, Transaction ERC-721: 0
+Block: 4609024 To 4610048, Step block: 1024, Total transaction: 5678, Transaction ERC-721: 0
+2023-03-03 06:44:18,298,298 root INFO Block: 4610048 To 4611072, Step block: 1024, Total transaction: 5867, Transaction ERC-721: 0
+Block: 4610048 To 4611072, Step block: 1024, Total transaction: 5867, Transaction ERC-721: 0
+2023-03-03 06:44:19,784,784 root INFO Block: 4611072 To 4612096, Step block: 1024, Total transaction: 1131, Transaction ERC-721: 0
+Block: 4611072 To 4612096, Step block: 1024, Total transaction: 1131, Transaction ERC-721: 0
+2023-03-03 06:44:21,594,594 root INFO Block: 4612096 To 4614144, Step block: 2048, Total transaction: 800, Transaction ERC-721: 0
+Block: 4612096 To 4614144, Step block: 2048, Total transaction: 800, Transaction ERC-721: 0
+2023-03-03 06:44:23,652,652 root INFO Block: 4614144 To 4618240, Step block: 4096, Total transaction: 714, Transaction ERC-721: 0
+Block: 4614144 To 4618240, Step block: 4096, Total transaction: 714, Transaction ERC-721: 0
+2023-03-03 06:44:25,912,912 root INFO Block: 4618240 To 4626432, Step block: 8192, Total transaction: 1163, Transaction ERC-721: 0
+Block: 4618240 To 4626432, Step block: 8192, Total transaction: 1163, Transaction ERC-721: 0
+2023-03-03 06:44:28,820,820 root INFO Block: 4626432 To 4642816, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4626432 To 4642816, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:31,500,500 root INFO Block: 4626432 To 4634624, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4626432 To 4634624, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:32,894,894 root INFO Block: 4626432 To 4630528, Step block: 4096, Total transaction: 497, Transaction ERC-721: 0
+Block: 4626432 To 4630528, Step block: 4096, Total transaction: 497, Transaction ERC-721: 0
+2023-03-03 06:44:35,352,352 root INFO Block: 4630528 To 4638720, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4630528 To 4638720, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:37,743,743 root INFO Block: 4630528 To 4634624, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4630528 To 4634624, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:40,120,120 root INFO Block: 4630528 To 4632576, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4630528 To 4632576, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:41,267,267 root INFO Block: 4630528 To 4631552, Step block: 1024, Total transaction: 111, Transaction ERC-721: 0
+Block: 4630528 To 4631552, Step block: 1024, Total transaction: 111, Transaction ERC-721: 0
+2023-03-03 06:44:43,610,610 root INFO Block: 4631552 To 4633600, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631552 To 4633600, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:45,934,934 root INFO Block: 4631552 To 4632576, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631552 To 4632576, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:48,312,312 root INFO Block: 4631552 To 4632064, Step block: 512, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631552 To 4632064, Step block: 512, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:50,364,364 root INFO Block: 4631552 To 4631808, Step block: 256, Total transaction: 7671, Transaction ERC-721: 0
+Block: 4631552 To 4631808, Step block: 256, Total transaction: 7671, Transaction ERC-721: 0
+2023-03-03 06:44:52,698,698 root INFO Block: 4631808 To 4632064, Step block: 256, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631808 To 4632064, Step block: 256, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:55,140,140 root INFO Block: 4631808 To 4631936, Step block: 128, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631808 To 4631936, Step block: 128, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:57,680,680 root INFO Block: 4631808 To 4631872, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631808 To 4631872, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:44:59,171,171 root INFO Block: 4631808 To 4631840, Step block: 32, Total transaction: 1511, Transaction ERC-721: 0
+Block: 4631808 To 4631840, Step block: 32, Total transaction: 1511, Transaction ERC-721: 0
+2023-03-03 06:45:01,580,580 root INFO Block: 4631840 To 4631904, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631840 To 4631904, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:45:04,073,73 root INFO Block: 4631840 To 4631872, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631840 To 4631872, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:45:06,105,105 root INFO Block: 4631840 To 4631856, Step block: 16, Total transaction: 5505, Transaction ERC-721: 0
+Block: 4631840 To 4631856, Step block: 16, Total transaction: 5505, Transaction ERC-721: 0
+2023-03-03 06:45:08,051,51 root INFO Block: 4631856 To 4631872, Step block: 16, Total transaction: 5002, Transaction ERC-721: 0
+Block: 4631856 To 4631872, Step block: 16, Total transaction: 5002, Transaction ERC-721: 0
+2023-03-03 06:45:19,151,151 root INFO Block: 4631872 To 4631888, Step block: 16, Total transaction: 7006, Transaction ERC-721: 0
+Block: 4631872 To 4631888, Step block: 16, Total transaction: 7006, Transaction ERC-721: 0
+2023-03-03 06:45:21,499,499 root INFO Block: 4631888 To 4631904, Step block: 16, Total transaction: 8504, Transaction ERC-721: 0
+Block: 4631888 To 4631904, Step block: 16, Total transaction: 8504, Transaction ERC-721: 0
+2023-03-03 06:45:23,675,675 root INFO Block: 4631904 To 4631920, Step block: 16, Total transaction: 7003, Transaction ERC-721: 0
+Block: 4631904 To 4631920, Step block: 16, Total transaction: 7003, Transaction ERC-721: 0
+2023-03-03 06:45:25,422,422 root INFO Block: 4631920 To 4631936, Step block: 16, Total transaction: 3509, Transaction ERC-721: 0
+Block: 4631920 To 4631936, Step block: 16, Total transaction: 3509, Transaction ERC-721: 0
+2023-03-03 06:45:32,770,770 root INFO Block: 4631936 To 4631968, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4631936 To 4631968, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:45:34,780,780 root INFO Block: 4631936 To 4631952, Step block: 16, Total transaction: 5522, Transaction ERC-721: 0
+Block: 4631936 To 4631952, Step block: 16, Total transaction: 5522, Transaction ERC-721: 0
+2023-03-03 06:45:36,784,784 root INFO Block: 4631952 To 4631968, Step block: 16, Total transaction: 6030, Transaction ERC-721: 0
+Block: 4631952 To 4631968, Step block: 16, Total transaction: 6030, Transaction ERC-721: 0
+2023-03-03 06:45:38,868,868 root INFO Block: 4631968 To 4631984, Step block: 16, Total transaction: 7529, Transaction ERC-721: 0
+Block: 4631968 To 4631984, Step block: 16, Total transaction: 7529, Transaction ERC-721: 0
+2023-03-03 06:45:41,043,43 root INFO Block: 4631984 To 4632000, Step block: 16, Total transaction: 7006, Transaction ERC-721: 0
+Block: 4631984 To 4632000, Step block: 16, Total transaction: 7006, Transaction ERC-721: 0
+2023-03-03 06:45:43,154,154 root INFO Block: 4632000 To 4632016, Step block: 16, Total transaction: 6502, Transaction ERC-721: 0
+Block: 4632000 To 4632016, Step block: 16, Total transaction: 6502, Transaction ERC-721: 0
+2023-03-03 06:45:45,651,651 root INFO Block: 4632016 To 4632032, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632016 To 4632032, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:45:47,669,669 root INFO Block: 4632016 To 4632024, Step block: 8, Total transaction: 6000, Transaction ERC-721: 0
+Block: 4632016 To 4632024, Step block: 8, Total transaction: 6000, Transaction ERC-721: 0
+2023-03-03 06:45:49,703,703 root INFO Block: 4632024 To 4632032, Step block: 8, Total transaction: 7003, Transaction ERC-721: 0
+Block: 4632024 To 4632032, Step block: 8, Total transaction: 7003, Transaction ERC-721: 0
+2023-03-03 06:45:51,550,550 root INFO Block: 4632032 To 4632040, Step block: 8, Total transaction: 2502, Transaction ERC-721: 0
+Block: 4632032 To 4632040, Step block: 8, Total transaction: 2502, Transaction ERC-721: 0
+2023-03-03 06:45:53,562,562 root INFO Block: 4632040 To 4632056, Step block: 16, Total transaction: 6508, Transaction ERC-721: 0
+Block: 4632040 To 4632056, Step block: 16, Total transaction: 6508, Transaction ERC-721: 0
+2023-03-03 06:45:55,964,964 root INFO Block: 4632056 To 4632072, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632056 To 4632072, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:45:58,055,55 root INFO Block: 4632056 To 4632064, Step block: 8, Total transaction: 6002, Transaction ERC-721: 0
+Block: 4632056 To 4632064, Step block: 8, Total transaction: 6002, Transaction ERC-721: 0
+2023-03-03 06:46:00,045,45 root INFO Block: 4632064 To 4632072, Step block: 8, Total transaction: 6506, Transaction ERC-721: 0
+Block: 4632064 To 4632072, Step block: 8, Total transaction: 6506, Transaction ERC-721: 0
+2023-03-03 06:46:02,009,9 root INFO Block: 4632072 To 4632080, Step block: 8, Total transaction: 5501, Transaction ERC-721: 0
+Block: 4632072 To 4632080, Step block: 8, Total transaction: 5501, Transaction ERC-721: 0
+2023-03-03 06:46:03,440,440 root INFO Block: 4632080 To 4632088, Step block: 8, Total transaction: 1506, Transaction ERC-721: 0
+Block: 4632080 To 4632088, Step block: 8, Total transaction: 1506, Transaction ERC-721: 0
+2023-03-03 06:46:05,934,934 root INFO Block: 4632088 To 4632104, Step block: 16, Total transaction: 9008, Transaction ERC-721: 0
+Block: 4632088 To 4632104, Step block: 16, Total transaction: 9008, Transaction ERC-721: 0
+2023-03-03 06:46:07,916,916 root INFO Block: 4632104 To 4632120, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+Block: 4632104 To 4632120, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+2023-03-03 06:46:09,339,339 root INFO Block: 4632120 To 4632136, Step block: 16, Total transaction: 1505, Transaction ERC-721: 0
+Block: 4632120 To 4632136, Step block: 16, Total transaction: 1505, Transaction ERC-721: 0
+2023-03-03 06:46:11,685,685 root INFO Block: 4632136 To 4632168, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632136 To 4632168, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:46:13,367,367 root INFO Block: 4632136 To 4632152, Step block: 16, Total transaction: 3506, Transaction ERC-721: 0
+Block: 4632136 To 4632152, Step block: 16, Total transaction: 3506, Transaction ERC-721: 0
+2023-03-03 06:46:15,898,898 root INFO Block: 4632152 To 4632184, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632152 To 4632184, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:46:18,052,52 root INFO Block: 4632152 To 4632168, Step block: 16, Total transaction: 6501, Transaction ERC-721: 0
+Block: 4632152 To 4632168, Step block: 16, Total transaction: 6501, Transaction ERC-721: 0
+2023-03-03 06:46:20,114,114 root INFO Block: 4632168 To 4632184, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+Block: 4632168 To 4632184, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+2023-03-03 06:46:22,035,35 root INFO Block: 4632184 To 4632200, Step block: 16, Total transaction: 4007, Transaction ERC-721: 0
+Block: 4632184 To 4632200, Step block: 16, Total transaction: 4007, Transaction ERC-721: 0
+2023-03-03 06:46:24,039,39 root INFO Block: 4632200 To 4632216, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+Block: 4632200 To 4632216, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+2023-03-03 06:46:25,860,860 root INFO Block: 4632216 To 4632232, Step block: 16, Total transaction: 3503, Transaction ERC-721: 0
+Block: 4632216 To 4632232, Step block: 16, Total transaction: 3503, Transaction ERC-721: 0
+2023-03-03 06:46:28,417,417 root INFO Block: 4632232 To 4632264, Step block: 32, Total transaction: 9005, Transaction ERC-721: 0
+Block: 4632232 To 4632264, Step block: 32, Total transaction: 9005, Transaction ERC-721: 0
+2023-03-03 06:46:30,994,994 root INFO Block: 4632264 To 4632296, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632264 To 4632296, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:46:33,296,296 root INFO Block: 4632264 To 4632280, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632264 To 4632280, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:46:35,375,375 root INFO Block: 4632264 To 4632272, Step block: 8, Total transaction: 8000, Transaction ERC-721: 0
+Block: 4632264 To 4632272, Step block: 8, Total transaction: 8000, Transaction ERC-721: 0
+2023-03-03 06:46:37,058,58 root INFO Block: 4632272 To 4632280, Step block: 8, Total transaction: 2505, Transaction ERC-721: 0
+Block: 4632272 To 4632280, Step block: 8, Total transaction: 2505, Transaction ERC-721: 0
+2023-03-03 06:46:39,386,386 root INFO Block: 4632280 To 4632296, Step block: 16, Total transaction: 8008, Transaction ERC-721: 0
+Block: 4632280 To 4632296, Step block: 16, Total transaction: 8008, Transaction ERC-721: 0
+2023-03-03 06:46:41,588,588 root INFO Block: 4632296 To 4632312, Step block: 16, Total transaction: 7005, Transaction ERC-721: 0
+Block: 4632296 To 4632312, Step block: 16, Total transaction: 7005, Transaction ERC-721: 0
+2023-03-03 06:46:43,696,696 root INFO Block: 4632312 To 4632328, Step block: 16, Total transaction: 6002, Transaction ERC-721: 0
+Block: 4632312 To 4632328, Step block: 16, Total transaction: 6002, Transaction ERC-721: 0
+2023-03-03 06:46:45,864,864 root INFO Block: 4632328 To 4632344, Step block: 16, Total transaction: 5502, Transaction ERC-721: 0
+Block: 4632328 To 4632344, Step block: 16, Total transaction: 5502, Transaction ERC-721: 0
+2023-03-03 06:46:47,989,989 root INFO Block: 4632344 To 4632360, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+Block: 4632344 To 4632360, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+2023-03-03 06:46:50,185,185 root INFO Block: 4632360 To 4632376, Step block: 16, Total transaction: 7500, Transaction ERC-721: 0
+Block: 4632360 To 4632376, Step block: 16, Total transaction: 7500, Transaction ERC-721: 0
+2023-03-03 06:46:52,474,474 root INFO Block: 4632376 To 4632392, Step block: 16, Total transaction: 8503, Transaction ERC-721: 0
+Block: 4632376 To 4632392, Step block: 16, Total transaction: 8503, Transaction ERC-721: 0
+2023-03-03 06:46:54,251,251 root INFO Block: 4632392 To 4632408, Step block: 16, Total transaction: 2503, Transaction ERC-721: 0
+Block: 4632392 To 4632408, Step block: 16, Total transaction: 2503, Transaction ERC-721: 0
+2023-03-03 06:46:56,801,801 root INFO Block: 4632408 To 4632440, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632408 To 4632440, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:46:58,778,778 root INFO Block: 4632408 To 4632424, Step block: 16, Total transaction: 6003, Transaction ERC-721: 0
+Block: 4632408 To 4632424, Step block: 16, Total transaction: 6003, Transaction ERC-721: 0
+2023-03-03 06:47:03,893,893 root INFO Block: 4632424 To 4632440, Step block: 16, Total transaction: 4501, Transaction ERC-721: 0
+Block: 4632424 To 4632440, Step block: 16, Total transaction: 4501, Transaction ERC-721: 0
+2023-03-03 06:47:05,960,960 root INFO Block: 4632440 To 4632456, Step block: 16, Total transaction: 7000, Transaction ERC-721: 0
+Block: 4632440 To 4632456, Step block: 16, Total transaction: 7000, Transaction ERC-721: 0
+2023-03-03 06:47:07,933,933 root INFO Block: 4632456 To 4632472, Step block: 16, Total transaction: 5009, Transaction ERC-721: 0
+Block: 4632456 To 4632472, Step block: 16, Total transaction: 5009, Transaction ERC-721: 0
+2023-03-03 06:47:10,003,3 root INFO Block: 4632472 To 4632488, Step block: 16, Total transaction: 4001, Transaction ERC-721: 0
+Block: 4632472 To 4632488, Step block: 16, Total transaction: 4001, Transaction ERC-721: 0
+2023-03-03 06:47:11,655,655 root INFO Block: 4632488 To 4632504, Step block: 16, Total transaction: 2005, Transaction ERC-721: 0
+Block: 4632488 To 4632504, Step block: 16, Total transaction: 2005, Transaction ERC-721: 0
+2023-03-03 06:47:14,277,277 root INFO Block: 4632504 To 4632536, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632504 To 4632536, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:47:15,679,679 root INFO Block: 4632504 To 4632520, Step block: 16, Total transaction: 1500, Transaction ERC-721: 0
+Block: 4632504 To 4632520, Step block: 16, Total transaction: 1500, Transaction ERC-721: 0
+2023-03-03 06:47:18,231,231 root INFO Block: 4632520 To 4632552, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632520 To 4632552, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:47:20,701,701 root INFO Block: 4632520 To 4632536, Step block: 16, Total transaction: 9005, Transaction ERC-721: 0
+Block: 4632520 To 4632536, Step block: 16, Total transaction: 9005, Transaction ERC-721: 0
+2023-03-03 06:47:22,882,882 root INFO Block: 4632536 To 4632552, Step block: 16, Total transaction: 7501, Transaction ERC-721: 0
+Block: 4632536 To 4632552, Step block: 16, Total transaction: 7501, Transaction ERC-721: 0
+2023-03-03 06:47:24,396,396 root INFO Block: 4632552 To 4632568, Step block: 16, Total transaction: 1501, Transaction ERC-721: 0
+Block: 4632552 To 4632568, Step block: 16, Total transaction: 1501, Transaction ERC-721: 0
+2023-03-03 06:47:26,473,473 root INFO Block: 4632568 To 4632600, Step block: 32, Total transaction: 6503, Transaction ERC-721: 0
+Block: 4632568 To 4632600, Step block: 32, Total transaction: 6503, Transaction ERC-721: 0
+2023-03-03 06:47:28,787,787 root INFO Block: 4632600 To 4632632, Step block: 32, Total transaction: 9017, Transaction ERC-721: 0
+Block: 4632600 To 4632632, Step block: 32, Total transaction: 9017, Transaction ERC-721: 0
+2023-03-03 06:47:31,319,319 root INFO Block: 4632632 To 4632664, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632632 To 4632664, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:47:33,589,589 root INFO Block: 4632632 To 4632648, Step block: 16, Total transaction: 7504, Transaction ERC-721: 0
+Block: 4632632 To 4632648, Step block: 16, Total transaction: 7504, Transaction ERC-721: 0
+2023-03-03 06:47:35,641,641 root INFO Block: 4632648 To 4632664, Step block: 16, Total transaction: 5504, Transaction ERC-721: 0
+Block: 4632648 To 4632664, Step block: 16, Total transaction: 5504, Transaction ERC-721: 0
+2023-03-03 06:47:37,832,832 root INFO Block: 4632664 To 4632680, Step block: 16, Total transaction: 8003, Transaction ERC-721: 0
+Block: 4632664 To 4632680, Step block: 16, Total transaction: 8003, Transaction ERC-721: 0
+2023-03-03 06:47:40,031,31 root INFO Block: 4632680 To 4632696, Step block: 16, Total transaction: 7503, Transaction ERC-721: 0
+Block: 4632680 To 4632696, Step block: 16, Total transaction: 7503, Transaction ERC-721: 0
+2023-03-03 06:47:42,061,61 root INFO Block: 4632696 To 4632712, Step block: 16, Total transaction: 6006, Transaction ERC-721: 0
+Block: 4632696 To 4632712, Step block: 16, Total transaction: 6006, Transaction ERC-721: 0
+2023-03-03 06:47:44,103,103 root INFO Block: 4632712 To 4632728, Step block: 16, Total transaction: 7504, Transaction ERC-721: 0
+Block: 4632712 To 4632728, Step block: 16, Total transaction: 7504, Transaction ERC-721: 0
+2023-03-03 06:47:46,629,629 root INFO Block: 4632728 To 4632744, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632728 To 4632744, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:47:48,755,755 root INFO Block: 4632728 To 4632736, Step block: 8, Total transaction: 6000, Transaction ERC-721: 0
+Block: 4632728 To 4632736, Step block: 8, Total transaction: 6000, Transaction ERC-721: 0
+2023-03-03 06:47:50,790,790 root INFO Block: 4632736 To 4632744, Step block: 8, Total transaction: 4506, Transaction ERC-721: 0
+Block: 4632736 To 4632744, Step block: 8, Total transaction: 4506, Transaction ERC-721: 0
+2023-03-03 06:47:52,564,564 root INFO Block: 4632744 To 4632752, Step block: 8, Total transaction: 2004, Transaction ERC-721: 0
+Block: 4632744 To 4632752, Step block: 8, Total transaction: 2004, Transaction ERC-721: 0
+2023-03-03 06:47:54,981,981 root INFO Block: 4632752 To 4632768, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632752 To 4632768, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:47:57,261,261 root INFO Block: 4632752 To 4632760, Step block: 8, Total transaction: 7500, Transaction ERC-721: 0
+Block: 4632752 To 4632760, Step block: 8, Total transaction: 7500, Transaction ERC-721: 0
+2023-03-03 06:47:59,379,379 root INFO Block: 4632760 To 4632768, Step block: 8, Total transaction: 5003, Transaction ERC-721: 0
+Block: 4632760 To 4632768, Step block: 8, Total transaction: 5003, Transaction ERC-721: 0
+2023-03-03 06:48:01,599,599 root INFO Block: 4632768 To 4632776, Step block: 8, Total transaction: 7003, Transaction ERC-721: 0
+Block: 4632768 To 4632776, Step block: 8, Total transaction: 7003, Transaction ERC-721: 0
+2023-03-03 06:48:03,291,291 root INFO Block: 4632776 To 4632784, Step block: 8, Total transaction: 2004, Transaction ERC-721: 0
+Block: 4632776 To 4632784, Step block: 8, Total transaction: 2004, Transaction ERC-721: 0
+2023-03-03 06:48:05,504,504 root INFO Block: 4632784 To 4632800, Step block: 16, Total transaction: 8007, Transaction ERC-721: 0
+Block: 4632784 To 4632800, Step block: 16, Total transaction: 8007, Transaction ERC-721: 0
+2023-03-03 06:48:07,538,538 root INFO Block: 4632800 To 4632816, Step block: 16, Total transaction: 5504, Transaction ERC-721: 0
+Block: 4632800 To 4632816, Step block: 16, Total transaction: 5504, Transaction ERC-721: 0
+2023-03-03 06:48:09,251,251 root INFO Block: 4632816 To 4632832, Step block: 16, Total transaction: 3502, Transaction ERC-721: 0
+Block: 4632816 To 4632832, Step block: 16, Total transaction: 3502, Transaction ERC-721: 0
+2023-03-03 06:48:16,666,666 root INFO Block: 4632832 To 4632864, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632832 To 4632864, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:48:18,811,811 root INFO Block: 4632832 To 4632848, Step block: 16, Total transaction: 5505, Transaction ERC-721: 0
+Block: 4632832 To 4632848, Step block: 16, Total transaction: 5505, Transaction ERC-721: 0
+2023-03-03 06:48:20,806,806 root INFO Block: 4632848 To 4632864, Step block: 16, Total transaction: 5010, Transaction ERC-721: 0
+Block: 4632848 To 4632864, Step block: 16, Total transaction: 5010, Transaction ERC-721: 0
+2023-03-03 06:48:23,027,27 root INFO Block: 4632864 To 4632880, Step block: 16, Total transaction: 8002, Transaction ERC-721: 0
+Block: 4632864 To 4632880, Step block: 16, Total transaction: 8002, Transaction ERC-721: 0
+2023-03-03 06:48:24,968,968 root INFO Block: 4632880 To 4632896, Step block: 16, Total transaction: 4504, Transaction ERC-721: 0
+Block: 4632880 To 4632896, Step block: 16, Total transaction: 4504, Transaction ERC-721: 0
+2023-03-03 06:48:26,688,688 root INFO Block: 4632896 To 4632912, Step block: 16, Total transaction: 3501, Transaction ERC-721: 0
+Block: 4632896 To 4632912, Step block: 16, Total transaction: 3501, Transaction ERC-721: 0
+2023-03-03 06:48:34,000,0 root INFO Block: 4632912 To 4632944, Step block: 32, Total transaction: 9011, Transaction ERC-721: 0
+Block: 4632912 To 4632944, Step block: 32, Total transaction: 9011, Transaction ERC-721: 0
+2023-03-03 06:48:36,445,445 root INFO Block: 4632944 To 4632976, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4632944 To 4632976, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:48:38,510,510 root INFO Block: 4632944 To 4632960, Step block: 16, Total transaction: 8003, Transaction ERC-721: 0
+Block: 4632944 To 4632960, Step block: 16, Total transaction: 8003, Transaction ERC-721: 0
+2023-03-03 06:48:40,839,839 root INFO Block: 4632960 To 4632976, Step block: 16, Total transaction: 8503, Transaction ERC-721: 0
+Block: 4632960 To 4632976, Step block: 16, Total transaction: 8503, Transaction ERC-721: 0
+2023-03-03 06:48:42,862,862 root INFO Block: 4632976 To 4632992, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+Block: 4632976 To 4632992, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+2023-03-03 06:48:45,794,794 root INFO Block: 4632992 To 4633008, Step block: 16, Total transaction: 4001, Transaction ERC-721: 0
+Block: 4632992 To 4633008, Step block: 16, Total transaction: 4001, Transaction ERC-721: 0
+2023-03-03 06:48:47,486,486 root INFO Block: 4633008 To 4633024, Step block: 16, Total transaction: 3506, Transaction ERC-721: 0
+Block: 4633008 To 4633024, Step block: 16, Total transaction: 3506, Transaction ERC-721: 0
+2023-03-03 06:48:49,919,919 root INFO Block: 4633024 To 4633056, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633024 To 4633056, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:48:52,199,199 root INFO Block: 4633024 To 4633040, Step block: 16, Total transaction: 9006, Transaction ERC-721: 0
+Block: 4633024 To 4633040, Step block: 16, Total transaction: 9006, Transaction ERC-721: 0
+2023-03-03 06:48:54,171,171 root INFO Block: 4633040 To 4633056, Step block: 16, Total transaction: 6000, Transaction ERC-721: 0
+Block: 4633040 To 4633056, Step block: 16, Total transaction: 6000, Transaction ERC-721: 0
+2023-03-03 06:48:56,154,154 root INFO Block: 4633056 To 4633072, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+Block: 4633056 To 4633072, Step block: 16, Total transaction: 6005, Transaction ERC-721: 0
+2023-03-03 06:48:58,512,512 root INFO Block: 4633072 To 4633088, Step block: 16, Total transaction: 9502, Transaction ERC-721: 0
+Block: 4633072 To 4633088, Step block: 16, Total transaction: 9502, Transaction ERC-721: 0
+2023-03-03 06:49:00,850,850 root INFO Block: 4633088 To 4633104, Step block: 16, Total transaction: 8507, Transaction ERC-721: 0
+Block: 4633088 To 4633104, Step block: 16, Total transaction: 8507, Transaction ERC-721: 0
+2023-03-03 06:49:02,551,551 root INFO Block: 4633104 To 4633120, Step block: 16, Total transaction: 2511, Transaction ERC-721: 0
+Block: 4633104 To 4633120, Step block: 16, Total transaction: 2511, Transaction ERC-721: 0
+2023-03-03 06:49:04,892,892 root INFO Block: 4633120 To 4633152, Step block: 32, Total transaction: 8512, Transaction ERC-721: 0
+Block: 4633120 To 4633152, Step block: 32, Total transaction: 8512, Transaction ERC-721: 0
+2023-03-03 06:49:07,240,240 root INFO Block: 4633152 To 4633184, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633152 To 4633184, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:49:10,618,618 root INFO Block: 4633152 To 4633168, Step block: 16, Total transaction: 9507, Transaction ERC-721: 0
+Block: 4633152 To 4633168, Step block: 16, Total transaction: 9507, Transaction ERC-721: 0
+2023-03-03 06:49:12,619,619 root INFO Block: 4633168 To 4633184, Step block: 16, Total transaction: 5514, Transaction ERC-721: 0
+Block: 4633168 To 4633184, Step block: 16, Total transaction: 5514, Transaction ERC-721: 0
+2023-03-03 06:49:14,971,971 root INFO Block: 4633184 To 4633200, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633184 To 4633200, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:49:16,907,907 root INFO Block: 4633184 To 4633192, Step block: 8, Total transaction: 4503, Transaction ERC-721: 0
+Block: 4633184 To 4633192, Step block: 8, Total transaction: 4503, Transaction ERC-721: 0
+2023-03-03 06:49:18,974,974 root INFO Block: 4633192 To 4633200, Step block: 8, Total transaction: 7004, Transaction ERC-721: 0
+Block: 4633192 To 4633200, Step block: 8, Total transaction: 7004, Transaction ERC-721: 0
+2023-03-03 06:49:20,967,967 root INFO Block: 4633200 To 4633208, Step block: 8, Total transaction: 6003, Transaction ERC-721: 0
+Block: 4633200 To 4633208, Step block: 8, Total transaction: 6003, Transaction ERC-721: 0
+2023-03-03 06:49:23,009,9 root INFO Block: 4633208 To 4633216, Step block: 8, Total transaction: 5504, Transaction ERC-721: 0
+Block: 4633208 To 4633216, Step block: 8, Total transaction: 5504, Transaction ERC-721: 0
+2023-03-03 06:49:24,683,683 root INFO Block: 4633216 To 4633224, Step block: 8, Total transaction: 3004, Transaction ERC-721: 0
+Block: 4633216 To 4633224, Step block: 8, Total transaction: 3004, Transaction ERC-721: 0
+2023-03-03 06:49:26,606,606 root INFO Block: 4633224 To 4633240, Step block: 16, Total transaction: 4004, Transaction ERC-721: 0
+Block: 4633224 To 4633240, Step block: 16, Total transaction: 4004, Transaction ERC-721: 0
+2023-03-03 06:49:28,594,594 root INFO Block: 4633240 To 4633256, Step block: 16, Total transaction: 4510, Transaction ERC-721: 0
+Block: 4633240 To 4633256, Step block: 16, Total transaction: 4510, Transaction ERC-721: 0
+2023-03-03 06:49:30,252,252 root INFO Block: 4633256 To 4633272, Step block: 16, Total transaction: 2512, Transaction ERC-721: 0
+Block: 4633256 To 4633272, Step block: 16, Total transaction: 2512, Transaction ERC-721: 0
+2023-03-03 06:49:32,633,633 root INFO Block: 4633272 To 4633304, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633272 To 4633304, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:49:34,972,972 root INFO Block: 4633272 To 4633288, Step block: 16, Total transaction: 9006, Transaction ERC-721: 0
+Block: 4633272 To 4633288, Step block: 16, Total transaction: 9006, Transaction ERC-721: 0
+2023-03-03 06:49:36,940,940 root INFO Block: 4633288 To 4633304, Step block: 16, Total transaction: 6006, Transaction ERC-721: 0
+Block: 4633288 To 4633304, Step block: 16, Total transaction: 6006, Transaction ERC-721: 0
+2023-03-03 06:49:38,645,645 root INFO Block: 4633304 To 4633320, Step block: 16, Total transaction: 3509, Transaction ERC-721: 0
+Block: 4633304 To 4633320, Step block: 16, Total transaction: 3509, Transaction ERC-721: 0
+2023-03-03 06:49:40,965,965 root INFO Block: 4633320 To 4633352, Step block: 32, Total transaction: 8514, Transaction ERC-721: 0
+Block: 4633320 To 4633352, Step block: 32, Total transaction: 8514, Transaction ERC-721: 0
+2023-03-03 06:49:43,276,276 root INFO Block: 4633352 To 4633384, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633352 To 4633384, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:49:45,210,210 root INFO Block: 4633352 To 4633368, Step block: 16, Total transaction: 4504, Transaction ERC-721: 0
+Block: 4633352 To 4633368, Step block: 16, Total transaction: 4504, Transaction ERC-721: 0
+2023-03-03 06:49:47,305,305 root INFO Block: 4633368 To 4633384, Step block: 16, Total transaction: 7504, Transaction ERC-721: 0
+Block: 4633368 To 4633384, Step block: 16, Total transaction: 7504, Transaction ERC-721: 0
+2023-03-03 06:49:56,451,451 root INFO Block: 4633384 To 4633400, Step block: 16, Total transaction: 4004, Transaction ERC-721: 0
+Block: 4633384 To 4633400, Step block: 16, Total transaction: 4004, Transaction ERC-721: 0
+2023-03-03 06:49:58,553,553 root INFO Block: 4633400 To 4633416, Step block: 16, Total transaction: 7010, Transaction ERC-721: 0
+Block: 4633400 To 4633416, Step block: 16, Total transaction: 7010, Transaction ERC-721: 0
+2023-03-03 06:50:00,803,803 root INFO Block: 4633416 To 4633432, Step block: 16, Total transaction: 7506, Transaction ERC-721: 0
+Block: 4633416 To 4633432, Step block: 16, Total transaction: 7506, Transaction ERC-721: 0
+2023-03-03 06:50:02,760,760 root INFO Block: 4633432 To 4633448, Step block: 16, Total transaction: 4507, Transaction ERC-721: 0
+Block: 4633432 To 4633448, Step block: 16, Total transaction: 4507, Transaction ERC-721: 0
+2023-03-03 06:50:04,432,432 root INFO Block: 4633448 To 4633464, Step block: 16, Total transaction: 2510, Transaction ERC-721: 0
+Block: 4633448 To 4633464, Step block: 16, Total transaction: 2510, Transaction ERC-721: 0
+2023-03-03 06:50:06,780,780 root INFO Block: 4633464 To 4633496, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633464 To 4633496, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:50:08,983,983 root INFO Block: 4633464 To 4633480, Step block: 16, Total transaction: 6509, Transaction ERC-721: 0
+Block: 4633464 To 4633480, Step block: 16, Total transaction: 6509, Transaction ERC-721: 0
+2023-03-03 06:50:10,920,920 root INFO Block: 4633480 To 4633496, Step block: 16, Total transaction: 4002, Transaction ERC-721: 0
+Block: 4633480 To 4633496, Step block: 16, Total transaction: 4002, Transaction ERC-721: 0
+2023-03-03 06:50:12,905,905 root INFO Block: 4633496 To 4633512, Step block: 16, Total transaction: 6007, Transaction ERC-721: 0
+Block: 4633496 To 4633512, Step block: 16, Total transaction: 6007, Transaction ERC-721: 0
+2023-03-03 06:50:15,031,31 root INFO Block: 4633512 To 4633528, Step block: 16, Total transaction: 7012, Transaction ERC-721: 0
+Block: 4633512 To 4633528, Step block: 16, Total transaction: 7012, Transaction ERC-721: 0
+2023-03-03 06:50:17,036,36 root INFO Block: 4633528 To 4633544, Step block: 16, Total transaction: 5007, Transaction ERC-721: 0
+Block: 4633528 To 4633544, Step block: 16, Total transaction: 5007, Transaction ERC-721: 0
+2023-03-03 06:50:20,009,9 root INFO Block: 4633544 To 4633560, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+Block: 4633544 To 4633560, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+2023-03-03 06:50:22,282,282 root INFO Block: 4633560 To 4633576, Step block: 16, Total transaction: 8005, Transaction ERC-721: 0
+Block: 4633560 To 4633576, Step block: 16, Total transaction: 8005, Transaction ERC-721: 0
+2023-03-03 06:50:24,578,578 root INFO Block: 4633576 To 4633592, Step block: 16, Total transaction: 8507, Transaction ERC-721: 0
+Block: 4633576 To 4633592, Step block: 16, Total transaction: 8507, Transaction ERC-721: 0
+2023-03-03 06:50:26,557,557 root INFO Block: 4633592 To 4633608, Step block: 16, Total transaction: 6502, Transaction ERC-721: 0
+Block: 4633592 To 4633608, Step block: 16, Total transaction: 6502, Transaction ERC-721: 0
+2023-03-03 06:50:28,932,932 root INFO Block: 4633608 To 4633624, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633608 To 4633624, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:50:30,957,957 root INFO Block: 4633608 To 4633616, Step block: 8, Total transaction: 7502, Transaction ERC-721: 0
+Block: 4633608 To 4633616, Step block: 8, Total transaction: 7502, Transaction ERC-721: 0
+2023-03-03 06:50:32,646,646 root INFO Block: 4633616 To 4633624, Step block: 8, Total transaction: 3006, Transaction ERC-721: 0
+Block: 4633616 To 4633624, Step block: 8, Total transaction: 3006, Transaction ERC-721: 0
+2023-03-03 06:50:34,599,599 root INFO Block: 4633624 To 4633640, Step block: 16, Total transaction: 5001, Transaction ERC-721: 0
+Block: 4633624 To 4633640, Step block: 16, Total transaction: 5001, Transaction ERC-721: 0
+2023-03-03 06:50:36,315,315 root INFO Block: 4633640 To 4633656, Step block: 16, Total transaction: 3506, Transaction ERC-721: 0
+Block: 4633640 To 4633656, Step block: 16, Total transaction: 3506, Transaction ERC-721: 0
+2023-03-03 06:50:38,805,805 root INFO Block: 4633656 To 4633688, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633656 To 4633688, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:50:40,794,794 root INFO Block: 4633656 To 4633672, Step block: 16, Total transaction: 7004, Transaction ERC-721: 0
+Block: 4633656 To 4633672, Step block: 16, Total transaction: 7004, Transaction ERC-721: 0
+2023-03-03 06:50:42,850,850 root INFO Block: 4633672 To 4633688, Step block: 16, Total transaction: 7004, Transaction ERC-721: 0
+Block: 4633672 To 4633688, Step block: 16, Total transaction: 7004, Transaction ERC-721: 0
+2023-03-03 06:50:45,122,122 root INFO Block: 4633688 To 4633704, Step block: 16, Total transaction: 8007, Transaction ERC-721: 0
+Block: 4633688 To 4633704, Step block: 16, Total transaction: 8007, Transaction ERC-721: 0
+2023-03-03 06:50:47,256,256 root INFO Block: 4633704 To 4633720, Step block: 16, Total transaction: 7006, Transaction ERC-721: 0
+Block: 4633704 To 4633720, Step block: 16, Total transaction: 7006, Transaction ERC-721: 0
+2023-03-03 06:50:49,518,518 root INFO Block: 4633720 To 4633736, Step block: 16, Total transaction: 8501, Transaction ERC-721: 0
+Block: 4633720 To 4633736, Step block: 16, Total transaction: 8501, Transaction ERC-721: 0
+2023-03-03 06:50:51,825,825 root INFO Block: 4633736 To 4633752, Step block: 16, Total transaction: 8001, Transaction ERC-721: 0
+Block: 4633736 To 4633752, Step block: 16, Total transaction: 8001, Transaction ERC-721: 0
+2023-03-03 06:50:54,209,209 root INFO Block: 4633752 To 4633768, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4633752 To 4633768, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:50:56,132,132 root INFO Block: 4633752 To 4633760, Step block: 8, Total transaction: 4502, Transaction ERC-721: 0
+Block: 4633752 To 4633760, Step block: 8, Total transaction: 4502, Transaction ERC-721: 0
+2023-03-03 06:50:58,132,132 root INFO Block: 4633760 To 4633768, Step block: 8, Total transaction: 6001, Transaction ERC-721: 0
+Block: 4633760 To 4633768, Step block: 8, Total transaction: 6001, Transaction ERC-721: 0
+2023-03-03 06:51:00,125,125 root INFO Block: 4633768 To 4633776, Step block: 8, Total transaction: 5002, Transaction ERC-721: 0
+Block: 4633768 To 4633776, Step block: 8, Total transaction: 5002, Transaction ERC-721: 0
+2023-03-03 06:51:02,074,74 root INFO Block: 4633776 To 4633784, Step block: 8, Total transaction: 4501, Transaction ERC-721: 0
+Block: 4633776 To 4633784, Step block: 8, Total transaction: 4501, Transaction ERC-721: 0
+2023-03-03 06:51:04,057,57 root INFO Block: 4633784 To 4633792, Step block: 8, Total transaction: 5000, Transaction ERC-721: 0
+Block: 4633784 To 4633792, Step block: 8, Total transaction: 5000, Transaction ERC-721: 0
+2023-03-03 06:51:05,774,774 root INFO Block: 4633792 To 4633800, Step block: 8, Total transaction: 3503, Transaction ERC-721: 0
+Block: 4633792 To 4633800, Step block: 8, Total transaction: 3503, Transaction ERC-721: 0
+2023-03-03 06:51:07,781,781 root INFO Block: 4633800 To 4633816, Step block: 16, Total transaction: 5505, Transaction ERC-721: 0
+Block: 4633800 To 4633816, Step block: 16, Total transaction: 5505, Transaction ERC-721: 0
+2023-03-03 06:51:09,782,782 root INFO Block: 4633816 To 4633832, Step block: 16, Total transaction: 6002, Transaction ERC-721: 0
+Block: 4633816 To 4633832, Step block: 16, Total transaction: 6002, Transaction ERC-721: 0
+2023-03-03 06:51:11,779,779 root INFO Block: 4633832 To 4633848, Step block: 16, Total transaction: 5503, Transaction ERC-721: 0
+Block: 4633832 To 4633848, Step block: 16, Total transaction: 5503, Transaction ERC-721: 0
+2023-03-03 06:51:12,694,694 root INFO Block: 4633848 To 4633864, Step block: 16, Total transaction: 10, Transaction ERC-721: 0
+Block: 4633848 To 4633864, Step block: 16, Total transaction: 10, Transaction ERC-721: 0
+2023-03-03 06:51:13,844,844 root INFO Block: 4633864 To 4633896, Step block: 32, Total transaction: 515, Transaction ERC-721: 0
+Block: 4633864 To 4633896, Step block: 32, Total transaction: 515, Transaction ERC-721: 0
+2023-03-03 06:51:15,880,880 root INFO Block: 4633896 To 4633960, Step block: 64, Total transaction: 7532, Transaction ERC-721: 0
+Block: 4633896 To 4633960, Step block: 64, Total transaction: 7532, Transaction ERC-721: 0
+2023-03-03 06:51:18,012,12 root INFO Block: 4633960 To 4634024, Step block: 64, Total transaction: 8017, Transaction ERC-721: 0
+Block: 4633960 To 4634024, Step block: 64, Total transaction: 8017, Transaction ERC-721: 0
+2023-03-03 06:51:19,980,980 root INFO Block: 4634024 To 4634088, Step block: 64, Total transaction: 6018, Transaction ERC-721: 0
+Block: 4634024 To 4634088, Step block: 64, Total transaction: 6018, Transaction ERC-721: 0
+2023-03-03 06:51:22,280,280 root INFO Block: 4634088 To 4634152, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634088 To 4634152, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:51:24,605,605 root INFO Block: 4634088 To 4634120, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634088 To 4634120, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:51:26,251,251 root INFO Block: 4634088 To 4634104, Step block: 16, Total transaction: 2503, Transaction ERC-721: 0
+Block: 4634088 To 4634104, Step block: 16, Total transaction: 2503, Transaction ERC-721: 0
+2023-03-03 06:51:28,620,620 root INFO Block: 4634104 To 4634136, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634104 To 4634136, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:51:31,176,176 root INFO Block: 4634104 To 4634120, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634104 To 4634120, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:51:33,146,146 root INFO Block: 4634104 To 4634112, Step block: 8, Total transaction: 5501, Transaction ERC-721: 0
+Block: 4634104 To 4634112, Step block: 8, Total transaction: 5501, Transaction ERC-721: 0
+2023-03-03 06:51:35,429,429 root INFO Block: 4634112 To 4634120, Step block: 8, Total transaction: 9000, Transaction ERC-721: 0
+Block: 4634112 To 4634120, Step block: 8, Total transaction: 9000, Transaction ERC-721: 0
+2023-03-03 06:51:37,404,404 root INFO Block: 4634120 To 4634128, Step block: 8, Total transaction: 4500, Transaction ERC-721: 0
+Block: 4634120 To 4634128, Step block: 8, Total transaction: 4500, Transaction ERC-721: 0
+2023-03-03 06:51:39,068,68 root INFO Block: 4634128 To 4634136, Step block: 8, Total transaction: 2500, Transaction ERC-721: 0
+Block: 4634128 To 4634136, Step block: 8, Total transaction: 2500, Transaction ERC-721: 0
+2023-03-03 06:51:40,778,778 root INFO Block: 4634136 To 4634152, Step block: 16, Total transaction: 3501, Transaction ERC-721: 0
+Block: 4634136 To 4634152, Step block: 16, Total transaction: 3501, Transaction ERC-721: 0
+2023-03-03 06:51:43,133,133 root INFO Block: 4634152 To 4634184, Step block: 32, Total transaction: 9008, Transaction ERC-721: 0
+Block: 4634152 To 4634184, Step block: 32, Total transaction: 9008, Transaction ERC-721: 0
+2023-03-03 06:51:45,256,256 root INFO Block: 4634184 To 4634216, Step block: 32, Total transaction: 6505, Transaction ERC-721: 0
+Block: 4634184 To 4634216, Step block: 32, Total transaction: 6505, Transaction ERC-721: 0
+2023-03-03 06:51:50,676,676 root INFO Block: 4634216 To 4634248, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634216 To 4634248, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:51:52,613,613 root INFO Block: 4634216 To 4634232, Step block: 16, Total transaction: 4003, Transaction ERC-721: 0
+Block: 4634216 To 4634232, Step block: 16, Total transaction: 4003, Transaction ERC-721: 0
+2023-03-03 06:51:54,954,954 root INFO Block: 4634232 To 4634248, Step block: 16, Total transaction: 9503, Transaction ERC-721: 0
+Block: 4634232 To 4634248, Step block: 16, Total transaction: 9503, Transaction ERC-721: 0
+2023-03-03 06:51:57,288,288 root INFO Block: 4634248 To 4634264, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634248 To 4634264, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:51:59,411,411 root INFO Block: 4634248 To 4634256, Step block: 8, Total transaction: 8001, Transaction ERC-721: 0
+Block: 4634248 To 4634256, Step block: 8, Total transaction: 8001, Transaction ERC-721: 0
+2023-03-03 06:52:01,382,382 root INFO Block: 4634256 To 4634264, Step block: 8, Total transaction: 5001, Transaction ERC-721: 0
+Block: 4634256 To 4634264, Step block: 8, Total transaction: 5001, Transaction ERC-721: 0
+2023-03-03 06:52:03,347,347 root INFO Block: 4634264 To 4634272, Step block: 8, Total transaction: 4502, Transaction ERC-721: 0
+Block: 4634264 To 4634272, Step block: 8, Total transaction: 4502, Transaction ERC-721: 0
+2023-03-03 06:52:05,055,55 root INFO Block: 4634272 To 4634280, Step block: 8, Total transaction: 3001, Transaction ERC-721: 0
+Block: 4634272 To 4634280, Step block: 8, Total transaction: 3001, Transaction ERC-721: 0
+2023-03-03 06:52:07,365,365 root INFO Block: 4634280 To 4634296, Step block: 16, Total transaction: 8002, Transaction ERC-721: 0
+Block: 4634280 To 4634296, Step block: 16, Total transaction: 8002, Transaction ERC-721: 0
+2023-03-03 06:52:09,704,704 root INFO Block: 4634296 To 4634312, Step block: 16, Total transaction: 9002, Transaction ERC-721: 0
+Block: 4634296 To 4634312, Step block: 16, Total transaction: 9002, Transaction ERC-721: 0
+2023-03-03 06:52:11,792,792 root INFO Block: 4634312 To 4634328, Step block: 16, Total transaction: 7502, Transaction ERC-721: 0
+Block: 4634312 To 4634328, Step block: 16, Total transaction: 7502, Transaction ERC-721: 0
+2023-03-03 06:52:14,232,232 root INFO Block: 4634328 To 4634344, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634328 To 4634344, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:15,918,918 root INFO Block: 4634328 To 4634336, Step block: 8, Total transaction: 3000, Transaction ERC-721: 0
+Block: 4634328 To 4634336, Step block: 8, Total transaction: 3000, Transaction ERC-721: 0
+2023-03-03 06:52:18,265,265 root INFO Block: 4634336 To 4634352, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634336 To 4634352, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:20,633,633 root INFO Block: 4634336 To 4634344, Step block: 8, Total transaction: 8503, Transaction ERC-721: 0
+Block: 4634336 To 4634344, Step block: 8, Total transaction: 8503, Transaction ERC-721: 0
+2023-03-03 06:52:22,652,652 root INFO Block: 4634344 To 4634352, Step block: 8, Total transaction: 5505, Transaction ERC-721: 0
+Block: 4634344 To 4634352, Step block: 8, Total transaction: 5505, Transaction ERC-721: 0
+2023-03-03 06:52:24,699,699 root INFO Block: 4634352 To 4634360, Step block: 8, Total transaction: 6002, Transaction ERC-721: 0
+Block: 4634352 To 4634360, Step block: 8, Total transaction: 6002, Transaction ERC-721: 0
+2023-03-03 06:52:26,380,380 root INFO Block: 4634360 To 4634368, Step block: 8, Total transaction: 3500, Transaction ERC-721: 0
+Block: 4634360 To 4634368, Step block: 8, Total transaction: 3500, Transaction ERC-721: 0
+2023-03-03 06:52:28,773,773 root INFO Block: 4634368 To 4634384, Step block: 16, Total transaction: 9502, Transaction ERC-721: 0
+Block: 4634368 To 4634384, Step block: 16, Total transaction: 9502, Transaction ERC-721: 0
+2023-03-03 06:52:31,150,150 root INFO Block: 4634384 To 4634400, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634384 To 4634400, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:33,168,168 root INFO Block: 4634384 To 4634392, Step block: 8, Total transaction: 7501, Transaction ERC-721: 0
+Block: 4634384 To 4634392, Step block: 8, Total transaction: 7501, Transaction ERC-721: 0
+2023-03-03 06:52:35,167,167 root INFO Block: 4634392 To 4634400, Step block: 8, Total transaction: 6000, Transaction ERC-721: 0
+Block: 4634392 To 4634400, Step block: 8, Total transaction: 6000, Transaction ERC-721: 0
+2023-03-03 06:52:37,138,138 root INFO Block: 4634400 To 4634408, Step block: 8, Total transaction: 5500, Transaction ERC-721: 0
+Block: 4634400 To 4634408, Step block: 8, Total transaction: 5500, Transaction ERC-721: 0
+2023-03-03 06:52:38,791,791 root INFO Block: 4634408 To 4634416, Step block: 8, Total transaction: 2500, Transaction ERC-721: 0
+Block: 4634408 To 4634416, Step block: 8, Total transaction: 2500, Transaction ERC-721: 0
+2023-03-03 06:52:39,700,700 root INFO Block: 4634416 To 4634432, Step block: 16, Total transaction: 4, Transaction ERC-721: 0
+Block: 4634416 To 4634432, Step block: 16, Total transaction: 4, Transaction ERC-721: 0
+2023-03-03 06:52:40,621,621 root INFO Block: 4634432 To 4634464, Step block: 32, Total transaction: 2, Transaction ERC-721: 0
+Block: 4634432 To 4634464, Step block: 32, Total transaction: 2, Transaction ERC-721: 0
+2023-03-03 06:52:41,537,537 root INFO Block: 4634464 To 4634528, Step block: 64, Total transaction: 13, Transaction ERC-721: 0
+Block: 4634464 To 4634528, Step block: 64, Total transaction: 13, Transaction ERC-721: 0
+2023-03-03 06:52:42,450,450 root INFO Block: 4634528 To 4634656, Step block: 128, Total transaction: 10, Transaction ERC-721: 0
+Block: 4634528 To 4634656, Step block: 128, Total transaction: 10, Transaction ERC-721: 0
+2023-03-03 06:52:44,868,868 root INFO Block: 4634656 To 4634912, Step block: 256, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634656 To 4634912, Step block: 256, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:45,781,781 root INFO Block: 4634656 To 4634784, Step block: 128, Total transaction: 6, Transaction ERC-721: 0
+Block: 4634656 To 4634784, Step block: 128, Total transaction: 6, Transaction ERC-721: 0
+2023-03-03 06:52:48,083,83 root INFO Block: 4634784 To 4635040, Step block: 256, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634784 To 4635040, Step block: 256, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:50,460,460 root INFO Block: 4634784 To 4634912, Step block: 128, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634784 To 4634912, Step block: 128, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:53,884,884 root INFO Block: 4634784 To 4634848, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634784 To 4634848, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:54,806,806 root INFO Block: 4634784 To 4634816, Step block: 32, Total transaction: 1, Transaction ERC-721: 0
+Block: 4634784 To 4634816, Step block: 32, Total transaction: 1, Transaction ERC-721: 0
+2023-03-03 06:52:57,108,108 root INFO Block: 4634816 To 4634880, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634816 To 4634880, Step block: 64, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:52:59,449,449 root INFO Block: 4634816 To 4634848, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634816 To 4634848, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:53:01,426,426 root INFO Block: 4634816 To 4634832, Step block: 16, Total transaction: 6501, Transaction ERC-721: 0
+Block: 4634816 To 4634832, Step block: 16, Total transaction: 6501, Transaction ERC-721: 0
+2023-03-03 06:53:03,430,430 root INFO Block: 4634832 To 4634848, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+Block: 4634832 To 4634848, Step block: 16, Total transaction: 5004, Transaction ERC-721: 0
+2023-03-03 06:53:05,444,444 root INFO Block: 4634848 To 4634864, Step block: 16, Total transaction: 6501, Transaction ERC-721: 0
+Block: 4634848 To 4634864, Step block: 16, Total transaction: 6501, Transaction ERC-721: 0
+2023-03-03 06:53:07,813,813 root INFO Block: 4634864 To 4634880, Step block: 16, Total transaction: 9500, Transaction ERC-721: 0
+Block: 4634864 To 4634880, Step block: 16, Total transaction: 9500, Transaction ERC-721: 0
+2023-03-03 06:53:09,488,488 root INFO Block: 4634880 To 4634896, Step block: 16, Total transaction: 3004, Transaction ERC-721: 0
+Block: 4634880 To 4634896, Step block: 16, Total transaction: 3004, Transaction ERC-721: 0
+2023-03-03 06:53:11,815,815 root INFO Block: 4634896 To 4634928, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634896 To 4634928, Step block: 32, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:53:13,785,785 root INFO Block: 4634896 To 4634912, Step block: 16, Total transaction: 5003, Transaction ERC-721: 0
+Block: 4634896 To 4634912, Step block: 16, Total transaction: 5003, Transaction ERC-721: 0
+2023-03-03 06:53:15,796,796 root INFO Block: 4634912 To 4634928, Step block: 16, Total transaction: 6500, Transaction ERC-721: 0
+Block: 4634912 To 4634928, Step block: 16, Total transaction: 6500, Transaction ERC-721: 0
+2023-03-03 06:53:17,862,862 root INFO Block: 4634928 To 4634944, Step block: 16, Total transaction: 7002, Transaction ERC-721: 0
+Block: 4634928 To 4634944, Step block: 16, Total transaction: 7002, Transaction ERC-721: 0
+2023-03-03 06:53:20,416,416 root INFO Block: 4634944 To 4634960, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4634944 To 4634960, Step block: 16, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:53:22,474,474 root INFO Block: 4634944 To 4634952, Step block: 8, Total transaction: 6002, Transaction ERC-721: 0
+Block: 4634944 To 4634952, Step block: 8, Total transaction: 6002, Transaction ERC-721: 0
+2023-03-03 06:53:24,477,477 root INFO Block: 4634952 To 4634960, Step block: 8, Total transaction: 6504, Transaction ERC-721: 0
+Block: 4634952 To 4634960, Step block: 8, Total transaction: 6504, Transaction ERC-721: 0
+2023-03-03 06:53:26,176,176 root INFO Block: 4634960 To 4634968, Step block: 8, Total transaction: 3003, Transaction ERC-721: 0
+Block: 4634960 To 4634968, Step block: 8, Total transaction: 3003, Transaction ERC-721: 0
+2023-03-03 06:53:28,155,155 root INFO Block: 4634968 To 4634984, Step block: 16, Total transaction: 5238, Transaction ERC-721: 0
+Block: 4634968 To 4634984, Step block: 16, Total transaction: 5238, Transaction ERC-721: 0
+2023-03-03 06:53:29,088,88 root INFO Block: 4634984 To 4635000, Step block: 16, Total transaction: 1, Transaction ERC-721: 0
+Block: 4634984 To 4635000, Step block: 16, Total transaction: 1, Transaction ERC-721: 0
+2023-03-03 06:53:29,998,998 root INFO Block: 4635000 To 4635032, Step block: 32, Total transaction: 3, Transaction ERC-721: 0
+Block: 4635000 To 4635032, Step block: 32, Total transaction: 3, Transaction ERC-721: 0
+2023-03-03 06:53:30,908,908 root INFO Block: 4635032 To 4635096, Step block: 64, Total transaction: 5, Transaction ERC-721: 0
+Block: 4635032 To 4635096, Step block: 64, Total transaction: 5, Transaction ERC-721: 0
+2023-03-03 06:53:31,830,830 root INFO Block: 4635096 To 4635224, Step block: 128, Total transaction: 11, Transaction ERC-721: 0
+Block: 4635096 To 4635224, Step block: 128, Total transaction: 11, Transaction ERC-721: 0
+2023-03-03 06:53:32,747,747 root INFO Block: 4635224 To 4635480, Step block: 256, Total transaction: 18, Transaction ERC-721: 0
+Block: 4635224 To 4635480, Step block: 256, Total transaction: 18, Transaction ERC-721: 0
+2023-03-03 06:53:33,668,668 root INFO Block: 4635480 To 4635992, Step block: 512, Total transaction: 48, Transaction ERC-721: 0
+Block: 4635480 To 4635992, Step block: 512, Total transaction: 48, Transaction ERC-721: 0
+2023-03-03 06:53:34,862,862 root INFO Block: 4635992 To 4637016, Step block: 1024, Total transaction: 122, Transaction ERC-721: 0
+Block: 4635992 To 4637016, Step block: 1024, Total transaction: 122, Transaction ERC-721: 0
+2023-03-03 06:53:36,679,679 root INFO Block: 4637016 To 4639064, Step block: 2048, Total transaction: 780, Transaction ERC-721: 0
+Block: 4637016 To 4639064, Step block: 2048, Total transaction: 780, Transaction ERC-721: 0
+2023-03-03 06:53:38,447,447 root INFO Block: 4639064 To 4643160, Step block: 4096, Total transaction: 447, Transaction ERC-721: 2
+Block: 4639064 To 4643160, Step block: 4096, Total transaction: 447, Transaction ERC-721: 2
+2023-03-03 06:53:42,014,14 root INFO Block: 4643160 To 4651352, Step block: 8192, Total transaction: 6335, Transaction ERC-721: 0
+Block: 4643160 To 4651352, Step block: 8192, Total transaction: 6335, Transaction ERC-721: 0
+2023-03-03 06:53:45,136,136 root INFO Block: 4651352 To 4659544, Step block: 8192, Total transaction: 2563, Transaction ERC-721: 0
+Block: 4651352 To 4659544, Step block: 8192, Total transaction: 2563, Transaction ERC-721: 0
+2023-03-03 06:53:48,573,573 root INFO Block: 4659544 To 4675928, Step block: 16384, Total transaction: 4683, Transaction ERC-721: 0
+Block: 4659544 To 4675928, Step block: 16384, Total transaction: 4683, Transaction ERC-721: 0
+2023-03-03 06:53:54,041,41 root INFO Block: 4675928 To 4692312, Step block: 16384, Total transaction: 7642, Transaction ERC-721: 0
+Block: 4675928 To 4692312, Step block: 16384, Total transaction: 7642, Transaction ERC-721: 0
+2023-03-03 06:53:58,958,958 root INFO Block: 4692312 To 4708696, Step block: 16384, Total transaction: 5955, Transaction ERC-721: 0
+Block: 4692312 To 4708696, Step block: 16384, Total transaction: 5955, Transaction ERC-721: 0
+2023-03-03 06:54:02,775,775 root INFO Block: 4708696 To 4725080, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4708696 To 4725080, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:04,895,895 root INFO Block: 4708696 To 4716888, Step block: 8192, Total transaction: 2994, Transaction ERC-721: 0
+Block: 4708696 To 4716888, Step block: 8192, Total transaction: 2994, Transaction ERC-721: 0
+2023-03-03 06:54:08,860,860 root INFO Block: 4716888 To 4733272, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4716888 To 4733272, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:11,473,473 root INFO Block: 4716888 To 4725080, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4716888 To 4725080, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:13,797,797 root INFO Block: 4716888 To 4720984, Step block: 4096, Total transaction: 6737, Transaction ERC-721: 0
+Block: 4716888 To 4720984, Step block: 4096, Total transaction: 6737, Transaction ERC-721: 0
+2023-03-03 06:54:17,298,298 root INFO Block: 4720984 To 4725080, Step block: 4096, Total transaction: 8641, Transaction ERC-721: 0
+Block: 4720984 To 4725080, Step block: 4096, Total transaction: 8641, Transaction ERC-721: 0
+2023-03-03 06:54:20,794,794 root INFO Block: 4725080 To 4729176, Step block: 4096, Total transaction: 5009, Transaction ERC-721: 0
+Block: 4725080 To 4729176, Step block: 4096, Total transaction: 5009, Transaction ERC-721: 0
+2023-03-03 06:54:23,595,595 root INFO Block: 4729176 To 4733272, Step block: 4096, Total transaction: 2819, Transaction ERC-721: 0
+Block: 4729176 To 4733272, Step block: 4096, Total transaction: 2819, Transaction ERC-721: 0
+2023-03-03 06:54:27,572,572 root INFO Block: 4733272 To 4741464, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4733272 To 4741464, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:29,935,935 root INFO Block: 4733272 To 4737368, Step block: 4096, Total transaction: 2672, Transaction ERC-721: 0
+Block: 4733272 To 4737368, Step block: 4096, Total transaction: 2672, Transaction ERC-721: 0
+2023-03-03 06:54:32,875,875 root INFO Block: 4737368 To 4745560, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4737368 To 4745560, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:36,042,42 root INFO Block: 4737368 To 4741464, Step block: 4096, Total transaction: 9873, Transaction ERC-721: 0
+Block: 4737368 To 4741464, Step block: 4096, Total transaction: 9873, Transaction ERC-721: 0
+2023-03-03 06:54:38,724,724 root INFO Block: 4741464 To 4745560, Step block: 4096, Total transaction: 2738, Transaction ERC-721: 0
+Block: 4741464 To 4745560, Step block: 4096, Total transaction: 2738, Transaction ERC-721: 0
+2023-03-03 06:54:41,962,962 root INFO Block: 4745560 To 4753752, Step block: 8192, Total transaction: 4034, Transaction ERC-721: 0
+Block: 4745560 To 4753752, Step block: 8192, Total transaction: 4034, Transaction ERC-721: 0
+2023-03-03 06:54:45,469,469 root INFO Block: 4753752 To 4761944, Step block: 8192, Total transaction: 4719, Transaction ERC-721: 0
+Block: 4753752 To 4761944, Step block: 8192, Total transaction: 4719, Transaction ERC-721: 0
+2023-03-03 06:54:48,134,134 root INFO Block: 4761944 To 4770136, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4761944 To 4770136, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:50,520,520 root INFO Block: 4761944 To 4766040, Step block: 4096, Total transaction: 2637, Transaction ERC-721: 0
+Block: 4761944 To 4766040, Step block: 4096, Total transaction: 2637, Transaction ERC-721: 0
+2023-03-03 06:54:54,459,459 root INFO Block: 4766040 To 4774232, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4766040 To 4774232, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:54:57,450,450 root INFO Block: 4766040 To 4770136, Step block: 4096, Total transaction: 8361, Transaction ERC-721: 0
+Block: 4766040 To 4770136, Step block: 4096, Total transaction: 8361, Transaction ERC-721: 0
+2023-03-03 06:55:00,748,748 root INFO Block: 4770136 To 4774232, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4770136 To 4774232, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:04,087,87 root INFO Block: 4770136 To 4772184, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4770136 To 4772184, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:07,205,205 root INFO Block: 4770136 To 4771160, Step block: 1024, Total transaction: 8894, Transaction ERC-721: 0
+Block: 4770136 To 4771160, Step block: 1024, Total transaction: 8894, Transaction ERC-721: 0
+2023-03-03 06:55:09,766,766 root INFO Block: 4771160 To 4772184, Step block: 1024, Total transaction: 3973, Transaction ERC-721: 0
+Block: 4771160 To 4772184, Step block: 1024, Total transaction: 3973, Transaction ERC-721: 0
+2023-03-03 06:55:12,986,986 root INFO Block: 4772184 To 4774232, Step block: 2048, Total transaction: 8779, Transaction ERC-721: 0
+Block: 4772184 To 4774232, Step block: 2048, Total transaction: 8779, Transaction ERC-721: 0
+2023-03-03 06:55:14,779,779 root INFO Block: 4774232 To 4776280, Step block: 2048, Total transaction: 1145, Transaction ERC-721: 0
+Block: 4774232 To 4776280, Step block: 2048, Total transaction: 1145, Transaction ERC-721: 0
+2023-03-03 06:55:18,033,33 root INFO Block: 4776280 To 4780376, Step block: 4096, Total transaction: 5341, Transaction ERC-721: 0
+Block: 4776280 To 4780376, Step block: 4096, Total transaction: 5341, Transaction ERC-721: 0
+2023-03-03 06:55:20,324,324 root INFO Block: 4780376 To 4784472, Step block: 4096, Total transaction: 4268, Transaction ERC-721: 0
+Block: 4780376 To 4784472, Step block: 4096, Total transaction: 4268, Transaction ERC-721: 0
+2023-03-03 06:55:22,522,522 root INFO Block: 4784472 To 4788568, Step block: 4096, Total transaction: 1550, Transaction ERC-721: 0
+Block: 4784472 To 4788568, Step block: 4096, Total transaction: 1550, Transaction ERC-721: 0
+2023-03-03 06:55:25,913,913 root INFO Block: 4788568 To 4796760, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4788568 To 4796760, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:28,198,198 root INFO Block: 4788568 To 4792664, Step block: 4096, Total transaction: 6236, Transaction ERC-721: 0
+Block: 4788568 To 4792664, Step block: 4096, Total transaction: 6236, Transaction ERC-721: 0
+2023-03-03 06:55:30,497,497 root INFO Block: 4792664 To 4796760, Step block: 4096, Total transaction: 6211, Transaction ERC-721: 0
+Block: 4792664 To 4796760, Step block: 4096, Total transaction: 6211, Transaction ERC-721: 0
+2023-03-03 06:55:33,047,47 root INFO Block: 4796760 To 4800856, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4796760 To 4800856, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:34,841,841 root INFO Block: 4796760 To 4798808, Step block: 2048, Total transaction: 790, Transaction ERC-721: 0
+Block: 4796760 To 4798808, Step block: 2048, Total transaction: 790, Transaction ERC-721: 0
+2023-03-03 06:55:37,171,171 root INFO Block: 4798808 To 4802904, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4798808 To 4802904, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:39,555,555 root INFO Block: 4798808 To 4800856, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4798808 To 4800856, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:41,518,518 root INFO Block: 4798808 To 4799832, Step block: 1024, Total transaction: 4099, Transaction ERC-721: 0
+Block: 4798808 To 4799832, Step block: 1024, Total transaction: 4099, Transaction ERC-721: 0
+2023-03-03 06:55:43,962,962 root INFO Block: 4799832 To 4800856, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4799832 To 4800856, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:45,902,902 root INFO Block: 4799832 To 4800344, Step block: 512, Total transaction: 4793, Transaction ERC-721: 0
+Block: 4799832 To 4800344, Step block: 512, Total transaction: 4793, Transaction ERC-721: 0
+2023-03-03 06:55:48,276,276 root INFO Block: 4800344 To 4800856, Step block: 512, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4800344 To 4800856, Step block: 512, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:55:50,307,307 root INFO Block: 4800344 To 4800600, Step block: 256, Total transaction: 7435, Transaction ERC-721: 0
+Block: 4800344 To 4800600, Step block: 256, Total transaction: 7435, Transaction ERC-721: 0
+2023-03-03 06:55:52,322,322 root INFO Block: 4800600 To 4800856, Step block: 256, Total transaction: 5827, Transaction ERC-721: 0
+Block: 4800600 To 4800856, Step block: 256, Total transaction: 5827, Transaction ERC-721: 0
+2023-03-03 06:55:54,358,358 root INFO Block: 4800856 To 4801112, Step block: 256, Total transaction: 4400, Transaction ERC-721: 0
+Block: 4800856 To 4801112, Step block: 256, Total transaction: 4400, Transaction ERC-721: 0
+2023-03-03 06:55:56,046,46 root INFO Block: 4801112 To 4801368, Step block: 256, Total transaction: 2694, Transaction ERC-721: 0
+Block: 4801112 To 4801368, Step block: 256, Total transaction: 2694, Transaction ERC-721: 0
+2023-03-03 06:55:58,194,194 root INFO Block: 4801368 To 4801880, Step block: 512, Total transaction: 6931, Transaction ERC-721: 0
+Block: 4801368 To 4801880, Step block: 512, Total transaction: 6931, Transaction ERC-721: 0
+2023-03-03 06:56:00,786,786 root INFO Block: 4801880 To 4802392, Step block: 512, Total transaction: 9255, Transaction ERC-721: 0
+Block: 4801880 To 4802392, Step block: 512, Total transaction: 9255, Transaction ERC-721: 0
+2023-03-03 06:56:03,191,191 root INFO Block: 4802392 To 4802904, Step block: 512, Total transaction: 7402, Transaction ERC-721: 0
+Block: 4802392 To 4802904, Step block: 512, Total transaction: 7402, Transaction ERC-721: 0
+2023-03-03 06:56:05,371,371 root INFO Block: 4802904 To 4803416, Step block: 512, Total transaction: 7611, Transaction ERC-721: 0
+Block: 4802904 To 4803416, Step block: 512, Total transaction: 7611, Transaction ERC-721: 0
+2023-03-03 06:56:07,455,455 root INFO Block: 4803416 To 4803928, Step block: 512, Total transaction: 6525, Transaction ERC-721: 0
+Block: 4803416 To 4803928, Step block: 512, Total transaction: 6525, Transaction ERC-721: 0
+2023-03-03 06:56:09,526,526 root INFO Block: 4803928 To 4804440, Step block: 512, Total transaction: 5758, Transaction ERC-721: 0
+Block: 4803928 To 4804440, Step block: 512, Total transaction: 5758, Transaction ERC-721: 0
+2023-03-03 06:56:11,616,616 root INFO Block: 4804440 To 4804952, Step block: 512, Total transaction: 7156, Transaction ERC-721: 0
+Block: 4804440 To 4804952, Step block: 512, Total transaction: 7156, Transaction ERC-721: 0
+2023-03-03 06:56:13,725,725 root INFO Block: 4804952 To 4805464, Step block: 512, Total transaction: 7363, Transaction ERC-721: 0
+Block: 4804952 To 4805464, Step block: 512, Total transaction: 7363, Transaction ERC-721: 0
+2023-03-03 06:56:15,942,942 root INFO Block: 4805464 To 4805976, Step block: 512, Total transaction: 7837, Transaction ERC-721: 0
+Block: 4805464 To 4805976, Step block: 512, Total transaction: 7837, Transaction ERC-721: 0
+2023-03-03 06:56:18,360,360 root INFO Block: 4805976 To 4806488, Step block: 512, Total transaction: 8810, Transaction ERC-721: 0
+Block: 4805976 To 4806488, Step block: 512, Total transaction: 8810, Transaction ERC-721: 0
+2023-03-03 06:56:20,500,500 root INFO Block: 4806488 To 4807000, Step block: 512, Total transaction: 6523, Transaction ERC-721: 0
+Block: 4806488 To 4807000, Step block: 512, Total transaction: 6523, Transaction ERC-721: 0
+2023-03-03 06:56:22,544,544 root INFO Block: 4807000 To 4807512, Step block: 512, Total transaction: 4847, Transaction ERC-721: 0
+Block: 4807000 To 4807512, Step block: 512, Total transaction: 4847, Transaction ERC-721: 0
+2023-03-03 06:56:24,648,648 root INFO Block: 4807512 To 4808024, Step block: 512, Total transaction: 5666, Transaction ERC-721: 0
+Block: 4807512 To 4808024, Step block: 512, Total transaction: 5666, Transaction ERC-721: 0
+2023-03-03 06:56:26,397,397 root INFO Block: 4808024 To 4808536, Step block: 512, Total transaction: 2343, Transaction ERC-721: 0
+Block: 4808024 To 4808536, Step block: 512, Total transaction: 2343, Transaction ERC-721: 0
+2023-03-03 06:56:28,250,250 root INFO Block: 4808536 To 4809560, Step block: 1024, Total transaction: 710, Transaction ERC-721: 0
+Block: 4808536 To 4809560, Step block: 1024, Total transaction: 710, Transaction ERC-721: 0
+2023-03-03 06:56:31,042,42 root INFO Block: 4809560 To 4811608, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4809560 To 4811608, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:56:34,017,17 root INFO Block: 4809560 To 4810584, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4809560 To 4810584, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:56:36,296,296 root INFO Block: 4809560 To 4810072, Step block: 512, Total transaction: 7088, Transaction ERC-721: 0
+Block: 4809560 To 4810072, Step block: 512, Total transaction: 7088, Transaction ERC-721: 0
+2023-03-03 06:56:38,625,625 root INFO Block: 4810072 To 4810584, Step block: 512, Total transaction: 8036, Transaction ERC-721: 0
+Block: 4810072 To 4810584, Step block: 512, Total transaction: 8036, Transaction ERC-721: 0
+2023-03-03 06:56:45,690,690 root INFO Block: 4810584 To 4811096, Step block: 512, Total transaction: 6185, Transaction ERC-721: 0
+Block: 4810584 To 4811096, Step block: 512, Total transaction: 6185, Transaction ERC-721: 0
+2023-03-03 06:56:47,872,872 root INFO Block: 4811096 To 4811608, Step block: 512, Total transaction: 6442, Transaction ERC-721: 0
+Block: 4811096 To 4811608, Step block: 512, Total transaction: 6442, Transaction ERC-721: 0
+2023-03-03 06:56:50,247,247 root INFO Block: 4811608 To 4812120, Step block: 512, Total transaction: 8334, Transaction ERC-721: 0
+Block: 4811608 To 4812120, Step block: 512, Total transaction: 8334, Transaction ERC-721: 0
+2023-03-03 06:56:52,616,616 root INFO Block: 4812120 To 4812632, Step block: 512, Total transaction: 7544, Transaction ERC-721: 0
+Block: 4812120 To 4812632, Step block: 512, Total transaction: 7544, Transaction ERC-721: 0
+2023-03-03 06:56:54,672,672 root INFO Block: 4812632 To 4813144, Step block: 512, Total transaction: 5243, Transaction ERC-721: 0
+Block: 4812632 To 4813144, Step block: 512, Total transaction: 5243, Transaction ERC-721: 0
+2023-03-03 06:56:56,201,201 root INFO Block: 4813144 To 4813656, Step block: 512, Total transaction: 1156, Transaction ERC-721: 0
+Block: 4813144 To 4813656, Step block: 512, Total transaction: 1156, Transaction ERC-721: 0
+2023-03-03 06:56:58,768,768 root INFO Block: 4813656 To 4814680, Step block: 1024, Total transaction: 9015, Transaction ERC-721: 0
+Block: 4813656 To 4814680, Step block: 1024, Total transaction: 9015, Transaction ERC-721: 0
+2023-03-03 06:57:01,476,476 root INFO Block: 4814680 To 4815704, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4814680 To 4815704, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:57:03,983,983 root INFO Block: 4814680 To 4815192, Step block: 512, Total transaction: 7622, Transaction ERC-721: 0
+Block: 4814680 To 4815192, Step block: 512, Total transaction: 7622, Transaction ERC-721: 0
+2023-03-03 06:57:06,707,707 root INFO Block: 4815192 To 4815704, Step block: 512, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4815192 To 4815704, Step block: 512, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:57:09,003,3 root INFO Block: 4815192 To 4815448, Step block: 256, Total transaction: 6943, Transaction ERC-721: 0
+Block: 4815192 To 4815448, Step block: 256, Total transaction: 6943, Transaction ERC-721: 0
+2023-03-03 06:57:11,053,53 root INFO Block: 4815448 To 4815704, Step block: 256, Total transaction: 3890, Transaction ERC-721: 0
+Block: 4815448 To 4815704, Step block: 256, Total transaction: 3890, Transaction ERC-721: 0
+2023-03-03 06:57:13,081,81 root INFO Block: 4815704 To 4816216, Step block: 512, Total transaction: 3810, Transaction ERC-721: 0
+Block: 4815704 To 4816216, Step block: 512, Total transaction: 3810, Transaction ERC-721: 0
+2023-03-03 06:57:15,168,168 root INFO Block: 4816216 To 4817240, Step block: 1024, Total transaction: 4892, Transaction ERC-721: 0
+Block: 4816216 To 4817240, Step block: 1024, Total transaction: 4892, Transaction ERC-721: 0
+2023-03-03 06:57:17,811,811 root INFO Block: 4817240 To 4818264, Step block: 1024, Total transaction: 9180, Transaction ERC-721: 0
+Block: 4817240 To 4818264, Step block: 1024, Total transaction: 9180, Transaction ERC-721: 0
+2023-03-03 06:57:19,994,994 root INFO Block: 4818264 To 4819288, Step block: 1024, Total transaction: 6177, Transaction ERC-721: 0
+Block: 4818264 To 4819288, Step block: 1024, Total transaction: 6177, Transaction ERC-721: 0
+2023-03-03 06:57:22,186,186 root INFO Block: 4819288 To 4820312, Step block: 1024, Total transaction: 5291, Transaction ERC-721: 0
+Block: 4819288 To 4820312, Step block: 1024, Total transaction: 5291, Transaction ERC-721: 0
+2023-03-03 06:57:24,960,960 root INFO Block: 4820312 To 4821336, Step block: 1024, Total transaction: 2580, Transaction ERC-721: 0
+Block: 4820312 To 4821336, Step block: 1024, Total transaction: 2580, Transaction ERC-721: 0
+2023-03-03 06:57:26,804,804 root INFO Block: 4821336 To 4823384, Step block: 2048, Total transaction: 836, Transaction ERC-721: 0
+Block: 4821336 To 4823384, Step block: 2048, Total transaction: 836, Transaction ERC-721: 0
+2023-03-03 06:57:30,501,501 root INFO Block: 4823384 To 4827480, Step block: 4096, Total transaction: 5497, Transaction ERC-721: 0
+Block: 4823384 To 4827480, Step block: 4096, Total transaction: 5497, Transaction ERC-721: 0
+2023-03-03 06:57:38,259,259 root INFO Block: 4827480 To 4831576, Step block: 4096, Total transaction: 3930, Transaction ERC-721: 0
+Block: 4827480 To 4831576, Step block: 4096, Total transaction: 3930, Transaction ERC-721: 0
+2023-03-03 06:57:41,641,641 root INFO Block: 4831576 To 4839768, Step block: 8192, Total transaction: 9011, Transaction ERC-721: 0
+Block: 4831576 To 4839768, Step block: 8192, Total transaction: 9011, Transaction ERC-721: 0
+2023-03-03 06:57:44,870,870 root INFO Block: 4839768 To 4847960, Step block: 8192, Total transaction: 5069, Transaction ERC-721: 0
+Block: 4839768 To 4847960, Step block: 8192, Total transaction: 5069, Transaction ERC-721: 0
+2023-03-03 06:57:48,383,383 root INFO Block: 4847960 To 4856152, Step block: 8192, Total transaction: 3291, Transaction ERC-721: 0
+Block: 4847960 To 4856152, Step block: 8192, Total transaction: 3291, Transaction ERC-721: 0
+2023-03-03 06:57:54,372,372 root INFO Block: 4856152 To 4872536, Step block: 16384, Total transaction: 9356, Transaction ERC-721: 0
+Block: 4856152 To 4872536, Step block: 16384, Total transaction: 9356, Transaction ERC-721: 0
+2023-03-03 06:57:57,111,111 root INFO Block: 4872536 To 4888920, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4872536 To 4888920, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:58:01,265,265 root INFO Block: 4872536 To 4880728, Step block: 8192, Total transaction: 9807, Transaction ERC-721: 0
+Block: 4872536 To 4880728, Step block: 8192, Total transaction: 9807, Transaction ERC-721: 0
+2023-03-03 06:58:05,756,756 root INFO Block: 4880728 To 4888920, Step block: 8192, Total transaction: 9885, Transaction ERC-721: 0
+Block: 4880728 To 4888920, Step block: 8192, Total transaction: 9885, Transaction ERC-721: 0
+2023-03-03 06:58:10,196,196 root INFO Block: 4888920 To 4897112, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4888920 To 4897112, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:58:12,817,817 root INFO Block: 4888920 To 4893016, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4888920 To 4893016, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:58:15,411,411 root INFO Block: 4888920 To 4890968, Step block: 2048, Total transaction: 4736, Transaction ERC-721: 0
+Block: 4888920 To 4890968, Step block: 2048, Total transaction: 4736, Transaction ERC-721: 0
+2023-03-03 06:58:17,893,893 root INFO Block: 4890968 To 4893016, Step block: 2048, Total transaction: 6880, Transaction ERC-721: 0
+Block: 4890968 To 4893016, Step block: 2048, Total transaction: 6880, Transaction ERC-721: 0
+2023-03-03 06:58:20,844,844 root INFO Block: 4893016 To 4895064, Step block: 2048, Total transaction: 5931, Transaction ERC-721: 0
+Block: 4893016 To 4895064, Step block: 2048, Total transaction: 5931, Transaction ERC-721: 0
+2023-03-03 06:58:23,660,660 root INFO Block: 4895064 To 4897112, Step block: 2048, Total transaction: 2898, Transaction ERC-721: 0
+Block: 4895064 To 4897112, Step block: 2048, Total transaction: 2898, Transaction ERC-721: 0
+2023-03-03 06:58:27,433,433 root INFO Block: 4897112 To 4901208, Step block: 4096, Total transaction: 6518, Transaction ERC-721: 0
+Block: 4897112 To 4901208, Step block: 4096, Total transaction: 6518, Transaction ERC-721: 0
+2023-03-03 06:58:31,829,829 root INFO Block: 4901208 To 4905304, Step block: 4096, Total transaction: 7797, Transaction ERC-721: 0
+Block: 4901208 To 4905304, Step block: 4096, Total transaction: 7797, Transaction ERC-721: 0
+2023-03-03 06:58:34,524,524 root INFO Block: 4905304 To 4909400, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4905304 To 4909400, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:58:37,271,271 root INFO Block: 4905304 To 4907352, Step block: 2048, Total transaction: 3837, Transaction ERC-721: 0
+Block: 4905304 To 4907352, Step block: 2048, Total transaction: 3837, Transaction ERC-721: 0
+2023-03-03 06:58:40,693,693 root INFO Block: 4907352 To 4911448, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4907352 To 4911448, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:58:43,883,883 root INFO Block: 4907352 To 4909400, Step block: 2048, Total transaction: 9432, Transaction ERC-721: 0
+Block: 4907352 To 4909400, Step block: 2048, Total transaction: 9432, Transaction ERC-721: 0
+2023-03-03 06:58:46,565,565 root INFO Block: 4909400 To 4911448, Step block: 2048, Total transaction: 8393, Transaction ERC-721: 0
+Block: 4909400 To 4911448, Step block: 2048, Total transaction: 8393, Transaction ERC-721: 0
+2023-03-03 06:58:50,104,104 root INFO Block: 4911448 To 4913496, Step block: 2048, Total transaction: 6242, Transaction ERC-721: 0
+Block: 4911448 To 4913496, Step block: 2048, Total transaction: 6242, Transaction ERC-721: 0
+2023-03-03 06:58:52,715,715 root INFO Block: 4913496 To 4915544, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4913496 To 4915544, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:58:55,640,640 root INFO Block: 4913496 To 4914520, Step block: 1024, Total transaction: 5462, Transaction ERC-721: 0
+Block: 4913496 To 4914520, Step block: 1024, Total transaction: 5462, Transaction ERC-721: 0
+2023-03-03 06:58:58,298,298 root INFO Block: 4914520 To 4915544, Step block: 1024, Total transaction: 5179, Transaction ERC-721: 0
+Block: 4914520 To 4915544, Step block: 1024, Total transaction: 5179, Transaction ERC-721: 0
+2023-03-03 06:59:00,826,826 root INFO Block: 4915544 To 4916568, Step block: 1024, Total transaction: 3223, Transaction ERC-721: 0
+Block: 4915544 To 4916568, Step block: 1024, Total transaction: 3223, Transaction ERC-721: 0
+2023-03-03 06:59:03,140,140 root INFO Block: 4916568 To 4918616, Step block: 2048, Total transaction: 6997, Transaction ERC-721: 0
+Block: 4916568 To 4918616, Step block: 2048, Total transaction: 6997, Transaction ERC-721: 0
+2023-03-03 06:59:06,434,434 root INFO Block: 4918616 To 4920664, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4918616 To 4920664, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:59:08,883,883 root INFO Block: 4918616 To 4919640, Step block: 1024, Total transaction: 6562, Transaction ERC-721: 0
+Block: 4918616 To 4919640, Step block: 1024, Total transaction: 6562, Transaction ERC-721: 0
+2023-03-03 06:59:11,117,117 root INFO Block: 4919640 To 4920664, Step block: 1024, Total transaction: 5462, Transaction ERC-721: 0
+Block: 4919640 To 4920664, Step block: 1024, Total transaction: 5462, Transaction ERC-721: 0
+2023-03-03 06:59:13,025,25 root INFO Block: 4920664 To 4921688, Step block: 1024, Total transaction: 2917, Transaction ERC-721: 0
+Block: 4920664 To 4921688, Step block: 1024, Total transaction: 2917, Transaction ERC-721: 0
+2023-03-03 06:59:15,992,992 root INFO Block: 4921688 To 4923736, Step block: 2048, Total transaction: 6631, Transaction ERC-721: 0
+Block: 4921688 To 4923736, Step block: 2048, Total transaction: 6631, Transaction ERC-721: 0
+2023-03-03 06:59:18,746,746 root INFO Block: 4923736 To 4925784, Step block: 2048, Total transaction: 5912, Transaction ERC-721: 0
+Block: 4923736 To 4925784, Step block: 2048, Total transaction: 5912, Transaction ERC-721: 0
+2023-03-03 06:59:22,230,230 root INFO Block: 4925784 To 4927832, Step block: 2048, Total transaction: 7119, Transaction ERC-721: 0
+Block: 4925784 To 4927832, Step block: 2048, Total transaction: 7119, Transaction ERC-721: 0
+2023-03-03 06:59:25,857,857 root INFO Block: 4927832 To 4929880, Step block: 2048, Total transaction: 9281, Transaction ERC-721: 0
+Block: 4927832 To 4929880, Step block: 2048, Total transaction: 9281, Transaction ERC-721: 0
+2023-03-03 06:59:29,084,84 root INFO Block: 4929880 To 4931928, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4929880 To 4931928, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:59:32,277,277 root INFO Block: 4929880 To 4930904, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4929880 To 4930904, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:59:34,566,566 root INFO Block: 4929880 To 4930392, Step block: 512, Total transaction: 7730, Transaction ERC-721: 0
+Block: 4929880 To 4930392, Step block: 512, Total transaction: 7730, Transaction ERC-721: 0
+2023-03-03 06:59:36,788,788 root INFO Block: 4930392 To 4930904, Step block: 512, Total transaction: 5125, Transaction ERC-721: 0
+Block: 4930392 To 4930904, Step block: 512, Total transaction: 5125, Transaction ERC-721: 0
+2023-03-03 06:59:38,513,513 root INFO Block: 4930904 To 4931416, Step block: 512, Total transaction: 737, Transaction ERC-721: 0
+Block: 4930904 To 4931416, Step block: 512, Total transaction: 737, Transaction ERC-721: 0
+2023-03-03 06:59:40,658,658 root INFO Block: 4931416 To 4932440, Step block: 1024, Total transaction: 1910, Transaction ERC-721: 0
+Block: 4931416 To 4932440, Step block: 1024, Total transaction: 1910, Transaction ERC-721: 0
+2023-03-03 06:59:43,381,381 root INFO Block: 4932440 To 4934488, Step block: 2048, Total transaction: 3067, Transaction ERC-721: 0
+Block: 4932440 To 4934488, Step block: 2048, Total transaction: 3067, Transaction ERC-721: 0
+2023-03-03 06:59:47,880,880 root INFO Block: 4934488 To 4938584, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4934488 To 4938584, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:59:50,286,286 root INFO Block: 4934488 To 4936536, Step block: 2048, Total transaction: 2640, Transaction ERC-721: 0
+Block: 4934488 To 4936536, Step block: 2048, Total transaction: 2640, Transaction ERC-721: 0
+2023-03-03 06:59:54,528,528 root INFO Block: 4936536 To 4940632, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 4936536 To 4940632, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+2023-03-03 06:59:57,881,881 root INFO Block: 4936536 To 4938584, Step block: 2048, Total transaction: 9051, Transaction ERC-721: 0
+Block: 4936536 To 4938584, Step block: 2048, Total transaction: 9051, Transaction ERC-721: 0
+2023-03-03 07:00:00,081,81 root INFO Block: 4938584 To 4940632, Step block: 2048, Total transaction: 3251, Transaction ERC-721: 0
+Block: 4938584 To 4940632, Step block: 2048, Total transaction: 3251, Transaction ERC-721: 0
+2023-03-03 07:00:04,307,307 root INFO Block: 4940632 To 4944728, Step block: 4096, Total transaction: 6123, Transaction ERC-721: 0
+Block: 4940632 To 4944728, Step block: 4096, Total transaction: 6123, Transaction ERC-721: 0
+2023-03-03 07:00:07,769,769 root INFO Block: 4944728 To 4948824, Step block: 4096, Total transaction: 6208, Transaction ERC-721: 0
+Block: 4944728 To 4948824, Step block: 4096, Total transaction: 6208, Transaction ERC-721: 0
+2023-03-03 07:01:41,300,300 root INFO Block: 4948824 To 4952920, Step block: 4096, Total transaction: 5971, Transaction ERC-721: 671
+Block: 4948824 To 4952920, Step block: 4096, Total transaction: 5971, Transaction ERC-721: 671
+2023-03-03 07:09:09,763,763 root INFO Block: 4952920 To 4957016, Step block: 4096, Total transaction: 7717, Transaction ERC-721: 3394
+Block: 4952920 To 4957016, Step block: 4096, Total transaction: 7717, Transaction ERC-721: 3394
+2023-03-03 07:11:20,672,672 root INFO Block: 4957016 To 4961112, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 978
+Block: 4957016 To 4961112, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 978
+2023-03-03 07:12:56,267,267 root INFO Block: 4957016 To 4959064, Step block: 2048, Total transaction: 4412, Transaction ERC-721: 798
+Block: 4957016 To 4959064, Step block: 2048, Total transaction: 4412, Transaction ERC-721: 798
+2023-03-03 07:13:21,407,407 root INFO Block: 4959064 To 4961112, Step block: 2048, Total transaction: 6152, Transaction ERC-721: 184
+Block: 4959064 To 4961112, Step block: 2048, Total transaction: 6152, Transaction ERC-721: 184
+2023-03-03 07:13:58,916,916 root INFO Block: 4961112 To 4963160, Step block: 2048, Total transaction: 6375, Transaction ERC-721: 227
+Block: 4961112 To 4963160, Step block: 2048, Total transaction: 6375, Transaction ERC-721: 227
+2023-03-03 07:14:07,396,396 root INFO Block: 4963160 To 4965208, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 23
+Block: 4963160 To 4965208, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 23
+2023-03-03 07:14:13,447,447 root INFO Block: 4963160 To 4964184, Step block: 1024, Total transaction: 4954, Transaction ERC-721: 14
+Block: 4963160 To 4964184, Step block: 1024, Total transaction: 4954, Transaction ERC-721: 14
+2023-03-03 07:14:17,887,887 root INFO Block: 4964184 To 4965208, Step block: 1024, Total transaction: 5844, Transaction ERC-721: 10
+Block: 4964184 To 4965208, Step block: 1024, Total transaction: 5844, Transaction ERC-721: 10
+2023-03-03 07:14:24,459,459 root INFO Block: 4965208 To 4966232, Step block: 1024, Total transaction: 2495, Transaction ERC-721: 22
+Block: 4965208 To 4966232, Step block: 1024, Total transaction: 2495, Transaction ERC-721: 22
+2023-03-03 07:14:49,421,421 root INFO Block: 4966232 To 4968280, Step block: 2048, Total transaction: 2367, Transaction ERC-721: 143
+Block: 4966232 To 4968280, Step block: 2048, Total transaction: 2367, Transaction ERC-721: 143
+2023-03-03 07:15:08,457,457 root INFO Block: 4968280 To 4972376, Step block: 4096, Total transaction: 3838, Transaction ERC-721: 73
+Block: 4968280 To 4972376, Step block: 4096, Total transaction: 3838, Transaction ERC-721: 73
+2023-03-03 07:15:38,782,782 root INFO Block: 4972376 To 4980568, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 150
+Block: 4972376 To 4980568, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 150
+2023-03-03 07:15:59,808,808 root INFO Block: 4972376 To 4976472, Step block: 4096, Total transaction: 6462, Transaction ERC-721: 141
+Block: 4972376 To 4976472, Step block: 4096, Total transaction: 6462, Transaction ERC-721: 141
+2023-03-03 07:16:04,537,537 root INFO Block: 4976472 To 4980568, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 10
+Block: 4976472 To 4980568, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 10
+2023-03-03 07:16:08,851,851 root INFO Block: 4976472 To 4978520, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 10
+Block: 4976472 To 4978520, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 10
+2023-03-03 07:16:12,378,378 root INFO Block: 4976472 To 4977496, Step block: 1024, Total transaction: 5503, Transaction ERC-721: 9
+Block: 4976472 To 4977496, Step block: 1024, Total transaction: 5503, Transaction ERC-721: 9
+2023-03-03 07:16:15,546,546 root INFO Block: 4977496 To 4978520, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 1
+Block: 4977496 To 4978520, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 1
+2023-03-03 07:16:18,365,365 root INFO Block: 4977496 To 4978008, Step block: 512, Total transaction: 10000, Transaction ERC-721: 1
+Block: 4977496 To 4978008, Step block: 512, Total transaction: 10000, Transaction ERC-721: 1
+2023-03-03 07:16:20,817,817 root INFO Block: 4977496 To 4977752, Step block: 256, Total transaction: 4976, Transaction ERC-721: 1
+Block: 4977496 To 4977752, Step block: 256, Total transaction: 4976, Transaction ERC-721: 1
+2023-03-03 07:16:23,168,168 root INFO Block: 4977752 To 4978008, Step block: 256, Total transaction: 7919, Transaction ERC-721: 0
+Block: 4977752 To 4978008, Step block: 256, Total transaction: 7919, Transaction ERC-721: 0
+2023-03-03 07:16:24,627,627 root INFO Block: 4978008 To 4978264, Step block: 256, Total transaction: 316, Transaction ERC-721: 0
+Block: 4978008 To 4978264, Step block: 256, Total transaction: 316, Transaction ERC-721: 0
+2023-03-03 07:16:26,283,283 root INFO Block: 4978264 To 4978776, Step block: 512, Total transaction: 584, Transaction ERC-721: 0
+Block: 4978264 To 4978776, Step block: 512, Total transaction: 584, Transaction ERC-721: 0
+2023-03-03 07:16:31,637,637 root INFO Block: 4978776 To 4979800, Step block: 1024, Total transaction: 1706, Transaction ERC-721: 23
+Block: 4978776 To 4979800, Step block: 1024, Total transaction: 1706, Transaction ERC-721: 23
+2023-03-03 07:16:35,642,642 root INFO Block: 4979800 To 4981848, Step block: 2048, Total transaction: 3439, Transaction ERC-721: 6
+Block: 4979800 To 4981848, Step block: 2048, Total transaction: 3439, Transaction ERC-721: 6
+2023-03-03 07:16:49,320,320 root INFO Block: 4981848 To 4985944, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 49
+Block: 4981848 To 4985944, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 49
+2023-03-03 07:17:00,527,527 root INFO Block: 4981848 To 4983896, Step block: 2048, Total transaction: 4630, Transaction ERC-721: 35
+Block: 4981848 To 4983896, Step block: 2048, Total transaction: 4630, Transaction ERC-721: 35
+2023-03-03 07:17:09,061,61 root INFO Block: 4983896 To 4985944, Step block: 2048, Total transaction: 9194, Transaction ERC-721: 31
+Block: 4983896 To 4985944, Step block: 2048, Total transaction: 9194, Transaction ERC-721: 31
+2023-03-03 07:17:16,764,764 root INFO Block: 4985944 To 4987992, Step block: 2048, Total transaction: 2156, Transaction ERC-721: 23
+Block: 4985944 To 4987992, Step block: 2048, Total transaction: 2156, Transaction ERC-721: 23
+2023-03-03 07:17:28,288,288 root INFO Block: 4987992 To 4992088, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 33
+Block: 4987992 To 4992088, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 33
+2023-03-03 07:17:35,481,481 root INFO Block: 4987992 To 4990040, Step block: 2048, Total transaction: 7354, Transaction ERC-721: 23
+Block: 4987992 To 4990040, Step block: 2048, Total transaction: 7354, Transaction ERC-721: 23
+2023-03-03 07:17:43,133,133 root INFO Block: 4990040 To 4992088, Step block: 2048, Total transaction: 4317, Transaction ERC-721: 24
+Block: 4990040 To 4992088, Step block: 2048, Total transaction: 4317, Transaction ERC-721: 24
+2023-03-03 07:17:48,924,924 root INFO Block: 4992088 To 4994136, Step block: 2048, Total transaction: 1992, Transaction ERC-721: 14
+Block: 4992088 To 4994136, Step block: 2048, Total transaction: 1992, Transaction ERC-721: 14
+2023-03-03 07:18:54,763,763 root INFO Block: 4994136 To 4998232, Step block: 4096, Total transaction: 7710, Transaction ERC-721: 253
+Block: 4994136 To 4998232, Step block: 4096, Total transaction: 7710, Transaction ERC-721: 253
+2023-03-03 07:20:03,960,960 root INFO Block: 4998232 To 5002328, Step block: 4096, Total transaction: 5562, Transaction ERC-721: 272
+Block: 4998232 To 5002328, Step block: 4096, Total transaction: 5562, Transaction ERC-721: 272
+2023-03-03 07:21:57,219,219 root INFO Block: 5002328 To 5006424, Step block: 4096, Total transaction: 5135, Transaction ERC-721: 696
+Block: 5002328 To 5006424, Step block: 4096, Total transaction: 5135, Transaction ERC-721: 696
+2023-03-03 07:24:16,657,657 root INFO Block: 5006424 To 5010520, Step block: 4096, Total transaction: 7042, Transaction ERC-721: 760
+Block: 5006424 To 5010520, Step block: 4096, Total transaction: 7042, Transaction ERC-721: 760
+2023-03-03 07:24:27,377,377 root INFO Block: 5010520 To 5014616, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 28
+Block: 5010520 To 5014616, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 28
+2023-03-03 07:24:34,496,496 root INFO Block: 5010520 To 5012568, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 28
+Block: 5010520 To 5012568, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 28
+2023-03-03 07:24:40,874,874 root INFO Block: 5010520 To 5011544, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 28
+Block: 5010520 To 5011544, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 28
+2023-03-03 07:24:45,138,138 root INFO Block: 5010520 To 5011032, Step block: 512, Total transaction: 2274, Transaction ERC-721: 17
+Block: 5010520 To 5011032, Step block: 512, Total transaction: 2274, Transaction ERC-721: 17
+2023-03-03 07:24:49,724,724 root INFO Block: 5011032 To 5012056, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 11
+Block: 5011032 To 5012056, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 11
+2023-03-03 07:25:00,519,519 root INFO Block: 5011032 To 5011544, Step block: 512, Total transaction: 8600, Transaction ERC-721: 11
+Block: 5011032 To 5011544, Step block: 512, Total transaction: 8600, Transaction ERC-721: 11
+2023-03-03 07:25:06,112,112 root INFO Block: 5011544 To 5012056, Step block: 512, Total transaction: 10000, Transaction ERC-721: 2
+Block: 5011544 To 5012056, Step block: 512, Total transaction: 10000, Transaction ERC-721: 2
+2023-03-03 07:25:09,440,440 root INFO Block: 5011544 To 5011800, Step block: 256, Total transaction: 7221, Transaction ERC-721: 1
+Block: 5011544 To 5011800, Step block: 256, Total transaction: 7221, Transaction ERC-721: 1
+2023-03-03 07:25:14,590,590 root INFO Block: 5011800 To 5012056, Step block: 256, Total transaction: 5394, Transaction ERC-721: 6
+Block: 5011800 To 5012056, Step block: 256, Total transaction: 5394, Transaction ERC-721: 6
+2023-03-03 07:25:19,182,182 root INFO Block: 5012056 To 5012312, Step block: 256, Total transaction: 3943, Transaction ERC-721: 10
+Block: 5012056 To 5012312, Step block: 256, Total transaction: 3943, Transaction ERC-721: 10
+2023-03-03 07:25:24,050,50 root INFO Block: 5012312 To 5012824, Step block: 512, Total transaction: 2816, Transaction ERC-721: 10
+Block: 5012312 To 5012824, Step block: 512, Total transaction: 2816, Transaction ERC-721: 10
+2023-03-03 07:25:42,001,1 root INFO Block: 5012824 To 5013848, Step block: 1024, Total transaction: 2391, Transaction ERC-721: 75
+Block: 5012824 To 5013848, Step block: 1024, Total transaction: 2391, Transaction ERC-721: 75
+2023-03-03 07:27:22,772,772 root INFO Block: 5013848 To 5015896, Step block: 2048, Total transaction: 8137, Transaction ERC-721: 623
+Block: 5013848 To 5015896, Step block: 2048, Total transaction: 8137, Transaction ERC-721: 623
+2023-03-03 07:27:35,699,699 root INFO Block: 5015896 To 5017944, Step block: 2048, Total transaction: 7756, Transaction ERC-721: 39
+Block: 5015896 To 5017944, Step block: 2048, Total transaction: 7756, Transaction ERC-721: 39
+2023-03-03 07:27:55,555,555 root INFO Block: 5017944 To 5019992, Step block: 2048, Total transaction: 4434, Transaction ERC-721: 73
+Block: 5017944 To 5019992, Step block: 2048, Total transaction: 4434, Transaction ERC-721: 73
+2023-03-03 07:28:30,348,348 root INFO Block: 5019992 To 5022040, Step block: 2048, Total transaction: 5273, Transaction ERC-721: 230
+Block: 5019992 To 5022040, Step block: 2048, Total transaction: 5273, Transaction ERC-721: 230
+2023-03-03 07:30:43,066,66 root INFO Block: 5022040 To 5024088, Step block: 2048, Total transaction: 4028, Transaction ERC-721: 959
+Block: 5022040 To 5024088, Step block: 2048, Total transaction: 4028, Transaction ERC-721: 959
+2023-03-03 07:31:22,539,539 root INFO Block: 5024088 To 5026136, Step block: 2048, Total transaction: 3718, Transaction ERC-721: 154
+Block: 5024088 To 5026136, Step block: 2048, Total transaction: 3718, Transaction ERC-721: 154
+2023-03-03 07:32:05,187,187 root INFO Block: 5026136 To 5030232, Step block: 4096, Total transaction: 6307, Transaction ERC-721: 159
+Block: 5026136 To 5030232, Step block: 4096, Total transaction: 6307, Transaction ERC-721: 159
+2023-03-03 07:32:55,036,36 root INFO Block: 5030232 To 5034328, Step block: 4096, Total transaction: 8835, Transaction ERC-721: 186
+Block: 5030232 To 5034328, Step block: 4096, Total transaction: 8835, Transaction ERC-721: 186
+2023-03-03 07:33:27,871,871 root INFO Block: 5034328 To 5038424, Step block: 4096, Total transaction: 5905, Transaction ERC-721: 118
+Block: 5034328 To 5038424, Step block: 4096, Total transaction: 5905, Transaction ERC-721: 118
+2023-03-03 07:34:01,430,430 root INFO Block: 5038424 To 5042520, Step block: 4096, Total transaction: 5932, Transaction ERC-721: 121
+Block: 5038424 To 5042520, Step block: 4096, Total transaction: 5932, Transaction ERC-721: 121
+2023-03-03 07:34:58,767,767 root INFO Block: 5042520 To 5046616, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 212
+Block: 5042520 To 5046616, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 212
+2023-03-03 07:35:24,578,578 root INFO Block: 5042520 To 5044568, Step block: 2048, Total transaction: 4666, Transaction ERC-721: 174
+Block: 5042520 To 5044568, Step block: 2048, Total transaction: 4666, Transaction ERC-721: 174
+2023-03-03 07:35:34,685,685 root INFO Block: 5044568 To 5046616, Step block: 2048, Total transaction: 7126, Transaction ERC-721: 46
+Block: 5044568 To 5046616, Step block: 2048, Total transaction: 7126, Transaction ERC-721: 46
+2023-03-03 07:35:45,521,521 root INFO Block: 5046616 To 5048664, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 24
+Block: 5046616 To 5048664, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 24
+2023-03-03 07:35:55,937,937 root INFO Block: 5046616 To 5047640, Step block: 1024, Total transaction: 6247, Transaction ERC-721: 14
+Block: 5046616 To 5047640, Step block: 1024, Total transaction: 6247, Transaction ERC-721: 14
+2023-03-03 07:36:01,236,236 root INFO Block: 5047640 To 5048664, Step block: 1024, Total transaction: 5296, Transaction ERC-721: 13
+Block: 5047640 To 5048664, Step block: 1024, Total transaction: 5296, Transaction ERC-721: 13
+2023-03-03 07:36:09,213,213 root INFO Block: 5048664 To 5049688, Step block: 1024, Total transaction: 4344, Transaction ERC-721: 19
+Block: 5048664 To 5049688, Step block: 1024, Total transaction: 4344, Transaction ERC-721: 19
+2023-03-03 07:36:18,227,227 root INFO Block: 5049688 To 5050712, Step block: 1024, Total transaction: 6014, Transaction ERC-721: 20
+Block: 5049688 To 5050712, Step block: 1024, Total transaction: 6014, Transaction ERC-721: 20
+2023-03-03 07:36:24,778,778 root INFO Block: 5050712 To 5051736, Step block: 1024, Total transaction: 6016, Transaction ERC-721: 13
+Block: 5050712 To 5051736, Step block: 1024, Total transaction: 6016, Transaction ERC-721: 13
+2023-03-03 07:36:32,712,712 root INFO Block: 5051736 To 5052760, Step block: 1024, Total transaction: 5274, Transaction ERC-721: 17
+Block: 5051736 To 5052760, Step block: 1024, Total transaction: 5274, Transaction ERC-721: 17
+2023-03-03 07:36:44,477,477 root INFO Block: 5052760 To 5053784, Step block: 1024, Total transaction: 3858, Transaction ERC-721: 34
+Block: 5052760 To 5053784, Step block: 1024, Total transaction: 3858, Transaction ERC-721: 34
+2023-03-03 07:36:54,783,783 root INFO Block: 5053784 To 5055832, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 27
+Block: 5053784 To 5055832, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 27
+2023-03-03 07:37:00,987,987 root INFO Block: 5053784 To 5054808, Step block: 1024, Total transaction: 7530, Transaction ERC-721: 20
+Block: 5053784 To 5054808, Step block: 1024, Total transaction: 7530, Transaction ERC-721: 20
+2023-03-03 07:37:09,986,986 root INFO Block: 5054808 To 5055832, Step block: 1024, Total transaction: 9001, Transaction ERC-721: 19
+Block: 5054808 To 5055832, Step block: 1024, Total transaction: 9001, Transaction ERC-721: 19
+2023-03-03 07:37:17,102,102 root INFO Block: 5055832 To 5056856, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 10
+Block: 5055832 To 5056856, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 10
+2023-03-03 07:37:20,694,694 root INFO Block: 5055832 To 5056344, Step block: 512, Total transaction: 5474, Transaction ERC-721: 5
+Block: 5055832 To 5056344, Step block: 512, Total transaction: 5474, Transaction ERC-721: 5
+2023-03-03 07:37:29,247,247 root INFO Block: 5056344 To 5056856, Step block: 512, Total transaction: 4555, Transaction ERC-721: 5
+Block: 5056344 To 5056856, Step block: 512, Total transaction: 4555, Transaction ERC-721: 5
+2023-03-03 07:37:32,970,970 root INFO Block: 5056856 To 5057368, Step block: 512, Total transaction: 3619, Transaction ERC-721: 4
+Block: 5056856 To 5057368, Step block: 512, Total transaction: 3619, Transaction ERC-721: 4
+2023-03-03 07:37:40,242,242 root INFO Block: 5057368 To 5058392, Step block: 1024, Total transaction: 5718, Transaction ERC-721: 13
+Block: 5057368 To 5058392, Step block: 1024, Total transaction: 5718, Transaction ERC-721: 13
+2023-03-03 07:37:50,068,68 root INFO Block: 5058392 To 5059416, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 19
+Block: 5058392 To 5059416, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 19
+2023-03-03 07:37:54,840,840 root INFO Block: 5058392 To 5058904, Step block: 512, Total transaction: 5633, Transaction ERC-721: 11
+Block: 5058392 To 5058904, Step block: 512, Total transaction: 5633, Transaction ERC-721: 11
+2023-03-03 07:38:01,730,730 root INFO Block: 5058904 To 5059416, Step block: 512, Total transaction: 9891, Transaction ERC-721: 12
+Block: 5058904 To 5059416, Step block: 512, Total transaction: 9891, Transaction ERC-721: 12
+2023-03-03 07:38:06,850,850 root INFO Block: 5059416 To 5059928, Step block: 512, Total transaction: 7473, Transaction ERC-721: 7
+Block: 5059416 To 5059928, Step block: 512, Total transaction: 7473, Transaction ERC-721: 7
+2023-03-03 07:38:11,611,611 root INFO Block: 5059928 To 5060440, Step block: 512, Total transaction: 3943, Transaction ERC-721: 7
+Block: 5059928 To 5060440, Step block: 512, Total transaction: 3943, Transaction ERC-721: 7
+2023-03-03 07:38:20,662,662 root INFO Block: 5060440 To 5061464, Step block: 1024, Total transaction: 5031, Transaction ERC-721: 18
+Block: 5060440 To 5061464, Step block: 1024, Total transaction: 5031, Transaction ERC-721: 18
+2023-03-03 07:38:31,846,846 root INFO Block: 5061464 To 5062488, Step block: 1024, Total transaction: 8070, Transaction ERC-721: 26
+Block: 5061464 To 5062488, Step block: 1024, Total transaction: 8070, Transaction ERC-721: 26
+2023-03-03 07:38:38,921,921 root INFO Block: 5062488 To 5063512, Step block: 1024, Total transaction: 9345, Transaction ERC-721: 13
+Block: 5062488 To 5063512, Step block: 1024, Total transaction: 9345, Transaction ERC-721: 13
+2023-03-03 07:38:46,018,18 root INFO Block: 5063512 To 5064536, Step block: 1024, Total transaction: 6879, Transaction ERC-721: 10
+Block: 5063512 To 5064536, Step block: 1024, Total transaction: 6879, Transaction ERC-721: 10
+2023-03-03 07:38:52,409,409 root INFO Block: 5064536 To 5065560, Step block: 1024, Total transaction: 8284, Transaction ERC-721: 11
+Block: 5064536 To 5065560, Step block: 1024, Total transaction: 8284, Transaction ERC-721: 11
+2023-03-03 07:38:59,230,230 root INFO Block: 5065560 To 5066584, Step block: 1024, Total transaction: 7501, Transaction ERC-721: 9
+Block: 5065560 To 5066584, Step block: 1024, Total transaction: 7501, Transaction ERC-721: 9
+2023-03-03 07:39:05,192,192 root INFO Block: 5066584 To 5067608, Step block: 1024, Total transaction: 6467, Transaction ERC-721: 8
+Block: 5066584 To 5067608, Step block: 1024, Total transaction: 6467, Transaction ERC-721: 8
+2023-03-03 07:39:10,796,796 root INFO Block: 5067608 To 5068632, Step block: 1024, Total transaction: 7479, Transaction ERC-721: 8
+Block: 5067608 To 5068632, Step block: 1024, Total transaction: 7479, Transaction ERC-721: 8
+2023-03-03 07:39:18,540,540 root INFO Block: 5068632 To 5069656, Step block: 1024, Total transaction: 9106, Transaction ERC-721: 17
+Block: 5068632 To 5069656, Step block: 1024, Total transaction: 9106, Transaction ERC-721: 17
+2023-03-03 07:39:25,297,297 root INFO Block: 5069656 To 5070680, Step block: 1024, Total transaction: 6850, Transaction ERC-721: 10
+Block: 5069656 To 5070680, Step block: 1024, Total transaction: 6850, Transaction ERC-721: 10
+2023-03-03 07:39:32,357,357 root INFO Block: 5070680 To 5071704, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 8
+Block: 5070680 To 5071704, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 8
+2023-03-03 07:39:35,866,866 root INFO Block: 5070680 To 5071192, Step block: 512, Total transaction: 5539, Transaction ERC-721: 4
+Block: 5070680 To 5071192, Step block: 512, Total transaction: 5539, Transaction ERC-721: 4
+2023-03-03 07:39:40,003,3 root INFO Block: 5071192 To 5071704, Step block: 512, Total transaction: 5864, Transaction ERC-721: 4
+Block: 5071192 To 5071704, Step block: 512, Total transaction: 5864, Transaction ERC-721: 4
+2023-03-03 07:39:43,807,807 root INFO Block: 5071704 To 5072216, Step block: 512, Total transaction: 5824, Transaction ERC-721: 2
+Block: 5071704 To 5072216, Step block: 512, Total transaction: 5824, Transaction ERC-721: 2
+2023-03-03 07:39:47,836,836 root INFO Block: 5072216 To 5072728, Step block: 512, Total transaction: 6353, Transaction ERC-721: 3
+Block: 5072216 To 5072728, Step block: 512, Total transaction: 6353, Transaction ERC-721: 3
+2023-03-03 07:39:53,468,468 root INFO Block: 5072728 To 5073240, Step block: 512, Total transaction: 5913, Transaction ERC-721: 10
+Block: 5072728 To 5073240, Step block: 512, Total transaction: 5913, Transaction ERC-721: 10
+2023-03-03 07:39:57,373,373 root INFO Block: 5073240 To 5073752, Step block: 512, Total transaction: 5828, Transaction ERC-721: 4
+Block: 5073240 To 5073752, Step block: 512, Total transaction: 5828, Transaction ERC-721: 4
+2023-03-03 07:40:03,607,607 root INFO Block: 5073752 To 5074264, Step block: 512, Total transaction: 6031, Transaction ERC-721: 12
+Block: 5073752 To 5074264, Step block: 512, Total transaction: 6031, Transaction ERC-721: 12
+2023-03-03 07:40:07,629,629 root INFO Block: 5074264 To 5074776, Step block: 512, Total transaction: 6565, Transaction ERC-721: 3
+Block: 5074264 To 5074776, Step block: 512, Total transaction: 6565, Transaction ERC-721: 3
+2023-03-03 07:40:11,431,431 root INFO Block: 5074776 To 5075288, Step block: 512, Total transaction: 8767, Transaction ERC-721: 2
+Block: 5074776 To 5075288, Step block: 512, Total transaction: 8767, Transaction ERC-721: 2
+2023-03-03 07:40:16,049,49 root INFO Block: 5075288 To 5075800, Step block: 512, Total transaction: 6661, Transaction ERC-721: 2
+Block: 5075288 To 5075800, Step block: 512, Total transaction: 6661, Transaction ERC-721: 2
+2023-03-03 07:40:19,849,849 root INFO Block: 5075800 To 5076312, Step block: 512, Total transaction: 6652, Transaction ERC-721: 2
+Block: 5075800 To 5076312, Step block: 512, Total transaction: 6652, Transaction ERC-721: 2
+2023-03-03 07:40:25,683,683 root INFO Block: 5076312 To 5076824, Step block: 512, Total transaction: 6388, Transaction ERC-721: 8
+Block: 5076312 To 5076824, Step block: 512, Total transaction: 6388, Transaction ERC-721: 8
+2023-03-03 07:40:30,066,66 root INFO Block: 5076824 To 5077336, Step block: 512, Total transaction: 7970, Transaction ERC-721: 4
+Block: 5076824 To 5077336, Step block: 512, Total transaction: 7970, Transaction ERC-721: 4
+2023-03-03 07:40:34,015,15 root INFO Block: 5077336 To 5077848, Step block: 512, Total transaction: 6014, Transaction ERC-721: 2
+Block: 5077336 To 5077848, Step block: 512, Total transaction: 6014, Transaction ERC-721: 2
+2023-03-03 07:40:40,265,265 root INFO Block: 5077848 To 5078360, Step block: 512, Total transaction: 4104, Transaction ERC-721: 8
+Block: 5077848 To 5078360, Step block: 512, Total transaction: 4104, Transaction ERC-721: 8
+2023-03-03 07:40:44,169,169 root INFO Block: 5078360 To 5078872, Step block: 512, Total transaction: 5547, Transaction ERC-721: 2
+Block: 5078360 To 5078872, Step block: 512, Total transaction: 5547, Transaction ERC-721: 2
+2023-03-03 07:40:47,835,835 root INFO Block: 5078872 To 5079384, Step block: 512, Total transaction: 8011, Transaction ERC-721: 2
+Block: 5078872 To 5079384, Step block: 512, Total transaction: 8011, Transaction ERC-721: 2
+2023-03-03 07:40:52,033,33 root INFO Block: 5079384 To 5079896, Step block: 512, Total transaction: 8741, Transaction ERC-721: 4
+Block: 5079384 To 5079896, Step block: 512, Total transaction: 8741, Transaction ERC-721: 4
+2023-03-03 07:40:56,174,174 root INFO Block: 5079896 To 5080408, Step block: 512, Total transaction: 9021, Transaction ERC-721: 3
+Block: 5079896 To 5080408, Step block: 512, Total transaction: 9021, Transaction ERC-721: 3
+2023-03-03 07:41:05,138,138 root INFO Block: 5080408 To 5080920, Step block: 512, Total transaction: 8879, Transaction ERC-721: 1
+Block: 5080408 To 5080920, Step block: 512, Total transaction: 8879, Transaction ERC-721: 1
+2023-03-03 07:41:09,062,62 root INFO Block: 5080920 To 5081432, Step block: 512, Total transaction: 5766, Transaction ERC-721: 4
+Block: 5080920 To 5081432, Step block: 512, Total transaction: 5766, Transaction ERC-721: 4
+2023-03-03 07:41:13,449,449 root INFO Block: 5081432 To 5081944, Step block: 512, Total transaction: 7181, Transaction ERC-721: 5
+Block: 5081432 To 5081944, Step block: 512, Total transaction: 7181, Transaction ERC-721: 5
+2023-03-03 07:41:23,252,252 root INFO Block: 5081944 To 5082456, Step block: 512, Total transaction: 6963, Transaction ERC-721: 2
+Block: 5081944 To 5082456, Step block: 512, Total transaction: 6963, Transaction ERC-721: 2
+2023-03-03 07:41:27,641,641 root INFO Block: 5082456 To 5082968, Step block: 512, Total transaction: 2438, Transaction ERC-721: 3
+Block: 5082456 To 5082968, Step block: 512, Total transaction: 2438, Transaction ERC-721: 3
+2023-03-03 07:41:32,029,29 root INFO Block: 5082968 To 5083992, Step block: 1024, Total transaction: 3727, Transaction ERC-721: 5
+Block: 5082968 To 5083992, Step block: 1024, Total transaction: 3727, Transaction ERC-721: 5
+2023-03-03 07:41:39,436,436 root INFO Block: 5083992 To 5086040, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 16
+Block: 5083992 To 5086040, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 16
+2023-03-03 07:41:42,828,828 root INFO Block: 5083992 To 5085016, Step block: 1024, Total transaction: 3971, Transaction ERC-721: 4
+Block: 5083992 To 5085016, Step block: 1024, Total transaction: 3971, Transaction ERC-721: 4
+2023-03-03 07:41:47,805,805 root INFO Block: 5085016 To 5087064, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 14
+Block: 5085016 To 5087064, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 14
+2023-03-03 07:41:52,484,484 root INFO Block: 5085016 To 5086040, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 14
+Block: 5085016 To 5086040, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 14
+2023-03-03 07:41:56,683,683 root INFO Block: 5085016 To 5085528, Step block: 512, Total transaction: 5180, Transaction ERC-721: 11
+Block: 5085016 To 5085528, Step block: 512, Total transaction: 5180, Transaction ERC-721: 11
+2023-03-03 07:42:04,557,557 root INFO Block: 5085528 To 5086040, Step block: 512, Total transaction: 5462, Transaction ERC-721: 3
+Block: 5085528 To 5086040, Step block: 512, Total transaction: 5462, Transaction ERC-721: 3
+2023-03-03 07:42:08,231,231 root INFO Block: 5086040 To 5086552, Step block: 512, Total transaction: 7442, Transaction ERC-721: 2
+Block: 5086040 To 5086552, Step block: 512, Total transaction: 7442, Transaction ERC-721: 2
+2023-03-03 07:42:12,185,185 root INFO Block: 5086552 To 5087064, Step block: 512, Total transaction: 9854, Transaction ERC-721: 2
+Block: 5086552 To 5087064, Step block: 512, Total transaction: 9854, Transaction ERC-721: 2
+2023-03-03 07:42:16,341,341 root INFO Block: 5087064 To 5087576, Step block: 512, Total transaction: 5577, Transaction ERC-721: 5
+Block: 5087064 To 5087576, Step block: 512, Total transaction: 5577, Transaction ERC-721: 5
+2023-03-03 07:42:19,271,271 root INFO Block: 5087576 To 5088088, Step block: 512, Total transaction: 1518, Transaction ERC-721: 2
+Block: 5087576 To 5088088, Step block: 512, Total transaction: 1518, Transaction ERC-721: 2
+2023-03-03 07:42:23,687,687 root INFO Block: 5088088 To 5089112, Step block: 1024, Total transaction: 2906, Transaction ERC-721: 6
+Block: 5088088 To 5089112, Step block: 1024, Total transaction: 2906, Transaction ERC-721: 6
+2023-03-03 07:42:36,408,408 root INFO Block: 5089112 To 5091160, Step block: 2048, Total transaction: 5231, Transaction ERC-721: 42
+Block: 5089112 To 5091160, Step block: 2048, Total transaction: 5231, Transaction ERC-721: 42
+2023-03-03 07:42:44,329,329 root INFO Block: 5091160 To 5093208, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 17
+Block: 5091160 To 5093208, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 17
+2023-03-03 07:42:49,167,167 root INFO Block: 5091160 To 5092184, Step block: 1024, Total transaction: 5784, Transaction ERC-721: 10
+Block: 5091160 To 5092184, Step block: 1024, Total transaction: 5784, Transaction ERC-721: 10
+2023-03-03 07:42:53,252,252 root INFO Block: 5092184 To 5093208, Step block: 1024, Total transaction: 8726, Transaction ERC-721: 8
+Block: 5092184 To 5093208, Step block: 1024, Total transaction: 8726, Transaction ERC-721: 8
+2023-03-03 07:43:00,020,20 root INFO Block: 5093208 To 5094232, Step block: 1024, Total transaction: 5246, Transaction ERC-721: 9
+Block: 5093208 To 5094232, Step block: 1024, Total transaction: 5246, Transaction ERC-721: 9
+2023-03-03 07:43:05,095,95 root INFO Block: 5094232 To 5095256, Step block: 1024, Total transaction: 6673, Transaction ERC-721: 4
+Block: 5094232 To 5095256, Step block: 1024, Total transaction: 6673, Transaction ERC-721: 4
+2023-03-03 07:43:10,365,365 root INFO Block: 5095256 To 5096280, Step block: 1024, Total transaction: 7031, Transaction ERC-721: 6
+Block: 5095256 To 5096280, Step block: 1024, Total transaction: 7031, Transaction ERC-721: 6
+2023-03-03 07:43:17,280,280 root INFO Block: 5096280 To 5097304, Step block: 1024, Total transaction: 8666, Transaction ERC-721: 13
+Block: 5096280 To 5097304, Step block: 1024, Total transaction: 8666, Transaction ERC-721: 13
+2023-03-03 07:43:22,954,954 root INFO Block: 5097304 To 5098328, Step block: 1024, Total transaction: 8989, Transaction ERC-721: 10
+Block: 5097304 To 5098328, Step block: 1024, Total transaction: 8989, Transaction ERC-721: 10
+2023-03-03 07:43:26,875,875 root INFO Block: 5098328 To 5099352, Step block: 1024, Total transaction: 8456, Transaction ERC-721: 2
+Block: 5098328 To 5099352, Step block: 1024, Total transaction: 8456, Transaction ERC-721: 2
+2023-03-03 07:43:29,003,3 root INFO Block: 5099352 To 5100376, Step block: 1024, Total transaction: 1842, Transaction ERC-721: 0
+Block: 5099352 To 5100376, Step block: 1024, Total transaction: 1842, Transaction ERC-721: 0
+2023-03-03 07:43:35,374,374 root INFO Block: 5100376 To 5102424, Step block: 2048, Total transaction: 7318, Transaction ERC-721: 11
+Block: 5100376 To 5102424, Step block: 2048, Total transaction: 7318, Transaction ERC-721: 11
+2023-03-03 07:43:43,005,5 root INFO Block: 5102424 To 5104472, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 14
+Block: 5102424 To 5104472, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 14
+2023-03-03 07:43:46,540,540 root INFO Block: 5102424 To 5103448, Step block: 1024, Total transaction: 3988, Transaction ERC-721: 8
+Block: 5102424 To 5103448, Step block: 1024, Total transaction: 3988, Transaction ERC-721: 8
+2023-03-03 07:43:51,879,879 root INFO Block: 5103448 To 5105496, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 7
+Block: 5103448 To 5105496, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 7
+2023-03-03 07:43:55,391,391 root INFO Block: 5103448 To 5104472, Step block: 1024, Total transaction: 6915, Transaction ERC-721: 6
+Block: 5103448 To 5104472, Step block: 1024, Total transaction: 6915, Transaction ERC-721: 6
+2023-03-03 07:43:59,347,347 root INFO Block: 5104472 To 5105496, Step block: 1024, Total transaction: 8440, Transaction ERC-721: 4
+Block: 5104472 To 5105496, Step block: 1024, Total transaction: 8440, Transaction ERC-721: 4
+2023-03-03 07:44:05,944,944 root INFO Block: 5105496 To 5106520, Step block: 1024, Total transaction: 7266, Transaction ERC-721: 10
+Block: 5105496 To 5106520, Step block: 1024, Total transaction: 7266, Transaction ERC-721: 10
+2023-03-03 07:44:20,004,4 root INFO Block: 5106520 To 5107544, Step block: 1024, Total transaction: 3946, Transaction ERC-721: 22
+Block: 5106520 To 5107544, Step block: 1024, Total transaction: 3946, Transaction ERC-721: 22
+2023-03-03 07:44:35,390,390 root INFO Block: 5107544 To 5109592, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 43
+Block: 5107544 To 5109592, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 43
+2023-03-03 07:45:05,146,146 root INFO Block: 5107544 To 5108568, Step block: 1024, Total transaction: 6613, Transaction ERC-721: 24
+Block: 5107544 To 5108568, Step block: 1024, Total transaction: 6613, Transaction ERC-721: 24
+2023-03-03 07:45:13,370,370 root INFO Block: 5108568 To 5109592, Step block: 1024, Total transaction: 5209, Transaction ERC-721: 24
+Block: 5108568 To 5109592, Step block: 1024, Total transaction: 5209, Transaction ERC-721: 24
+2023-03-03 07:45:34,690,690 root INFO Block: 5109592 To 5110616, Step block: 1024, Total transaction: 4653, Transaction ERC-721: 27
+Block: 5109592 To 5110616, Step block: 1024, Total transaction: 4653, Transaction ERC-721: 27
+2023-03-03 07:52:36,001,1 root INFO Block: 5110616 To 5111640, Step block: 1024, Total transaction: 5655, Transaction ERC-721: 40
+Block: 5110616 To 5111640, Step block: 1024, Total transaction: 5655, Transaction ERC-721: 40
+2023-03-03 07:54:52,934,934 root INFO Block: 5111640 To 5112664, Step block: 1024, Total transaction: 4348, Transaction ERC-721: 20
+Block: 5111640 To 5112664, Step block: 1024, Total transaction: 4348, Transaction ERC-721: 20
+2023-03-03 07:55:01,705,705 root INFO Block: 5112664 To 5113688, Step block: 1024, Total transaction: 4876, Transaction ERC-721: 14
+Block: 5112664 To 5113688, Step block: 1024, Total transaction: 4876, Transaction ERC-721: 14
+2023-03-03 07:55:17,700,700 root INFO Block: 5113688 To 5114712, Step block: 1024, Total transaction: 4450, Transaction ERC-721: 30
+Block: 5113688 To 5114712, Step block: 1024, Total transaction: 4450, Transaction ERC-721: 30
+2023-03-03 07:55:24,234,234 root INFO Block: 5114712 To 5115736, Step block: 1024, Total transaction: 3425, Transaction ERC-721: 15
+Block: 5114712 To 5115736, Step block: 1024, Total transaction: 3425, Transaction ERC-721: 15
+2023-03-03 07:55:36,679,679 root INFO Block: 5115736 To 5117784, Step block: 2048, Total transaction: 9838, Transaction ERC-721: 31
+Block: 5115736 To 5117784, Step block: 2048, Total transaction: 9838, Transaction ERC-721: 31
+2023-03-03 07:55:43,864,864 root INFO Block: 5117784 To 5119832, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 14
+Block: 5117784 To 5119832, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 14
+2023-03-03 07:55:48,722,722 root INFO Block: 5117784 To 5118808, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 14
+Block: 5117784 To 5118808, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 14
+2023-03-03 07:55:52,921,921 root INFO Block: 5117784 To 5118296, Step block: 512, Total transaction: 3762, Transaction ERC-721: 7
+Block: 5117784 To 5118296, Step block: 512, Total transaction: 3762, Transaction ERC-721: 7
+2023-03-03 07:55:57,529,529 root INFO Block: 5118296 To 5119320, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 9
+Block: 5118296 To 5119320, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 9
+2023-03-03 07:56:01,171,171 root INFO Block: 5118296 To 5118808, Step block: 512, Total transaction: 6281, Transaction ERC-721: 7
+Block: 5118296 To 5118808, Step block: 512, Total transaction: 6281, Transaction ERC-721: 7
+2023-03-03 07:56:05,476,476 root INFO Block: 5118808 To 5119320, Step block: 512, Total transaction: 10000, Transaction ERC-721: 5
+Block: 5118808 To 5119320, Step block: 512, Total transaction: 10000, Transaction ERC-721: 5
+2023-03-03 07:56:09,580,580 root INFO Block: 5118808 To 5119064, Step block: 256, Total transaction: 5532, Transaction ERC-721: 3
+Block: 5118808 To 5119064, Step block: 256, Total transaction: 5532, Transaction ERC-721: 3
+2023-03-03 07:56:12,572,572 root INFO Block: 5119064 To 5119320, Step block: 256, Total transaction: 5770, Transaction ERC-721: 2
+Block: 5119064 To 5119320, Step block: 256, Total transaction: 5770, Transaction ERC-721: 2
+2023-03-03 07:56:16,082,82 root INFO Block: 5119320 To 5119576, Step block: 256, Total transaction: 4674, Transaction ERC-721: 3
+Block: 5119320 To 5119576, Step block: 256, Total transaction: 4674, Transaction ERC-721: 3
+2023-03-03 07:56:21,290,290 root INFO Block: 5119576 To 5119832, Step block: 256, Total transaction: 3972, Transaction ERC-721: 8
+Block: 5119576 To 5119832, Step block: 256, Total transaction: 3972, Transaction ERC-721: 8
+2023-03-03 07:56:33,756,756 root INFO Block: 5119832 To 5120344, Step block: 512, Total transaction: 4858, Transaction ERC-721: 35
+Block: 5119832 To 5120344, Step block: 512, Total transaction: 4858, Transaction ERC-721: 35
+2023-03-03 07:56:38,464,464 root INFO Block: 5120344 To 5120856, Step block: 512, Total transaction: 3326, Transaction ERC-721: 7
+Block: 5120344 To 5120856, Step block: 512, Total transaction: 3326, Transaction ERC-721: 7
+2023-03-03 07:56:46,981,981 root INFO Block: 5120856 To 5121880, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 17
+Block: 5120856 To 5121880, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 17
+2023-03-03 07:56:52,132,132 root INFO Block: 5120856 To 5121368, Step block: 512, Total transaction: 3956, Transaction ERC-721: 6
+Block: 5120856 To 5121368, Step block: 512, Total transaction: 3956, Transaction ERC-721: 6
+2023-03-03 07:56:57,736,736 root INFO Block: 5121368 To 5122392, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 14
+Block: 5121368 To 5122392, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 14
+2023-03-03 07:57:01,946,946 root INFO Block: 5121368 To 5121880, Step block: 512, Total transaction: 6153, Transaction ERC-721: 11
+Block: 5121368 To 5121880, Step block: 512, Total transaction: 6153, Transaction ERC-721: 11
+2023-03-03 07:57:05,658,658 root INFO Block: 5121880 To 5122392, Step block: 512, Total transaction: 9048, Transaction ERC-721: 3
+Block: 5121880 To 5122392, Step block: 512, Total transaction: 9048, Transaction ERC-721: 3
+2023-03-03 07:57:08,886,886 root INFO Block: 5122392 To 5122904, Step block: 512, Total transaction: 8423, Transaction ERC-721: 0
+Block: 5122392 To 5122904, Step block: 512, Total transaction: 8423, Transaction ERC-721: 0
+2023-03-03 07:57:13,246,246 root INFO Block: 5122904 To 5123416, Step block: 512, Total transaction: 7902, Transaction ERC-721: 0
+Block: 5122904 To 5123416, Step block: 512, Total transaction: 7902, Transaction ERC-721: 0
+2023-03-03 07:57:17,092,92 root INFO Block: 5123416 To 5123928, Step block: 512, Total transaction: 6871, Transaction ERC-721: 1
+Block: 5123416 To 5123928, Step block: 512, Total transaction: 6871, Transaction ERC-721: 1
+2023-03-03 07:57:20,266,266 root INFO Block: 5123928 To 5124440, Step block: 512, Total transaction: 6813, Transaction ERC-721: 0
+Block: 5123928 To 5124440, Step block: 512, Total transaction: 6813, Transaction ERC-721: 0
+2023-03-03 07:57:23,285,285 root INFO Block: 5124440 To 5124952, Step block: 512, Total transaction: 9457, Transaction ERC-721: 0
+Block: 5124440 To 5124952, Step block: 512, Total transaction: 9457, Transaction ERC-721: 0
+2023-03-03 07:57:26,972,972 root INFO Block: 5124952 To 5125464, Step block: 512, Total transaction: 6250, Transaction ERC-721: 0
+Block: 5124952 To 5125464, Step block: 512, Total transaction: 6250, Transaction ERC-721: 0
+2023-03-03 07:57:30,801,801 root INFO Block: 5125464 To 5125976, Step block: 512, Total transaction: 4352, Transaction ERC-721: 1
+Block: 5125464 To 5125976, Step block: 512, Total transaction: 4352, Transaction ERC-721: 1
+2023-03-03 07:57:33,946,946 root INFO Block: 5125976 To 5126488, Step block: 512, Total transaction: 4339, Transaction ERC-721: 1
+Block: 5125976 To 5126488, Step block: 512, Total transaction: 4339, Transaction ERC-721: 1
+2023-03-03 07:58:00,340,340 root INFO Block: 5126488 To 5127000, Step block: 512, Total transaction: 3127, Transaction ERC-721: 94
+Block: 5126488 To 5127000, Step block: 512, Total transaction: 3127, Transaction ERC-721: 94
+2023-03-03 07:58:35,874,874 root INFO Block: 5127000 To 5128024, Step block: 1024, Total transaction: 6814, Transaction ERC-721: 126
+Block: 5127000 To 5128024, Step block: 1024, Total transaction: 6814, Transaction ERC-721: 126
+2023-03-03 07:58:50,335,335 root INFO Block: 5128024 To 5129048, Step block: 1024, Total transaction: 6652, Transaction ERC-721: 38
+Block: 5128024 To 5129048, Step block: 1024, Total transaction: 6652, Transaction ERC-721: 38
+2023-03-03 07:59:07,748,748 root INFO Block: 5129048 To 5130072, Step block: 1024, Total transaction: 7682, Transaction ERC-721: 54
+Block: 5129048 To 5130072, Step block: 1024, Total transaction: 7682, Transaction ERC-721: 54
+2023-03-03 07:59:24,276,276 root INFO Block: 5130072 To 5131096, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 49
+Block: 5130072 To 5131096, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 49
+2023-03-03 07:59:30,186,186 root INFO Block: 5130072 To 5130584, Step block: 512, Total transaction: 5046, Transaction ERC-721: 16
+Block: 5130072 To 5130584, Step block: 512, Total transaction: 5046, Transaction ERC-721: 16
+2023-03-03 07:59:37,411,411 root INFO Block: 5130584 To 5131096, Step block: 512, Total transaction: 5255, Transaction ERC-721: 34
+Block: 5130584 To 5131096, Step block: 512, Total transaction: 5255, Transaction ERC-721: 34
+2023-03-03 07:59:49,822,822 root INFO Block: 5131096 To 5131608, Step block: 512, Total transaction: 4578, Transaction ERC-721: 38
+Block: 5131096 To 5131608, Step block: 512, Total transaction: 4578, Transaction ERC-721: 38
+2023-03-03 08:00:00,413,413 root INFO Block: 5131608 To 5132120, Step block: 512, Total transaction: 2897, Transaction ERC-721: 32
+Block: 5131608 To 5132120, Step block: 512, Total transaction: 2897, Transaction ERC-721: 32
+2023-03-03 08:00:49,037,37 root INFO Block: 5132120 To 5133144, Step block: 1024, Total transaction: 5677, Transaction ERC-721: 177
+Block: 5132120 To 5133144, Step block: 1024, Total transaction: 5677, Transaction ERC-721: 177
+2023-03-03 08:01:08,230,230 root INFO Block: 5133144 To 5134168, Step block: 1024, Total transaction: 7779, Transaction ERC-721: 62
+Block: 5133144 To 5134168, Step block: 1024, Total transaction: 7779, Transaction ERC-721: 62
+2023-03-03 08:01:22,393,393 root INFO Block: 5134168 To 5135192, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 36
+Block: 5134168 To 5135192, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 36
+2023-03-03 08:01:29,039,39 root INFO Block: 5134168 To 5134680, Step block: 512, Total transaction: 5401, Transaction ERC-721: 27
+Block: 5134168 To 5134680, Step block: 512, Total transaction: 5401, Transaction ERC-721: 27
+2023-03-03 08:01:34,167,167 root INFO Block: 5134680 To 5135192, Step block: 512, Total transaction: 6204, Transaction ERC-721: 12
+Block: 5134680 To 5135192, Step block: 512, Total transaction: 6204, Transaction ERC-721: 12
+2023-03-03 08:01:38,499,499 root INFO Block: 5135192 To 5135704, Step block: 512, Total transaction: 4295, Transaction ERC-721: 3
+Block: 5135192 To 5135704, Step block: 512, Total transaction: 4295, Transaction ERC-721: 3
+2023-03-03 08:01:45,592,592 root INFO Block: 5135704 To 5136216, Step block: 512, Total transaction: 5187, Transaction ERC-721: 15
+Block: 5135704 To 5136216, Step block: 512, Total transaction: 5187, Transaction ERC-721: 15
+2023-03-03 08:01:52,430,430 root INFO Block: 5136216 To 5136728, Step block: 512, Total transaction: 5262, Transaction ERC-721: 14
+Block: 5136216 To 5136728, Step block: 512, Total transaction: 5262, Transaction ERC-721: 14
+2023-03-03 08:02:00,758,758 root INFO Block: 5136728 To 5137240, Step block: 512, Total transaction: 4795, Transaction ERC-721: 21
+Block: 5136728 To 5137240, Step block: 512, Total transaction: 4795, Transaction ERC-721: 21
+2023-03-03 08:02:08,945,945 root INFO Block: 5137240 To 5137752, Step block: 512, Total transaction: 2012, Transaction ERC-721: 22
+Block: 5137240 To 5137752, Step block: 512, Total transaction: 2012, Transaction ERC-721: 22
+2023-03-03 08:02:17,732,732 root INFO Block: 5137752 To 5138776, Step block: 1024, Total transaction: 5439, Transaction ERC-721: 23
+Block: 5137752 To 5138776, Step block: 1024, Total transaction: 5439, Transaction ERC-721: 23
+2023-03-03 08:02:35,166,166 root INFO Block: 5138776 To 5139800, Step block: 1024, Total transaction: 6011, Transaction ERC-721: 57
+Block: 5138776 To 5139800, Step block: 1024, Total transaction: 6011, Transaction ERC-721: 57
+2023-03-03 08:03:13,928,928 root INFO Block: 5139800 To 5140824, Step block: 1024, Total transaction: 6434, Transaction ERC-721: 141
+Block: 5139800 To 5140824, Step block: 1024, Total transaction: 6434, Transaction ERC-721: 141
+2023-03-03 08:03:53,899,899 root INFO Block: 5140824 To 5141848, Step block: 1024, Total transaction: 7350, Transaction ERC-721: 97
+Block: 5140824 To 5141848, Step block: 1024, Total transaction: 7350, Transaction ERC-721: 97
+2023-03-03 08:04:25,334,334 root INFO Block: 5141848 To 5142872, Step block: 1024, Total transaction: 6961, Transaction ERC-721: 102
+Block: 5141848 To 5142872, Step block: 1024, Total transaction: 6961, Transaction ERC-721: 102
+2023-03-03 08:06:08,843,843 root INFO Block: 5142872 To 5143896, Step block: 1024, Total transaction: 4326, Transaction ERC-721: 392
+Block: 5142872 To 5143896, Step block: 1024, Total transaction: 4326, Transaction ERC-721: 392
+2023-03-03 08:08:24,686,686 root INFO Block: 5143896 To 5144920, Step block: 1024, Total transaction: 3117, Transaction ERC-721: 516
+Block: 5143896 To 5144920, Step block: 1024, Total transaction: 3117, Transaction ERC-721: 516
+2023-03-03 08:16:04,562,562 root INFO Block: 5144920 To 5146968, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 1622
+Block: 5144920 To 5146968, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 1622
+2023-03-03 08:19:26,447,447 root INFO Block: 5144920 To 5145944, Step block: 1024, Total transaction: 7576, Transaction ERC-721: 1335
+Block: 5144920 To 5145944, Step block: 1024, Total transaction: 7576, Transaction ERC-721: 1335
+2023-03-03 08:21:11,024,24 root INFO Block: 5145944 To 5146968, Step block: 1024, Total transaction: 6282, Transaction ERC-721: 513
+Block: 5145944 To 5146968, Step block: 1024, Total transaction: 6282, Transaction ERC-721: 513
+2023-03-03 08:25:20,085,85 root INFO Block: 5146968 To 5147992, Step block: 1024, Total transaction: 5741, Transaction ERC-721: 878
+Block: 5146968 To 5147992, Step block: 1024, Total transaction: 5741, Transaction ERC-721: 878
+2023-03-03 08:27:05,907,907 root INFO Block: 5147992 To 5149016, Step block: 1024, Total transaction: 5560, Transaction ERC-721: 364
+Block: 5147992 To 5149016, Step block: 1024, Total transaction: 5560, Transaction ERC-721: 364
+2023-03-03 08:28:54,213,213 root INFO Block: 5149016 To 5150040, Step block: 1024, Total transaction: 5992, Transaction ERC-721: 344
+Block: 5149016 To 5150040, Step block: 1024, Total transaction: 5992, Transaction ERC-721: 344
+2023-03-03 08:33:56,044,44 root INFO Block: 5150040 To 5151064, Step block: 1024, Total transaction: 9294, Transaction ERC-721: 1096
+Block: 5150040 To 5151064, Step block: 1024, Total transaction: 9294, Transaction ERC-721: 1096
+2023-03-03 08:37:47,994,994 root INFO Block: 5151064 To 5152088, Step block: 1024, Total transaction: 9956, Transaction ERC-721: 688
+Block: 5151064 To 5152088, Step block: 1024, Total transaction: 9956, Transaction ERC-721: 688
+2023-03-03 08:41:01,082,82 root INFO Block: 5152088 To 5153112, Step block: 1024, Total transaction: 7169, Transaction ERC-721: 611
+Block: 5152088 To 5153112, Step block: 1024, Total transaction: 7169, Transaction ERC-721: 611
+2023-03-03 08:41:50,936,936 root INFO Block: 5153112 To 5154136, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 163
+Block: 5153112 To 5154136, Step block: 1024, Total transaction: 10000, Transaction ERC-721: 163
+2023-03-03 08:42:25,810,810 root INFO Block: 5153112 To 5153624, Step block: 512, Total transaction: 6079, Transaction ERC-721: 163
+Block: 5153112 To 5153624, Step block: 512, Total transaction: 6079, Transaction ERC-721: 163
+2023-03-03 08:42:29,186,186 root INFO Block: 5153624 To 5154136, Step block: 512, Total transaction: 5603, Transaction ERC-721: 0
+Block: 5153624 To 5154136, Step block: 512, Total transaction: 5603, Transaction ERC-721: 0
+2023-03-03 08:42:35,870,870 root INFO Block: 5154136 To 5154648, Step block: 512, Total transaction: 5485, Transaction ERC-721: 8
+Block: 5154136 To 5154648, Step block: 512, Total transaction: 5485, Transaction ERC-721: 8
+2023-03-03 08:42:41,717,717 root INFO Block: 5154648 To 5155160, Step block: 512, Total transaction: 5887, Transaction ERC-721: 6
+Block: 5154648 To 5155160, Step block: 512, Total transaction: 5887, Transaction ERC-721: 6
+2023-03-03 08:44:10,418,418 root INFO Block: 5155160 To 5155672, Step block: 512, Total transaction: 3410, Transaction ERC-721: 295
+Block: 5155160 To 5155672, Step block: 512, Total transaction: 3410, Transaction ERC-721: 295
+2023-03-03 08:47:45,317,317 root INFO Block: 5155672 To 5156696, Step block: 1024, Total transaction: 8591, Transaction ERC-721: 627
+Block: 5155672 To 5156696, Step block: 1024, Total transaction: 8591, Transaction ERC-721: 627
+2023-03-03 08:52:20,487,487 root INFO Block: 5156696 To 5157720, Step block: 1024, Total transaction: 8458, Transaction ERC-721: 706
+Block: 5156696 To 5157720, Step block: 1024, Total transaction: 8458, Transaction ERC-721: 706
+2023-03-03 08:55:32,128,128 root INFO Block: 5157720 To 5158744, Step block: 1024, Total transaction: 5452, Transaction ERC-721: 479
+Block: 5157720 To 5158744, Step block: 1024, Total transaction: 5452, Transaction ERC-721: 479
+2023-03-03 08:56:47,986,986 root INFO Block: 5158744 To 5159768, Step block: 1024, Total transaction: 4898, Transaction ERC-721: 184
+Block: 5158744 To 5159768, Step block: 1024, Total transaction: 4898, Transaction ERC-721: 184
+2023-03-03 08:59:58,163,163 root INFO Block: 5159768 To 5160792, Step block: 1024, Total transaction: 5758, Transaction ERC-721: 470
+Block: 5159768 To 5160792, Step block: 1024, Total transaction: 5758, Transaction ERC-721: 470
+2023-03-03 09:03:58,720,720 root INFO Block: 5160792 To 5161816, Step block: 1024, Total transaction: 4165, Transaction ERC-721: 593
+Block: 5160792 To 5161816, Step block: 1024, Total transaction: 4165, Transaction ERC-721: 593
+2023-03-03 09:09:33,036,36 root INFO Block: 5161816 To 5162840, Step block: 1024, Total transaction: 5523, Transaction ERC-721: 779
+Block: 5161816 To 5162840, Step block: 1024, Total transaction: 5523, Transaction ERC-721: 779
