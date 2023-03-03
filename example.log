@@ -1,0 +1,394 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1&toBlock=2&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1&toBlock=2&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2&toBlock=4&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2&toBlock=4&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=4&toBlock=8&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=4&toBlock=8&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=8&toBlock=16&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=8&toBlock=16&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=16&toBlock=32&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=16&toBlock=32&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=32&toBlock=64&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=32&toBlock=64&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1&toBlock=2&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1&toBlock=2&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2&toBlock=4&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2&toBlock=4&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=4&toBlock=8&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=4&toBlock=8&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=8&toBlock=16&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=8&toBlock=16&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=16&toBlock=32&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=16&toBlock=32&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=32&toBlock=64&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=32&toBlock=64&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=64&toBlock=128&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=64&toBlock=128&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 64 To 128, Step block: 64, Total transaction: 0, Transaction ERC-721: 0
+Block: 64 To 128, Step block: 64, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=128&toBlock=256&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=128&toBlock=256&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 128 To 256, Step block: 128, Total transaction: 0, Transaction ERC-721: 0
+Block: 128 To 256, Step block: 128, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=256&toBlock=512&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=256&toBlock=512&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 256 To 512, Step block: 256, Total transaction: 0, Transaction ERC-721: 0
+Block: 256 To 512, Step block: 256, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=512&toBlock=1024&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=512&toBlock=1024&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 512 To 1024, Step block: 512, Total transaction: 0, Transaction ERC-721: 0
+Block: 512 To 1024, Step block: 512, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1024&toBlock=2048&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1024&toBlock=2048&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 1024 To 2048, Step block: 1024, Total transaction: 0, Transaction ERC-721: 0
+Block: 1024 To 2048, Step block: 1024, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2048&toBlock=4096&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2048&toBlock=4096&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 2048 To 4096, Step block: 2048, Total transaction: 0, Transaction ERC-721: 0
+Block: 2048 To 4096, Step block: 2048, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=4096&toBlock=8192&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=4096&toBlock=8192&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 4096 To 8192, Step block: 4096, Total transaction: 0, Transaction ERC-721: 0
+Block: 4096 To 8192, Step block: 4096, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=8192&toBlock=16384&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=8192&toBlock=16384&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 8192 To 16384, Step block: 8192, Total transaction: 0, Transaction ERC-721: 0
+Block: 8192 To 16384, Step block: 8192, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=16384&toBlock=32768&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=16384&toBlock=32768&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 16384 To 32768, Step block: 16384, Total transaction: 0, Transaction ERC-721: 0
+Block: 16384 To 32768, Step block: 16384, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=32768&toBlock=65536&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=32768&toBlock=65536&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 32768 To 65536, Step block: 32768, Total transaction: 0, Transaction ERC-721: 0
+Block: 32768 To 65536, Step block: 32768, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=65536&toBlock=131072&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=65536&toBlock=131072&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 65536 To 131072, Step block: 65536, Total transaction: 0, Transaction ERC-721: 0
+Block: 65536 To 131072, Step block: 65536, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=131072&toBlock=262144&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=131072&toBlock=262144&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 131072 To 262144, Step block: 131072, Total transaction: 0, Transaction ERC-721: 0
+Block: 131072 To 262144, Step block: 131072, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=262144&toBlock=524288&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=262144&toBlock=524288&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 169
+INFO:root:Block: 262144 To 524288, Step block: 262144, Total transaction: 0, Transaction ERC-721: 0
+Block: 262144 To 524288, Step block: 262144, Total transaction: 0, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=524288&toBlock=1048576&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 2827
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=524288&toBlock=1048576&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 2827
+INFO:root:Block: 524288 To 1048576, Step block: 524288, Total transaction: 12, Transaction ERC-721: 0
+Block: 524288 To 1048576, Step block: 524288, Total transaction: 12, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1048576&toBlock=2097152&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=1048576&toBlock=2097152&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 1048576 To 2097152, Step block: 1048576, Total transaction: 413, Transaction ERC-721: 0
+Block: 1048576 To 2097152, Step block: 1048576, Total transaction: 413, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2097152&toBlock=4194304&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2097152&toBlock=4194304&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 2097152 To 4194304, Step block: 2097152, Total transaction: 10000, Transaction ERC-721: 2
+Block: 2097152 To 4194304, Step block: 2097152, Total transaction: 10000, Transaction ERC-721: 2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2097152&toBlock=3145728&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=2097152&toBlock=3145728&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 2097152 To 3145728, Step block: 1048576, Total transaction: 5236, Transaction ERC-721: 2
+Block: 2097152 To 3145728, Step block: 1048576, Total transaction: 5236, Transaction ERC-721: 2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3145728&toBlock=4194304&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3145728&toBlock=4194304&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3145728 To 4194304, Step block: 1048576, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3145728 To 4194304, Step block: 1048576, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3145728&toBlock=3670016&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3145728&toBlock=3670016&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3145728 To 3670016, Step block: 524288, Total transaction: 8297, Transaction ERC-721: 0
+Block: 3145728 To 3670016, Step block: 524288, Total transaction: 8297, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3670016&toBlock=4194304&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3670016&toBlock=4194304&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3670016 To 4194304, Step block: 524288, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3670016 To 4194304, Step block: 524288, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3670016&toBlock=3932160&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3670016&toBlock=3932160&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3670016 To 3932160, Step block: 262144, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3670016 To 3932160, Step block: 262144, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3670016&toBlock=3801088&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3670016&toBlock=3801088&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3670016 To 3801088, Step block: 131072, Total transaction: 8196, Transaction ERC-721: 0
+Block: 3670016 To 3801088, Step block: 131072, Total transaction: 8196, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3801088&toBlock=3932160&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3801088&toBlock=3932160&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3801088 To 3932160, Step block: 131072, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3801088 To 3932160, Step block: 131072, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3801088&toBlock=3866624&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3801088&toBlock=3866624&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3801088 To 3866624, Step block: 65536, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3801088 To 3866624, Step block: 65536, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3801088&toBlock=3833856&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3801088&toBlock=3833856&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3801088 To 3833856, Step block: 32768, Total transaction: 4141, Transaction ERC-721: 0
+Block: 3801088 To 3833856, Step block: 32768, Total transaction: 4141, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3833856&toBlock=3866624&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3833856&toBlock=3866624&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3833856 To 3866624, Step block: 32768, Total transaction: 5886, Transaction ERC-721: 0
+Block: 3833856 To 3866624, Step block: 32768, Total transaction: 5886, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3866624&toBlock=3899392&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3866624&toBlock=3899392&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3866624 To 3899392, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3866624 To 3899392, Step block: 32768, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3866624&toBlock=3883008&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3866624&toBlock=3883008&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3866624 To 3883008, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3866624 To 3883008, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3866624&toBlock=3874816&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3866624&toBlock=3874816&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3866624 To 3874816, Step block: 8192, Total transaction: 1433, Transaction ERC-721: 0
+Block: 3866624 To 3874816, Step block: 8192, Total transaction: 1433, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3874816&toBlock=3891200&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3874816&toBlock=3891200&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3874816 To 3891200, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3874816 To 3891200, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3874816&toBlock=3883008&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3874816&toBlock=3883008&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3874816 To 3883008, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3874816 To 3883008, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3874816&toBlock=3878912&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3874816&toBlock=3878912&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3874816 To 3878912, Step block: 4096, Total transaction: 5819, Transaction ERC-721: 0
+Block: 3874816 To 3878912, Step block: 4096, Total transaction: 5819, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3878912&toBlock=3883008&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3878912&toBlock=3883008&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3878912 To 3883008, Step block: 4096, Total transaction: 5813, Transaction ERC-721: 0
+Block: 3878912 To 3883008, Step block: 4096, Total transaction: 5813, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3883008&toBlock=3887104&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3883008&toBlock=3887104&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3883008 To 3887104, Step block: 4096, Total transaction: 2060, Transaction ERC-721: 0
+Block: 3883008 To 3887104, Step block: 4096, Total transaction: 2060, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3887104&toBlock=3895296&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3887104&toBlock=3895296&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3887104 To 3895296, Step block: 8192, Total transaction: 3506, Transaction ERC-721: 0
+Block: 3887104 To 3895296, Step block: 8192, Total transaction: 3506, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3895296&toBlock=3911680&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3895296&toBlock=3911680&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3895296 To 3911680, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3895296 To 3911680, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3895296&toBlock=3903488&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3895296&toBlock=3903488&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3895296 To 3903488, Step block: 8192, Total transaction: 876, Transaction ERC-721: 0
+Block: 3895296 To 3903488, Step block: 8192, Total transaction: 876, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3919872&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3919872&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3903488 To 3919872, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3903488 To 3919872, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3911680&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3911680&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3903488 To 3911680, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3903488 To 3911680, Step block: 8192, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3907584&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3907584&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3903488 To 3907584, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3903488 To 3907584, Step block: 4096, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3905536&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3903488&toBlock=3905536&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3903488 To 3905536, Step block: 2048, Total transaction: 9227, Transaction ERC-721: 0
+Block: 3903488 To 3905536, Step block: 2048, Total transaction: 9227, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3905536&toBlock=3907584&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3905536&toBlock=3907584&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3905536 To 3907584, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3905536 To 3907584, Step block: 2048, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3905536&toBlock=3906560&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3905536&toBlock=3906560&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3905536 To 3906560, Step block: 1024, Total transaction: 9067, Transaction ERC-721: 0
+Block: 3905536 To 3906560, Step block: 1024, Total transaction: 9067, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3906560&toBlock=3907584&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3906560&toBlock=3907584&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3906560 To 3907584, Step block: 1024, Total transaction: 8693, Transaction ERC-721: 0
+Block: 3906560 To 3907584, Step block: 1024, Total transaction: 8693, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3907584&toBlock=3908608&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3907584&toBlock=3908608&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3907584 To 3908608, Step block: 1024, Total transaction: 1815, Transaction ERC-721: 0
+Block: 3907584 To 3908608, Step block: 1024, Total transaction: 1815, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3908608&toBlock=3910656&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 29065
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3908608&toBlock=3910656&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 29065
+INFO:root:Block: 3908608 To 3910656, Step block: 2048, Total transaction: 214, Transaction ERC-721: 0
+Block: 3908608 To 3910656, Step block: 2048, Total transaction: 214, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3910656&toBlock=3914752&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3910656&toBlock=3914752&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3910656 To 3914752, Step block: 4096, Total transaction: 2292, Transaction ERC-721: 0
+Block: 3910656 To 3914752, Step block: 4096, Total transaction: 2292, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3914752&toBlock=3922944&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3914752&toBlock=3922944&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3914752 To 3922944, Step block: 8192, Total transaction: 1574, Transaction ERC-721: 0
+Block: 3914752 To 3922944, Step block: 8192, Total transaction: 1574, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3922944&toBlock=3939328&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3922944&toBlock=3939328&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3922944 To 3939328, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3922944 To 3939328, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3922944&toBlock=3931136&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3922944&toBlock=3931136&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3922944 To 3931136, Step block: 8192, Total transaction: 837, Transaction ERC-721: 0
+Block: 3922944 To 3931136, Step block: 8192, Total transaction: 837, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3931136&toBlock=3947520&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3931136&toBlock=3947520&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3931136 To 3947520, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+Block: 3931136 To 3947520, Step block: 16384, Total transaction: 10000, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3931136&toBlock=3939328&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3931136&toBlock=3939328&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3931136 To 3939328, Step block: 8192, Total transaction: 9348, Transaction ERC-721: 0
+Block: 3931136 To 3939328, Step block: 8192, Total transaction: 9348, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
+DEBUG:urllib3.connectionpool:https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3939328&toBlock=3947520&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+https://api.etherscan.io:443 "GET /api?module=logs&action=getLogs&fromBlock=3939328&toBlock=3947520&topic0=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef&topic0_1_opr=and&topic1=0x0000000000000000000000000000000000000000000000000000000000000000&page=1&offset=10000&apikey=JXD99FRVCF2VDVA1IK5T2EIMPUKN7MHGGZ HTTP/1.1" 200 None
+INFO:root:Block: 3939328 To 3947520, Step block: 8192, Total transaction: 5253, Transaction ERC-721: 0
+Block: 3939328 To 3947520, Step block: 8192, Total transaction: 5253, Transaction ERC-721: 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.etherscan.io:443
+Starting new HTTPS connection (1): api.etherscan.io:443
