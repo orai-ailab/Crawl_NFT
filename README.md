@@ -2,7 +2,7 @@
 Get "Internal Transactions" by Block Range
 Returns the list of internal transactions performed within a block range, with optional pagination.
 Note : This API endpoint returns a maximum of 10000 records only.
-```
+````
 https://api.bscscan.com/api
    ?module=account
    &action=txlistinternal
@@ -11,14 +11,16 @@ https://api.bscscan.com/api
    &page=1
    &offset=10
    &sort=asc
-   &apikey=YourApiKeyToken```
+   &apikey=YourApiKeyToken
+````
 
 
 # Crawl_NFT on ETHERSCAN
 # Get "Internal Transactions" by Block Range
 # Returns the list of internal transactions performed within a block range, with optional pagination.
 ​​  Note : This API endpoint returns a maximum of 10000 records only.
-```https://api.etherscan.io/api
+````
+https://api.etherscan.io/api
    ?module=account
    &action=txlistinternal
    &startblock=13481773
@@ -26,14 +28,16 @@ https://api.bscscan.com/api
    &page=1
    &offset=10
    &sort=asc
-   &apikey=YourApiKeyToken```
+   &apikey=YourApiKeyToken
+````
 
 
 
 
 #Get Event Logs by Topics
 #Returns the events log in a block range, filtered by topics. 
-```https://api.etherscan.io/api
+````
+https://api.etherscan.io/api
    ?module=logs
    &action=getLogs
    &fromBlock=12878196
@@ -43,7 +47,8 @@ https://api.bscscan.com/api
    &topic1=0x0000000000000000000000000000000000000000000000000000000000000000
    &page=1
    &offset=1000
-   &apikey=YourApiKeyToken```
+   &apikey=YourApiKeyToken
+````
 Usage:
 For a single topic, specify the topic number such as topic0, topic1, topic2, topic3
 For multiple topics, specify the topic numbers and topic operator either and or or such as below
