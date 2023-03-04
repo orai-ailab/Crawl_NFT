@@ -12,12 +12,19 @@ block_number = 1890000
 url = f"https://api.bscscan.com/api?module=proxy&action=eth_getBlockByNumber&tag={block_number}&boolean=true&apikey={API_KEY_BSCSCAN}"
 response = requests.get(url)
 
+# hex nft 
+HEX_NFT = ['0xa9059cbb','0x23b872dd','0x42966c68','0xd73dd623']
 # Xử lý dữ liệu JSON trả về từ BscScan để lấy thông tin về các giao dịch
-if response.status_code == 200:
-    data = response.json()
-    result = data["result"]
-    transactions = result["transactions"]
-    for tx in transactions:
-        print(tx)
-else:
-    print("Lỗi khi lấy dữ liệu từ BscScan")
+
+for i in range(block_number,block_number+1000000):
+    if response.status_code == 200:
+        data = response.json()
+        result = data["result"]
+        transactions = result["transactions"]
+        for tx in transactions:
+            print(tx['input'])
+            if tx['input'] in HEX_NFT:
+                print(tx)
+
+    else:
+        print("Lỗi khi lấy dữ liệu từ BscScan")
