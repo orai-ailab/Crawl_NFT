@@ -10,7 +10,7 @@ import certifi
 import threading
 
 # Cấu hình logging cho ứng dụng của bạn
-logging.basicConfig(filename='info.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
+logging.basicConfig(filename='info1.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
 
 
@@ -28,8 +28,8 @@ def add_database(data):
 
 
 def main():
-    start_block = 1
-    step_block = 1
+    start_block = 13269769
+    step_block = 256
     total_transaction = 0
     total_transaction_erc_721 = 0
     while True:
