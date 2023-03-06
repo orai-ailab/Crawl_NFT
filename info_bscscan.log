@@ -1,0 +1,20 @@
+2023-03-05 17:10:30,449,449 root INFO Block: 1 To 2, Step block: 1, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:31,628,628 root INFO Block: 2 To 4, Step block: 2, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:32,819,819 root INFO Block: 4 To 8, Step block: 4, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:34,668,668 root INFO Block: 8 To 16, Step block: 8, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:36,202,202 root INFO Block: 16 To 32, Step block: 16, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:38,969,969 root INFO Block: 32 To 64, Step block: 32, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:41,284,284 root INFO Block: 64 To 128, Step block: 64, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:10:58,633,633 root INFO Block: 128 To 256, Step block: 128, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:00,698,698 root INFO Block: 256 To 512, Step block: 256, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:02,326,326 root INFO Block: 512 To 1024, Step block: 512, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:03,855,855 root INFO Block: 1024 To 2048, Step block: 1024, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:05,084,84 root INFO Block: 2048 To 4096, Step block: 2048, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:06,928,928 root INFO Block: 4096 To 8192, Step block: 4096, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:09,688,688 root INFO Block: 8192 To 16384, Step block: 8192, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:11,737,737 root INFO Block: 16384 To 32768, Step block: 16384, Total transaction: 0, Transaction ERC-721: 0
+2023-03-05 17:11:14,299,299 root INFO Block: 32768 To 65536, Step block: 32768, Total transaction: 1, Transaction ERC-721: 0, Crawled Transaction: 1, Crawled Transaction ERC 721: 0
+2023-03-05 17:11:14,299,299 root INFO Block: 65536 To 131072, Step block: 65536, Total transaction: 1, Transaction ERC-721: 0, Crawled Transaction: 2, Crawled Transaction ERC 721: 0
+2023-03-05 17:11:16,007,7 root INFO Block: 131072 To 196608, Step block: 65536, Total transaction: 9, Transaction ERC-721: 0, Crawled Transaction: 11, Crawled Transaction ERC 721: 0
+2023-03-05 17:11:16,007,7 root INFO Block: 196608 To 327680, Step block: 131072, Total transaction: 9, Transaction ERC-721: 0, Crawled Transaction: 20, Crawled Transaction ERC 721: 0
+2023-03-05 17:11:32,580,580 root INFO Block: 327680 To 458752, Step block: 131072, Total transaction: 8234, Transaction ERC-721: 0, Crawled Transaction: 8254, Crawled Transaction ERC 721: 0

@@ -5,10 +5,8 @@ import time
 import requests
 import json
 import logging
-import pymongo
-import certifi
 import threading
-
+import ultis
 # Cấu hình logging cho ứng dụng của bạn
 logging.basicConfig(filename='info1.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
@@ -16,12 +14,16 @@ logging.basicConfig(filename='info1.log', level=logging.INFO,format='%(asctime)s
 
 API_KEY_ETHERSCAN = os.getenv('API_KEY_ETHERSCAN')
 
-client = pymongo.MongoClient("mongodb+srv://hoangks5:YrfvDz4Mt8xrrHxi@cluster0.tcbxc.mongodb.net/",tlsCAFile=certifi.where())
-database = client['nft']
-collection = database['etherscan']
+
 
 def add_database(data):
-    collection.insert_many(list(data))
+    for transaction in data:
+        x = threading.Thread(target=ultis.getMetadata,args={transaction['address'],int(transaction['topics'][3],16),
+                          transaction['transactionHash'],int(transaction['blockNumber'],16),
+                          'ethereum'})
+        x.start()
+        
+    
 
 
 
@@ -72,6 +74,7 @@ def main():
                 start_block = start_block + step_block
                 step_block *= 2
                # add databse
+                add_database(transaction_ERC_721)
                 
 
             if len(transaction_number) == 10000:
@@ -88,6 +91,8 @@ def main():
                 logging.info('Block: '+str(start_block)+' To '+str(start_block+step_block) + ', Step block: '+str(step_block)+ ', Total transaction: '+str(len(transaction_number))+', Transaction ERC-721: '+str(len(transaction_ERC_721))+', Crawled Transaction: '+str(total_transaction)+', Crawled Transaction ERC 721: '+str(total_transaction_erc_721))
                 start_block += step_block
                # add database
+                add_database(transaction_ERC_721)
+
                 
                 
             
