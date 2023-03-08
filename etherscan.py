@@ -7,6 +7,7 @@ import json
 import logging
 import threading
 import ultis
+import concurrent.futures
 # Cấu hình logging cho ứng dụng của bạn
 logging.basicConfig(filename='info1.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
@@ -17,11 +18,13 @@ API_KEY_ETHERSCAN = os.getenv('API_KEY_ETHERSCAN')
 
 
 def add_database(data):
-    for transaction in data:
-        x = threading.Thread(target=ultis.getMetadata,args={transaction['address'],int(transaction['topics'][3],16),
-                          transaction['transactionHash'],int(transaction['blockNumber'],16),
-                          'ethereum'})
-        x.start()
+    
+
+    max_thread_worker = 10
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_thread_worker) as executor:
+        # Sử dụng phương thức map() để thực thi hàm worker trên từng phần tử của workers
+        results = executor.map(ultis.getMetadata,data)
         
     
 
