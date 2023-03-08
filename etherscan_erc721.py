@@ -9,18 +9,17 @@ import threading
 import ultis
 import concurrent.futures
 # Cấu hình logging cho ứng dụng của bạn
-logging.basicConfig(filename='info1.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
+logging.basicConfig(filename='log/etherscan_erc721.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
 
 
 API_KEY_ETHERSCAN = os.getenv('API_KEY_ETHERSCAN')
 
 
-
 def add_database(data):
     
 
-    max_thread_worker = 10
+    max_thread_worker = 1000
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_thread_worker) as executor:
         # Sử dụng phương thức map() để thực thi hàm worker trên từng phần tử của workers

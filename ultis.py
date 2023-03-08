@@ -4,10 +4,14 @@ import certifi
 client = pymongo.MongoClient("mongodb+srv://hoangks5:YrfvDz4Mt8xrrHxi@cluster0.tcbxc.mongodb.net/",tlsCAFile=certifi.where())
 database = client['nft']
 collection = database['etherscan']
+from fake_useragent import UserAgent
+
+# Tạo đối tượng UserAgent
+ua = UserAgent()
 
 def getMetadata(transaction):
     url = 'https://api.opensea.io/asset/'+transaction['address']+'/'+str(int(transaction['topics'][3],16))+'?format=json'
-    res = requests.get(url)
+    res = requests.get(url,headers={'User-Agent': ua.random})
     if res.status_code == 200:
         result = res.json()
         asset = {
