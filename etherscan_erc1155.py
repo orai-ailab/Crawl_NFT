@@ -104,8 +104,9 @@ def main():
                 start_block = start_block + step_block
                 step_block *= 2
                # add databse
-                x = threading.Thread(target=add_database(transaction_ERC_1155))
-                x.start()
+                if transaction_ERC_1155 != []:
+                    x = threading.Thread(target=add_database(transaction_ERC_1155))
+                    x.start()
                 
                 
 
@@ -123,8 +124,9 @@ def main():
                 logging.info('Block: '+str(start_block)+' To '+str(start_block+step_block) + ', Step block: '+str(step_block)+ ', Total transaction: '+str(len(transaction_number))+', Transaction ERC-1155: '+str(len(transaction_ERC_1155))+', Crawled Transaction: '+str(total_transaction)+', Crawled Transaction ERC 1155: '+str(total_transaction_erc_1155))
                 start_block += step_block
                # add database
-                x = threading.Thread(target=add_database(transaction_ERC_1155))
-                x.start()
+                if transaction_ERC_1155 != []:
+                    x = threading.Thread(target=add_database(transaction_ERC_1155))
+                    x.start()
 
             
 
