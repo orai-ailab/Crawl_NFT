@@ -5,18 +5,53 @@ import time
 import requests
 import json
 import logging
-import certifi
+from google.cloud import bigquery
+from google.oauth2 import service_account
+import json
 import threading
-import pymongo
+
+# Khai báo đường dẫn đến file JSON key để xác thực
+key_path = "key.json"
+
+# Khởi tạo một Credentials object để xác thực cho BigQuery API
+credentials = service_account.Credentials.from_service_account_file(key_path)
+
+# Khởi tạo một kết nối đến BigQuery
+client = bigquery.Client(credentials=credentials)
 
 # Cấu hình logging cho ứng dụng của bạn
-logging.basicConfig(filename='info_bscscan.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
+logging.basicConfig(filename='log/bscscan_erc721.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
 
 
 API_KEY_BSCSCAN = os.getenv('API_KEY_BSCSCAN')
 
+def extract_json_data(data_json):
+    new_data_json = []
+    for i in data_json:
+        convert_frame = {
+                'address': i['address'],
+                'token_id': str(int(i['topics'][3],base=16)),
+                'blockNumber' : str(int(i['blockNumber'],base=16)),
+                'blockHash' : i['blockHash'],
+                'timeStamp' : str(int(i['timeStamp'],base=16)),
+                'transactionHash' : i['transactionHash']
+                            }
+        new_data_json.append(convert_frame)
+    return new_data_json
 
+
+def add_database(data_json):
+    # Tên của bảng và dataset để lưu trữ dữ liệu
+    table_id = "agile-axe-380803.transaction_mint.bsc721"
+    # Chèn dữ liệu vào bảng
+    table = client.get_table(table_id)
+    errors = client.insert_rows(table, extract_json_data(data_json))
+    if errors:
+        print(errors)
+        return add_database(data_json)
+    else:
+        print("Success insert.")
 
 
 
@@ -25,7 +60,7 @@ API_KEY_BSCSCAN = os.getenv('API_KEY_BSCSCAN')
 
 
 def main():
-    start_block = 1
+    start_block = 0
     step_block = 1
     total_transaction = 0
     total_transaction_erc_721 = 0
@@ -63,12 +98,15 @@ def main():
                     if len(obj['topics']) != 4:
                         continue
                     transaction_ERC_721.append(obj)
-                   
                 total_transaction += len(transaction_number)
                 total_transaction_erc_721 += len(transaction_ERC_721)
                 logging.info('Block: '+str(start_block)+' To '+str(start_block+step_block) + ', Step block: '+str(step_block)+ ', Total transaction: '+str(len(transaction_number))+', Transaction ERC-721: '+str(len(transaction_ERC_721))+', Crawled Transaction: '+str(total_transaction)+', Crawled Transaction ERC 721: '+str(total_transaction_erc_721))
                 start_block = start_block + step_block
                 step_block *= 2
+               # add databse
+                if transaction_ERC_721 != []:
+                    x = threading.Thread(target=add_database(transaction_ERC_721))
+                    x.start()
                 
                 
 
@@ -81,12 +119,15 @@ def main():
                     if len(obj['topics']) != 4:
                         continue
                     transaction_ERC_721.append(obj)
-                  
                 total_transaction += len(transaction_number)
                 total_transaction_erc_721 += len(transaction_ERC_721)
                 logging.info('Block: '+str(start_block)+' To '+str(start_block+step_block) + ', Step block: '+str(step_block)+ ', Total transaction: '+str(len(transaction_number))+', Transaction ERC-721: '+str(len(transaction_ERC_721))+', Crawled Transaction: '+str(total_transaction)+', Crawled Transaction ERC 721: '+str(total_transaction_erc_721))
                 start_block += step_block
-                
+               # add database
+                if transaction_ERC_721 != []:
+                    x = threading.Thread(target=add_database(transaction_ERC_721))
+                    x.start()
+
                 
                 
             
