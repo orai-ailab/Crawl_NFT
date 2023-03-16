@@ -20,11 +20,11 @@ credentials = service_account.Credentials.from_service_account_file(key_path)
 client = bigquery.Client(credentials=credentials)
 
 # Cấu hình logging cho ứng dụng của bạn
-logging.basicConfig(filename='log/etherscan_erc721.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
+logging.basicConfig(filename='log/polygonscan_erc721.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
 
 
-API_KEY_ETHERSCAN = os.getenv('API_KEY_ETHERSCAN')
+API_KEY_POLYGONSCAN = os.getenv('API_KEY_POLYGONSCAN')
 
 def extract_json_data(data_json):
     new_data_json = []
@@ -43,7 +43,7 @@ def extract_json_data(data_json):
 
 def add_database(data_json):
     # Tên của bảng và dataset để lưu trữ dữ liệu
-    table_id = "agile-axe-380803.transaction_mint.eth721"
+    table_id = "agile-axe-380803.transaction_mint.polygon721"
     # Chèn dữ liệu vào bảng
     table = client.get_table(table_id)
     errors = client.insert_rows(table, extract_json_data(data_json))
@@ -60,12 +60,12 @@ def add_database(data_json):
 
 
 def main():
-    start_block = 9506633
-    step_block = 2048
-    total_transaction = 32072388
-    total_transaction_erc_721 = 16007465
+    start_block = 0
+    step_block = 1
+    total_transaction = 0
+    total_transaction_erc_721 = 0
     while True:
-        urlAPI = 'https://api.etherscan.io/api'
+        urlAPI = 'https://api.polygonscan.com/api'
         params = {
                         "module" : "logs",
                         "action" : "getLogs",
@@ -76,7 +76,7 @@ def main():
                         "topic1" : "0x0000000000000000000000000000000000000000000000000000000000000000",
                         "page" : 1,
                         "offset" : 10000,
-                        "apikey" : API_KEY_ETHERSCAN
+                        "apikey" : API_KEY_POLYGONSCAN
                 }
         result = requests.get(url=urlAPI,params=params).json()
 
