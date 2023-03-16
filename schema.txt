@@ -1,0 +1,6 @@
+address:STRING,
+token_id:STRING,
+blockNumber:STRING,
+blockHash:STRING,
+timeStamp:STRING,
+transactionHash:STRING

@@ -5,9 +5,20 @@ import time
 import requests
 import json
 import logging
+from google.cloud import bigquery
+from google.oauth2 import service_account
+import json
 import threading
-import ultis
-import concurrent.futures
+
+# Khai báo đường dẫn đến file JSON key để xác thực
+key_path = "key.json"
+
+# Khởi tạo một Credentials object để xác thực cho BigQuery API
+credentials = service_account.Credentials.from_service_account_file(key_path)
+
+# Khởi tạo một kết nối đến BigQuery
+client = bigquery.Client(credentials=credentials)
+
 # Cấu hình logging cho ứng dụng của bạn
 logging.basicConfig(filename='log/etherscan_erc1155.log', level=logging.INFO,format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s')
 
@@ -15,25 +26,42 @@ logging.basicConfig(filename='log/etherscan_erc1155.log', level=logging.INFO,for
 
 API_KEY_ETHERSCAN = os.getenv('API_KEY_ETHERSCAN')
 
+def extract_json_data(data_json):
+    new_data_json = []
+    for i in data_json:
+        convert_frame = {
+                'address': i['address'],
+                'token_id': str(int(i['topics'][3],base=16)),
+                'blockNumber' : str(int(i['blockNumber'],base=16)),
+                'blockHash' : i['blockHash'],
+                'timeStamp' : str(int(i['timeStamp'],base=16)),
+                'transactionHash' : i['transactionHash']
+                            }
+        new_data_json.append(convert_frame)
+    return new_data_json
 
-def add_database(data):
-    
 
-    max_thread_worker = 100
+def add_database(data_json):
+    # Tên của bảng và dataset để lưu trữ dữ liệu
+    table_id = "agile-axe-380803.transaction_mint.eth1155"
+    # Chèn dữ liệu vào bảng
+    table = client.get_table(table_id)
+    errors = client.insert_rows(table, extract_json_data(data_json))
+    if errors:
+        print(errors)
+        return add_database(data_json)
+    else:
+        print("Success insert.")
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max_thread_worker) as executor:
-        # Sử dụng phương thức map() để thực thi hàm worker trên từng phần tử của workers
-        results = executor.map(ultis.getMetadata,data)
-        
-    
+
 
 
 
 
 
 def main():
-    start_block = 13269769
-    step_block = 256
+    start_block = 0
+    step_block = 1
     total_transaction = 0
     total_transaction_erc_1155 = 0
     while True:
@@ -76,7 +104,9 @@ def main():
                 start_block = start_block + step_block
                 step_block *= 2
                # add databse
-                add_database(transaction_ERC_1155)
+                x = threading.Thread(target=add_database(transaction_ERC_1155))
+                x.start()
+                
                 
 
             if len(transaction_number) == 10000:
@@ -93,11 +123,8 @@ def main():
                 logging.info('Block: '+str(start_block)+' To '+str(start_block+step_block) + ', Step block: '+str(step_block)+ ', Total transaction: '+str(len(transaction_number))+', Transaction ERC-1155: '+str(len(transaction_ERC_1155))+', Crawled Transaction: '+str(total_transaction)+', Crawled Transaction ERC 1155: '+str(total_transaction_erc_1155))
                 start_block += step_block
                # add database
-                add_database(transaction_ERC_1155)
-
-                
-                
-            
+                x = threading.Thread(target=add_database(transaction_ERC_1155))
+                x.start()
 
             
 
