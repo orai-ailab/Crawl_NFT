@@ -60,10 +60,10 @@ def add_database(data_json):
 
 
 def main():
-    start_block = 0
-    step_block = 1
-    total_transaction = 0
-    total_transaction_erc_721 = 0
+    start_block = 7064319
+    step_block = 128
+    total_transaction = 84385301
+    total_transaction_erc_721 = 3218932
     while True:
         urlAPI = 'https://api.bscscan.com/api'
         params = {
@@ -79,7 +79,7 @@ def main():
                         "apikey" : API_KEY_BSCSCAN
                 }
         result = requests.get(url=urlAPI,params=params).json()
-
+        
 
         if result['status'] == '0':
             transaction_number = []
