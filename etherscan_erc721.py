@@ -60,10 +60,10 @@ def add_database(data_json):
 
 
 def main():
-    start_block = 14837618
-    step_block = 1
-    total_transaction = 92929860
-    total_transaction_erc_721 = 53375045
+    start_block = 16434530
+    step_block = 256
+    total_transaction = 129487716
+    total_transaction_erc_721 = 86023695
     while True:
         urlAPI = 'https://api.etherscan.io/api'
         params = {
@@ -112,7 +112,14 @@ def main():
 
             if len(transaction_number) == 10000:
                 if step_block == 1:
-                    logging.warning('Block: '+str(start_block)+' To '+str(start_block+step_block) + ', Step block: '+str(step_block)+ ', Total transaction: '+str(len(transaction_number))+', Transaction ERC-721: '+str(len(transaction_ERC_721))+', Crawled Transaction: '+str(total_transaction)+', Crawled Transaction ERC 721: '+str(total_transaction_erc_721))
+                    transaction_ERC_721 = []
+                    for obj in result['result']:
+                        if len(obj['topics']) != 4:
+                            continue
+                        transaction_ERC_721.append(obj)
+                    total_transaction += len(transaction_number)
+                    total_transaction_erc_721 += len(transaction_ERC_721)
+                    logging.warning('Block: '+str(start_block))
                     if transaction_ERC_721 != []:
                         x = threading.Thread(target=add_database(transaction_ERC_721))
                         x.start()

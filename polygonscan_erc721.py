@@ -60,10 +60,10 @@ def add_database(data_json):
 
 
 def main():
-    start_block = 0
-    step_block = 1
-    total_transaction = 0
-    total_transaction_erc_721 = 0
+    start_block = 35667885
+    step_block = 128
+    total_transaction = 542661260
+    total_transaction_erc_721 = 301977866
     while True:
         urlAPI = 'https://api.polygonscan.com/api'
         params = {
@@ -111,8 +111,22 @@ def main():
                 
 
             if len(transaction_number) == 10000:
-                step_block = int(step_block/2)
-                
+                if step_block == 1:
+                    transaction_ERC_721 = []
+                    for obj in result['result']:
+                        if len(obj['topics']) != 4:
+                            continue
+                        transaction_ERC_721.append(obj)
+                    total_transaction += len(transaction_number)
+                    total_transaction_erc_721 += len(transaction_ERC_721)
+                    logging.warning('Block: '+str(start_block))
+                    if transaction_ERC_721 != []:
+                        x = threading.Thread(target=add_database(transaction_ERC_721))
+                        x.start()
+                    start_block += 1
+                else:
+                    step_block = int(step_block/2)
+            
             else:
                 transaction_ERC_721 = []
                 for obj in result['result']:

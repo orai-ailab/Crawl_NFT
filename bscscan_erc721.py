@@ -60,10 +60,10 @@ def add_database(data_json):
 
 
 def main():
-    start_block = 7064319
-    step_block = 128
-    total_transaction = 84385301
-    total_transaction_erc_721 = 3218932
+    start_block = 14282187
+    step_block = 256
+    total_transaction = 370169245
+    total_transaction_erc_721 = 77231886
     while True:
         urlAPI = 'https://api.bscscan.com/api'
         params = {
